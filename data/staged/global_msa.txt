@@ -1,0 +1,1255 @@
+Page 1:
+GL@BAL:
+
+DATA SYSTEMS
+
+MASTER SERVICE AGREEMENT
+
+This Master Service Agreement is entered into effective as of the day of , 20. , by and between
+(CUSTOMER), (designate corporate/partnership/sole proprietor status and domicile) hereinafter referred to as
+“CUSTOMER’ with an office address of , and, Global Data Systems, Inc a Louisiana Corporation referred to and defined
+
+throughout this Contract as “GDS,” with an office address of 310 Laser Lane, Lafayette, Louisiana 70507. CUSTOMER and
+GDS may be referred to individually as “Party” or collectively as “Parties.” CUSTOMER and GDS agree that:
+
+WITNESSETH
+
+WHEREAS, GDS is engaged in, among other things, the business of providing satellite, telephone, data circuit, communication,
+network and other, installation, rental, managed and consulting services as well as renting, selling and providing equipment
+and products;
+
+WHEREAS, CUSTOMER desires to hire GDS to provide certain Services and/or obtain Products from GDS;
+
+NOW, THEREFORE, in consideration of the mutual promises set forth below, the Parties hereby agree to the terms and
+conditions as follows:
+
+AGREEMENT
+
+1 EXPRESS TERMS: This Contract (as defined below in Section 1.2) contemplates that CUSTOMER may from time to
+time request that GDS perform or provide work or services (“Services”) or provide equipment, goods or materials
+(‘Products’) on a non-exclusive basis under the terms written hereunder which shall determine the rights of the
+Parties regardless of contrary terms in any rate schedules or other documents which may relate, directly or indirectly,
+to GDS's performance under this Contract as hereinafter defined.
+
+1 This Contract shall control and govern all Services performed and to be performed, and all Products furnished
+or to be furnished, by GDS through CUSTOMER’s acceptance of GDS quotations or statements of work
+(hereinafter collectively or separately referred to as “Quote’). CUSTOMER may accept Quotes by use of purchase
+orders, services orders, or similar orders, whether oral, written or electronic. Such a Quote may include terms
+pertaining to quantity, price, time, location, description, commencement and completion of Services, or
+specific requirements with respect to Products, personnel, items to be furnished, compensation and other
+terms. However, this Contract does not obligate CUSTOMER to order or authorize such Services or Products,
+nor does it obligate GDS to accept or agree to the same.
+
+12 The term “Contract” as used herein shall include this Master Service Agreement and all Exhibits attached
+hereto, any Quote issued by GDS and accepted by CUSTOMER in accordance with Section 1.5 below, and any
+instructions, requisitions or other documents issued by GDS to CUSTOMER (“GDS Document’). In the event
+that any provisions of a Quote, or other GDS Document, conflicts with this Master Service Agreement, then this
+Master Service Agreement shall prevail. In the event that any provisions of aGDS Document conflicts with a
+Quote, then the Quote shall prevail.
+
+13. The provisions set forth in this Contract shall constitute the complete and exclusive statement of the terms of
+the agreement between GDS and CUSTOMER with respect to the subject matter of this Contract. Any
+additional or different terms proposed by CUSTOMER in any memorandum, writing, order, acknowledgement,
+or other document are hereby deemed to be material alterations to this Contract, and GDS hereby gives notice
+of objection to such proposed terms, which terms shall be void and of no effect.
+
+14 This Contract may be amended only in writing, such amendment having been signed by an authorized
+representative of each Party or as set forth in Paragraph 1.5 hereof.
+
+15 CUSTOMER agrees that GDS may deliver to CUSTOMER any Quote for Services and/or Products by hand
+delivery, by the U.S. mail, or by email, fax or any other electronic method. CUSTOMER shall be bound by and
+deemed to have accepted all terms and conditions of the Quote (1) as of the time CUSTOMER signs the Quote,
+or (2) whether or not CUSTOMER signs the Quote, as soon as CUSTOMER requests and GDS commences the
+performance of the Services or the provision of the Products pursuant thereto, whichever occurs first.
+
+
+Page 2:
+16 The term “GDS GROUP” as used throughout this Contract, means GDS, its affiliates, successors, assigns, and its
+and their partners, joint venturers and joint owners, and each of its and their contractors and subcontractors
+and invitees (other than any member of CUSTOMER GROUP), and all their respective directors, officers,
+consultants, agents, servants, employees and insurers (But only to the extent such insurers provide insurance
+coverage for the liabilities of any of the foregoing).
+
+1.7. The term “CUSTOMER GROUP" as used throughout this Contract, means CUSTOMER, its affiliates, successors,
+assigns, and its and their partners, joint venturers and joint owners, and each of its and their contractors,
+subcontractors, other contractors and invitees, all their respective directors, officers, agents, servants, employees
+and insurers (But only to the extent such insurers provide insurance coverage for the liabilities of any of the
+foregoing).
+
+18 The term “AFFILIATE” as used throughout this Contract, means an entity which controls, or is controlled by, or
+which is controlled by an entity which controls, a party hereto. The term “CONTROL,” as used in this definition,
+means the ownership directly or indirectly of more than 50 percent of the voting rights in an entity.
+
+2 CONDITIONS FOR SERVICES AND PRODUCTS:
+
+21 GDS may, at its sole discretion, add, delete or modify the portfolio of Services made available to CUSTOMER
+under the Contract.
+
+22 INSTALLATION AND MAINTENANCE OF SERVICES AND PRODUCTS
+
+221 GDS and CUSTOMER will agree on a mutually convenient date for provision of the Services and Products
+("Due Date"). In the event the Due Date is delayed, GDS and CUSTOMER will agree upon a new Due Date.
+In no event will GDS be liable for failure to meet the Due Date when such failure is due to an act or omission
+by CUSTOMER. CUSTOMER will reimburse GDS for all out-of-pocket expenses incurred by GDS in relation
+to a failure to meet the Due Date caused by CUSTOMER. CUSTOMER's sole remedy for a failure by GDS to
+either provide Services or Products by the Due Date or to provide Services during the contracted term for
+such Services, will be for the CUSTOMER to request an Outage Credit, as defined in Article 6.
+
+222 Unless stated on the Quote, installation services will be provided by GDS or its subcontractors, on a time
+and materials basis at GDS's then current rates for labor.
+
+223 As required by the Quote, GDS will provide maintenance services in relation to the Services or Products.
+On-site maintenance will be made available on a time and materials basis at GDS's then current rates for
+labor, or at the rates set forth in the applicable Quote. CUSTOMER agrees to comply with all reasonable
+instructions that GDS may give, from time to time, and to provide all necessary assistance to GDS in
+diagnosing any Service or Product problems.
+
+224 Where required by law or regulations or at the request of GDS, CUSTOMER will install, maintain and/or pay
+reasonable expenses incurred by GDS to provide special facilities and protective apparatus at locations
+involving high voltage power and/or hazardous materials.
+
+23 Conditions for specific Services and Products are contained in Exhibit A.
+3 FLOOR SPACE, CONDUIT ACCESS, AND ELECTRICAL POWER:
+
+3.1 CUSTOMER shall provide at its own expense to GDS the proper environment, lightning protection, crane (if
+necessary), space, electrical power, and telecommunications connections, equipment space, supporting
+structures, lighting, inside wiring, and unimpeded access to and egress from its premises required to install,
+operate, repair, maintain, inspect, re-provision, disconnect and remove any Product or to provide any Services.
+These provisions must be made available to GDS in sufficient time to permit the installation, maintenance or
+disconnection of any Product in accordance with the Due Date.
+
+32 At the sole discretion of GDS, obligations assumed by GDS to perform installation, maintenance or
+disconnection shall be relieved in their entirety or amended, if CUSTOMER fails to provide the necessary access
+and equipment.
+
+4 USE OF CUSTOMER EQUIPMENT:
+41 _ Title to all equipment and facilities that GDS uses to provide the Services will remain with GDS.
+
+42 If CUSTOMER connects its own equipment to GDS's network, CUSTOMER must ensure that such equipment is
+compatible with and does not harm, impair or interfere with the technical integrity of the Services, GDS's
+network or its Suppliers network(s), or any other Services of other customers of GDS.
+
+43 CUSTOMER is responsible for the compatibility of its equipment with the network and failure to do so will
+constitute breach by CUSTOMER of this Contract.
+
+44 CUSTOMER shall provide and pay for all Product and Services required to connect CUSTOMER-provided
+equipment to the Services.
+
+Global Data Systems - MSA v2020.1.0 Page 2of17 Initial
+
+
+Page 3:
+45
+
+Notwithstanding the foregoing, CUSTOMER may, subject to GDS's consent, appoint GDS as its agent for
+purposes of procuring related telecommunications services, in particular, local exchange, backhaul,
+interexchange, or bypass carrier facilities ("Facilities") to terminate CUSTOMER's calls to CUSTOMER's designated
+location. CUSTOMER will be responsible for payment for all such Facilities. CUSTOMER shall be liable and
+responsible for all actions and obligations incurred on its behalf by GDS in its capacity as CUSTOMER's agent
+pursuant to this Article, and shall accept and pay GDS for all flow-through costs associated with such Facilities
+(or the termination of such services), including without limitation, all installation fees and monthly recurring
+fees, plus any applicable taxes. CUSTOMER acknowledges and agrees that GDS will have no liability or
+responsibility for any Facilities. Any service level parameters and related warranties, pricing, surcharges, outage
+credits, required commitments, termination liability and other terms relating to the Facilities are those of the
+third-party provider or carrier of such Facilities, and not GDS.
+
+5 STAND-BY TIME:
+
+51
+
+52,
+
+53
+
+Notwithstanding anything to the contrary in this Contract, and regardless of whether related to any warranty,
+under all circumstances CUSTOMER shall bear the cost of: (a) all offshore and overseas transportation expenses
+related to the provision of Services or Products, and (b) all Stand-By time incurred by GDS or its contractor
+personnel that is caused by or attributed to CUSTOMER, including without limitation, where caused by delays
+to or untimely cancellation of service calls.
+
+For the purposes of this Article, Stand-By time includes the amount of hours, or portion thereof, incurred by
+GDS or its contractor personnel while waiting for (i) transport to and from an offshore location; or (ii) access to
+the CUSTOMER's premises if required hereunder.
+
+Stand-by time will be charged at GDS's then current rates for labor.
+
+6 OUTAGE CREDITS:
+
+61
+
+62
+
+63
+
+64
+
+65
+
+An Outage for fixed satellite services is defined as a complete loss of the ability to originate or receive voice or
+data communications causing the service availability to fall below 99.5% in any twelve (12) month period.
+
+Subject to Clause 6.3 below and unless otherwise stated in a Quote, a pro rata credit allowance ("Outage Credit")
+will be given to CUSTOMER for the total Outage period(s) during any given consecutive twelve (12) month
+period, not including the period permitted under the service availability commitment (eg. for a service
+availability commitment of 99.5% in any given twelve (12) month period, Outages totaling 0.5% would not be
+subject to an Outage Credit).
+
+For telephone and data circuit services, GDS will pass through to the CUSTOMER the service availability that it
+receives from its suppliers, if any. In the event of failure or degradation of a telephone or data circuit services
+service, GDS will pass through and credit CUSTOMER's account with a rebate equal to the rebate that CDS
+receives from its suppliers, if any.
+
+An Outage Credit, if any, will be applied against the charges payable to GDS and will be expressly indicated on
+the final invoice to CUSTOMER of the calendar year in which Outage Credit applies, for the period of the Outage,
+or prorated portion thereof, after written request to GDS.
+
+No other liability may in any event attach to GDS on account of interruption or failure to provide Services. All
+Outage Credit(s) will be treated as liquidated damages and not as penalties. Outage Credit(s) do not apply to
+Outages, (i) caused by Force Majeure, (ii) caused by the negligence of CUSTOMER or others authorized by
+CUSTOMER when using Services or Products, (iii) caused by power failures or similar occurrences, such as
+perforation activity, not provided by or attributable to GDS, (iv) occurring during periods when CUSTOMER has
+elected not to allow for testing or repair, (v) caused by rain fade, solar outages or flares, extreme weather, or
+damage to satellites, or (vi) caused by the failure of equipment or facilities not provided by GDS.
+
+7 SOFTWARE LICENSE:
+
+71
+
+72
+
+Global Data Systems - MSA v2020.1.0 Page 3of17 Initial
+
+If applicable, upon installation of Services or Products, GDS grants to CUSTOMER a fully paid, non-exclusive,
+non- sub-licensable and non-transferable license and/or sublicense to use the software provided with the Services
+or Products, including any third-party software (the "Software’), for as long as CUSTOMER is entitled to use the
+Services or Products. CUSTOMER may use the Software only in machine-readable, object code form. Third party
+software may be subject to additional terms and conditions described in the applicable third-party software user
+documentation, and to the extent that those terms conflict with the terms of this Contract, the third-party terms
+will control. CUSTOMER may use the Software only for internal business purposes and only in connection with
+the Services or Products. CUSTOMER may not assign, transfer, pledge, rent, share, copy or sublicense any of the
+Software. CUSTOMER further agrees not to reverse engineer, decompile or otherwise attempt to discover the
+source code of the Software.
+
+If the CUSTOMER using the Services, Products or Software is the U.S. Government, then the following restrictions
+apply:
+
+7.21 The Software provided is software developed at private expense and is not in the public domain.
+
+
+Page 4:
+10
+
+Global Data Systems - MSA v2020.1.0 Page4of17__ Initial
+
+722 The Software is provided to non-Department of Defense government agencies with RESTRICTED RIGHTS and
+its supporting documentation is provided with LIMITED RIGHTS. Use, duplication, or disclosure by the
+Government is subject to the restrictions as set forth in subparagraph "C" of the Commercial Computer
+Software - Restricted Rights clause at FAR 52.227-19.
+
+723 Inthe event the Software is provided to a Department of Defense government agency, the Government's
+rights in the Software, supporting documentation, and technical data are governed by the restrictions in
+the Technical Data Commercial Items clauses at DFARS 252.227-7015 and DFARS 227.7202.
+
+INTELLECTUAL PROPERTY: Other than as specifically set forth in Article 7 above, no licenses or any rights of any kind
+under any patent, copyright and rights to create derivative works, trademark, trade secret, service mark, mask works
+or other form of intellectual property (collectively "Intellectual Property Rights") are granted by either Party or are to
+be implied by this Contract or arisen by estoppel.
+
+WARRANTIES: EXCEPT AS SPECIFICALLY PROVIDED HEREIN, ALL WARRANTIES AND CONDITIONS, WHETHER
+EXPRESS OR IMPLIED, WRITTEN OR ORAL, ARISING BY STATUTE OR OTHERWISE, IN RESPECT TO THE SERVICES AND
+PRODUCTS OR THE GDS FACILITIES, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, NON-
+INFRINGEMENT, MERCHANTABILITY, DURABILITY OR FITNESS FOR A PARTICULAR PURPOSE ARE HEREBY
+DISCLAIMED.
+
+INDEMNITY AND LIMITATION OF LIABILITY:
+
+10.1 CUSTOMER’S INSURANCE OBLIGATIONS AND INDEMNITY OBLIGATIONS UNDER THIS CONTRACT ARE
+SEPARATE AND DIVISIBLE AND NOT DEPENDENT ON OR MODIFIED BY THE OTHER.
+
+10.2 EXCEPT FOR OUTAGE CREDITS AS SET FORTH IN ARTICLE 6, NEITHER GDS GROUP NOR ANY OF ITS SUPPLIERS
+AND THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, REPRESENTATIVES, INSURERS, SUBSIDIARIES
+AND AFFILIATED (INCLUDING PARENT) COMPANIES, AND THEIR EMPLOYEES, REPRESENTATIVES, OFFICERS
+AND DIRECTORS, WILL BE LIABLE ON ANY BASIS WHATSOEVER FOR ANY INDIRECT, INCIDENTAL,
+CONSEQUENTIAL, RELIANCE, SPECIAL, PUNITIVE OR EXEMPLARY DAMAGES (INCLUDING BUT NOT LIMITED
+TO LOSS OF REVENUE OR PROFIT, LOSS ARISING FROM OR ATTRIBUTABLE TO FAILURE TO REALIZE
+ANTICIPATED SAVINGS, OR LOSS OF PRODUCTION, EQUIPMENT OR DATA) EVEN IF A PARTY KNEW OR HAS
+BEEN ADVISED OF THE POSSIBILITY OR LIKELIHOOD OF SUCH DAMAGES, IN CONNECTION WITH THE
+PROVISION OR FAILURE TO PROVIDE THE SERVICES OR PRODUCTS, FOR ANY REASON WHATSOEVER AND
+HOWSOEVER ARISING, INCLUDING GDS'S LIABILITY IN CONTRACT, TORT OR OTHERWISE, INCLUDING ANY
+LIABILITY FOR NEGLIGENCE, HOWSOEVER ARISING OUT OF OR IN CONNECTION WITH THE PERFORMANCE
+OF GDS'S OBLIGATIONS UNDER THIS AGREEMENT...
+
+10.3 GDS WILL PROTECT, DEFEND, INDEMNIFY AND HOLD HARMLESS CUSTOMER GROUP FROM AND AGAINST
+ALL CLAIMS, DEMANDS, CAUSES OF ACTIONS, LOSSES, EXPENSES (INCLUDING REASONABLE ATTORNEYS'
+FEES), AND DAMAGES OF ANY NATURE OR KIND INCURRED OR SUSTAINED BY ANY MEMBER OF GDS GROUP,
+OR THE AGENTS, EMPLOYEES, REPRESENTATIVES (INCLUDING THE SPOUSES OR RELATIVES OF ANY SUCH
+AGENTS, EMPLOYEES OR REPRESENTATIVES) OF GDS GROUP, DUE TO PERSONAL INJURY OR DEATH, OR
+DAMAGE, LOSS OR DESTRUCTION OF PROPERTY (EXCLUDING ANY PRODUCTS RENTED OR SOLD TO
+CUSTOMER BY GDS), WHETHER IN TORT, IN CONTRACT, OR OTHERWISE, ARISING OUT OF OR RELATED TO OR
+IN CONNECTION WITH THE SUBJECT MATTER OF THIS CONTRACT OR WITH THE SERVICES OR PRODUCTS,
+INCLUDING INGRESS, EGRESS, LOADING AND UNLOADING OF CARGO OR PERSONNEL, EVEN IF CAUSED BY
+THE SOLE, JOINT OR CONCURRENT NEGLIGENCE, FAULT, OMISSIONS, STRICT LIABILITY, DEFECT IN PREMISES
+(PRE-EXISTING OR OTHERWISE) ATTRIBUTABLE TO CUSTOMER GROUP. THE FOREGOING INDEMNITY WILL
+NOT APPLY TO PERSONAL INJURY OR DEATH, OR DAMAGE, LOSS OR DESTRUCTION OF PROPERTY CAUSED BY
+THE GROSS NEGLIGENCE OR WILFUL MISCONDUCT OF CUSTOMER GROUP.
+
+10.4 CUSTOMER WILL PROTECT, DEFEND, INDEMNIFY AND HOLD HARMLESS GDS GROUP FROM AND AGAINST
+ALL CLAIMS, DEMANDS, CAUSES OF ACTIONS, LOSSES, EXPENSES (INCLUDING REASONABLE ATTORNEYS'
+FEES), AND DAMAGES OF ANY NATURE OR KIND INCURRED OR SUSTAINED BY ANY MEMBER OF CUSTOMER
+GROUP, OR THE AGENTS, EMPLOYEES, REPRESENTATIVES (INCLUDING THE SPOUSES OR RELATIVES OF ANY
+SUCH AGENTS, EMPLOYEES OR REPRESENTATIVES) OF CUSTOMER GROUP, DUE TO PERSONAL INJURY OR
+DEATH, OR DAMAGE, LOSS OR DESTRUCTION OF PROPERTY, WHETHER IN TORT, IN CONTRACT, OR
+OTHERWISE, ARISING OUT OF OR RELATED TO OR IN CONNECTION WITH THE SUBJECT MATTER OF THIS
+CONTRACT OR WITH THE SERVICES OR PRODUCTS, INCLUDING INGRESS, EGRESS, LOADING AND UNLOADING
+OF CARGO OR PERSONNEL, EVEN IF CAUSED BY THE SOLE, JOINT OR CONCURRENT NEGLIGENCE, FAULT,
+OMISSIONS, STRICT LIABILITY, DEFECT IN PREMISES (PRE-EXISTING OR OTHERWISE) ATTRIBUTABLE TO GDS
+GROUP. THE FOREGOING INDEMNITY WILL NOT APPLY TO PERSONAL INJURY OR DEATH, OR DAMAGE, LOSS
+OR DESTRUCTION OF PROPERTY CAUSED BY THE GROSS NEGLIGENCE OR WILFUL MISCONDUCT OF GDS
+GROUP.
+
+10.5 EXCEPT AS OTHERWISE PROVIDED IN THIS ARTICLE, GDS AND CUSTOMER WILL PROTECT, DEFEND,
+INDEMNIFY AND HOLD HARMLESS EACH OTHER FROM ALL THIRD-PARTY CLAIMS, DEMANDS, CAUSES OF
+ACTION, LOSSES AND EXPENSES (INCLUDING ATTORNEYS' FEES) OF EVERY TYPE AND CHARACTER FOR
+PERSONAL INJURY, DEATH OR LOSS OF OR DAMAGE TO PROPERTY, INCLUDING DAMAGE TO THE
+ENVIRONMENT, RESULTING FROM THE INDEMNITOR'S NEGLIGENCE OR WILLFUL MISCONDUCT. WHERE
+
+
+Page 5:
+1
+
+12
+
+Global Data Systems - MSA v2020.1.0 Page 5of17__ Initial
+
+10.6
+
+10.7
+
+10.8
+
+10.9
+
+SUCH THIRD PARTY'S PERSONAL INJURY, DEATH OR LOSS OF OR DAMAGE TO PROPERTY RESULTS FROM THE
+JOINT NEGLIGENCE OR WILLFUL MISCONDUCT OF THE PARTIES, THE INDEMNITOR'S DUTY OF
+INDEMNIFICATION WILL BE IN PROPORTION TO ITS ALLOCABLE SHARE OF JOINT NEGLIGENCE OR
+WILLFUL MISCONDUCT. IF EITHER PARTY IS HELD STRICTLY LIABLE UNDER ANY APPLICABLE LAW, THE
+OTHER PARTY'S DUTY OF INDEMNIFICATION WILL BE IN THE SAME PROPORTION THAT ITS NEGLIGENCE OR
+WILLFUL MISCONDUCT CONTRIBUTED TO THE THIRD PARTY'S PERSONAL INJURY, DEATH OR LOSS OF OR
+DAMAGE TO PROPERTY. FOR THE AVOIDANCE OF DOUBT, WHERE GDS IS THE INDEMNITOR, THE INDEMNITEE
+IS CUSTOMER GROUP, AND WHERE CUSTOMER IS THE INDEMNITOR, THE INDEMNITEE IS GDS GROUP.
+
+CUSTOMER AGREES TO INDEMNIFY AND DEFEND AND HOLD HARMLESS GDS AND ITS AFFILIATES,
+DIRECTORS, OFFICERS, AGENTS, EMPLOYEES, ASSIGNS AND SUPPLIERS FROM AND AGAINST ANY AND ALL
+LIABILITY, CLAIMS, ACTIONS, LOSSES, DAMAGES (INCLUDING DAMAGE TO PROPERTY AND PERSONAL
+INJURY) AND EXPENSES (INCLUDING ATTORNEYS' FEES) ARISING OUT OF OR RELATING TO
+
+10.6.1 CUSTOMER'S USE OR MISUSE OF THE SERVICES AND/OR PRODUCTS, AND/OR
+
+10.6.2 CUSTOMER'S BREACH OF THESE TERMS AND CONDITIONS, EXCEPT TO THE EXTENT SUCH CLAIMS ARE
+BASED UPON THE GROSS NEGLIGENCE OR WILFUL MISCONDUCT OF GDS, AND/OR
+
+10.6.3 ANY CLAIMS OR ACTIONS FOR LIBEL, DEFAMATION, SLANDER, INVASION OF PRIVACY, PATENT,
+COPYRIGHT OR TRADEMARK INFRINGEMENT, OR THE VIOLATION OF ANY THIRD-PARTY
+INTELLECTUAL PROPERTY RIGHTS, ARISING IN CONNECTION WITH THE USE OR MISUSE OF THE
+SERVICES AND/OR PRODUCTS, AND/OR
+
+10.6.4 ANY CLAIM OR ACTION FOR PATENT INFRINGEMENT RESULTING FROM CUSTOMER'S USE (OR USE BY
+ANY OF ITS AFFILIATES, OR USE OF BY ANY OF ITS AFFILIATES, AGENTS, SUBCONTRACTORS,
+EMPLOYEES, ASSIGNS OR OTHERWISE) OF THE SERVICES AND/OR PRODUCTS IN COMBINATION WITH
+THE EQUIPMENT, HARDWARE, SOFTWARE, SYSTEMS, CABLING, FACILITIES OR SERVICES NOT
+PROVIDED HEREUNDER BY GDS.
+
+EXCEPT FOR ANY INDEMNITY OBLIGATIONS OR A BREACH THEREOF, THE TOTAL, AGGREGATE LIABILITY
+OF GDS TO CUSTOMER FOR ANY AND ALL CLAIMS WHATSOEVER RELATED TO THE SERVICES AND/OR PRODUCTS OR
+THESE TERMS AND CONDITIONS FOR DAMAGES TO CUSTOMER (OR ANY AFFILIATE OF CUSTOMER) FOR ANY CLAIMS
+WHATSOEVER, REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR
+OTHERWISE, HOWSOEVER ARISING SHALL BE LIMITED TO DAMAGES ACTUALLY PROVEN AS DIRECTLY
+ATTRIBUTABLE TO GDS, AND FURTHER LIMITED TO AN AMOUNT EQUAL TO THE LAST THREE (3) MONTHS OF
+PAYMENTS MADE BY CUSTOMER TO GDS UNDER THESE TERMS AND CONDITIONS PRECEDING THE DATE OF ANY CLAIM
+MADE AGAINST GDS.
+
+NOTWITHSTANDING ANY OTHER PROVISION IN THIS SECTION OR IN ANY OTHER PROVISION IN THIS
+CONTRACT, UNDER NO CIRCUMSTANCES WILL AN INDEMNITOR BE LIABLE OR RESPONSIBLE FOR THE
+CRIMINAL CONDUCT, INTENTIONAL CONDUCT, WILLFUL MISCONDUCT, GROSS NEGLIGENCE OR ANY
+CONDUCT OR ACT OR OMISSION WHICH MAY RESULT IN OR BE THE BASIS FOR PUNITIVE OR EXEMPLARY
+DAMAGES OF AN INDEMNITEE WITH RESPECT TO THE INDEMNITY OBLIGATIONS IN THIS CONTRACT.
+
+TO THE EXTENT TEXAS LAW GOVERNS ANY PARTICULAR WORK ORDER UNDER THIS CONTRACT,
+CUSTOMER AND GDS AGREE THAT THEIR RESPECTIVE MUTUAL INDEMNITY AND RELEASE OBLIGATIONS
+CONTAINED IN THIS CONTRACT WILL BE SUPPORTED BY INSURANCE OR SELF-INSURANCE IN AMOUNTS
+OF NOT LESS THAN THE AMOUNTS REQUIRED OF CUSTOMER UNDER SECTION 11.
+
+INSURANCE: Without prejudice to or otherwise diminishing the CUSTOMER’s duties under the INDEMNITIES section
+herein, the CUSTOMER, at its sole cost and expense, shall procure and, throughout the term of this Contract, shall
+maintain in full force and effect insurance policies and insurance coverage for the benefit of and to protect GDS
+GROUP covering at a minimum the CUSTOMER's liabilities and other obligations under this Contract.
+
+USE
+
+121
+
+12.2
+
+12.3
+
+124
+
+OF SERVICES AND PRODUCTS:
+
+CUSTOMER will use the Services and Products only in accordance with all applicable U.S. and foreign rules, laws
+and regulations.
+
+CUSTOMER will be liable for all use or misuse of the Services and Products hereunder, irrespective of whether
+such use or misuse was authorized, fraudulent or otherwise.
+
+CUSTOMER will not resell or rent the Services or any rental Products.
+
+CUSTOMER will not use Services or Products in an abusive or fraudulent manner, including, but not
+limited to the following: (i) accessing or attempting to access Services or Products by using an
+unauthorized device or by tampering with or altering Products; (ii) obtaining or attempting to obtain
+permission to use Services or Products by providing false or misleading information; (iii) obtaining
+Services or Products without having the intent to pay charges incurred; (iv) intentionally interfering
+with or causing disruption in the provision of Services or Products to other CUSTOMERs; (v) using
+Services or Products to further criminal activity; (vi) using Services or Products to make obscene or
+
+
+Page 6:
+illegal communications, to impersonate another person with fraudulent or malicious intent or to call
+another person so frequently or at such times of day or in any other manner with the intended effect
+of annoying, threatening or harassing such other persons; or (vii) using Services or Products in a
+manner that interferes unreasonably with the use of or Products by one or more other GDS’s customers.
+
+13, PAYMENT TERMS:
+
+131
+
+13.2
+
+133
+
+13.4
+
+13.5
+
+13.6
+
+13.7
+
+13.8
+
+Payment terms for certain Services and Products are further identified in Exhibit B - Payment Terms for
+Specific Services and Products.
+
+Unless otherwise identified in Exhibit B - Payment Terms for Specific Services and Products, agreed
+toin writing by the parties or stated in a Quote, GDS will invoice the CUSTOMER for services rendered
+upon completion of the job. Where job completion extends beyond a calendar month, CUSTOMER
+will be progressively billed for services completed through month-end and CUSTOMER will pay,
+monthly in arrears for all services provided by GDS, including all applicable federal, state, provincial,
+local and other taxes as required by law.
+
+Unless otherwise identified in Exhibit B - Payment Terms for Specific Services and Products, agreed
+in writing by the parties or stated in a Quote, Invoices shall be due payable Net thirty (30) days from
+GDS's date of invoice.
+
+Amounts not paid within payment terms will be subject to an interest charge of the lesser of, (i) one
+and one-half percent (1.5%) per month, or (ii) the highest rate permitted by law.
+
+CUSTOMER will pay for any and all collection or litigation expenses, including reasonable legal fees,
+incurred by GDS in collecting any late payments or late payment fees.
+
+GDS may require CUSTOMER to provide a third-party guarantee, deposit, letter of credit, or other
+credit facility deemed by GDS, in its sole discretion, necessary to provide adequate assurance of
+payment. The provision of such third-party guarantee, deposit, letter of credit, or other credit facility
+does not relieve CUSTOMER of its payment obligations specified herein.
+
+All charges will be in accordance with the applicable Quote provided to CUSTOMER for the applicable
+Services and Products. Upon expiration of the term of the Services and Products (as stated in a Quote),
+GDS reserves the right to revise such charges upon notice to CUSTOMER.
+
+CUSTOMER must pay all undisputed amounts when due. If any portion of an amount due is in dispute,
+CUSTOMER must, within thirty (30) days of the invoice date containing such disputed amount, give
+notice to GDS of the amount it disputes (“Disputed Amount’) and include in such notice the specific
+details and reasons for disputing each item. For the avoidance of doubt, claims of unauthorized use,
+fraudulent use or any other misuse will not constitute a valid basis for dispute of an invoice. If the
+Disputed Amount is resolved in favor of GDS, CUSTOMER must pay the Disputed Amount with
+appropriate late charges, if applicable, upon final determination of such dispute. GDS will issue credits
+to CUSTOMER upon resolution of any Disputed Amounts in favor of CUSTOMER. An invoice is deemed
+to be accepted if no written notice of a dispute is provided within thirty (30) days of the invoice date.
+
+14 TERMINATION AND RENEWAL:
+
+141
+
+Global Data Systems - MSA v2020.1.0 Page 6of17 Initial
+
+Termination of Service or Product Rental
+
+141.1 The occurrence or happening of any one or more of the following events will constitute an event of default
+if not remedied within ten (10) days after notice from GDS:
+
+14111 use of the Services and/or Products in any manner or for any purpose contrary to law;
+141.12 abuse or fraudulent use of the Services and/or Products;
+1411.3 failure to make any payments when due;
+
+14114 discovery by GDS that any representation or warranty made by CUSTOMER in any document
+furnished by CUSTOMER to CDS is incorrect;
+
+1411.5 breach or violation of any of this Contract by the COSTUMER,; or
+
+1411.6 commencement of any proceeding, whether voluntarily or involuntarily, relating to the
+CUSTOMER under any law relating to insolvency, bankruptcy or the protection of creditors’ rights
+generally.
+
+141.2 In the event of default, GDS may, at GDS’s' sole option and without in any way limiting any other rights
+and remedies it may have, suspend or terminate the Services and/or Products without notice. GDS will bill
+CUSTOMER and CUSTOMER will pay GDS, in accordance with Article 13, for all outstanding charges
+accrued up to and outstanding on the date of such termination. In all such cases, GDS will incur no liability
+
+
+Page 7:
+15
+
+Global Data Systems - MSA v2020.1.0 Page 7of17 Initial
+
+14.1.3
+
+1414
+
+141.5
+
+141.6
+
+14.1.7
+
+whatsoever. CUSTOMER will be liable for all costs and expenses incurred by GDS due to default by
+CUSTOMER, including but not limited to legal costs.
+
+INTHE EVENT THAT GDS TERMINATES THIS CONTRACT AND THE SERVICES AND/OR PRODUCTS FOR A FAILURE TO PAY
+OR ANY OTHER BREACH, OR DEFAULT, CUSTOMER AGREES TO PAY GDS IMMEDIATELY A TERMINATION FEE, AS
+LIQUIDATED DAMAGES AND NOT ASA PENALTY, EQUAL TO THE NUMBER OF MONTHS REMAINING IN THETERM TIMES
+THE AVERAGE MONTHLY CHARGE PRIOR TO TERMINATION. CUSTOMER ACKNOWLEDGES THAT THE PRECISE
+AMOUNT OF GDSS DAMAGES WOULD BE EXTREMELY DIFFICULT TO CALCULATE AND THAT SUCH PAYMENT
+REPRESENTS A REASONABLE ESTIMATE OF GDSS ACTUAL DAMAGES.
+
+GDS may, with no liability whatsoever, suspend or terminate Services and/or Products to CUSTOMER if
+lawfully ordered to cease operation of such Services and/or Products by the Federal Communications
+Commission, a state or federal court of law, or any other lawful federal, state or local governmental
+authority. If at any time during the term of any Service or Products any equipment, facilities, or property
+used by GDS to provide Services to CUSTOMER are taken for a public or quasi-public purpose by a lawful
+power or authority under the exercise of right of condemnation or eminent domain, GDS will have the
+right, upon written notice to CUSTOMER, to terminate Services and/or Products affected by the taking.
+
+Early Termination. Unless otherwise stated on the Quote, the minimum term of Service and rental of any
+Equipment is twelve (12) months from the Acceptance Date. CUSTOMER may terminate early at any time,
+upon thirty (30) day notice to CDS. HOWEVER, IF CUSTOMER DOES SO TERMINATE EARLY, CUSTOMER WILL PAY
+TO GDS IMMEDIATELY AN EARLY TERMINATION FEE, AS LIQUIDATED DAMAGES AND NOT AS A PENALTY, EQUAL TO.
+THE BALANCE OF THE REMAINING TERM MULTIPLIED BY THE MONTHLY FEE FOR THE SERVICES AND ANY RENTAL.
+EQUIPMENT. CUSTOMER ACKNOWLEDGES THAT THE PRECISE AMOUNT OF GDS DAMAGES WOULD BE EXTREMELY
+DIFFICULT TO CALCULATE AND THAT SUCH PAYMENT REPRESENTS A REASONABLE ESTIMATE OF GDSS ACTUAL
+DAMAGES.
+
+Cancellation Prior to Service Activation or Product Rental. CUSTOMER may, at any time up until ninety
+(90) days before the Due Date (as defined in Article 2.2.1) cancel the requested Services or Products by
+providing notice to GDS in writing. If CUSTOMER does so cancel, CUSTOMER shall reimburse GDS for all
+out-of-pocket expenses incurred by GDS (including any penalties imposed on GDS by its suppliers) at cost
+plus fifteen percent (15%).
+
+Cancellation; Suspension of Services or Product Rental. CUSTOMER is responsible for notifying GDS, in
+writing, of any requirement to permanently deactivate or suspend Network Services. Permanent
+deactivation or suspension of Services or Product Rentals will be effective only after GDS's receipt and
+written acknowledgement of CUSTOMER's written request. CUSTOMER may send such request to the
+address in Section 18 or email to legal@getgds.com. GDS will use reasonable endeavors to respond to
+CUSTOMER's written request within five (5) business days. CUSTOMER is hereby notified that GDS will
+only process requests received from an authorized representative of the account holder/registered holder
+of the Equipment. If applicable, CUSTOMER may be liable to pay an early termination fee if Services or
+Product Rentals are terminated prior to the contracted term of such Services or Product Rentals.
+Furthermore, CUSTOMER will continue to be liable for payment of Services or Product Rentals during any
+period of suspension, unless otherwise agreed in writing GDS.
+
+14.2 For Convenience: GDS reserves the right to terminate this Contract, or any Quote issued pursuant to this
+Contract, for any reason and at any time by giving CUSTOMER written notice.
+
+14.2.1
+
+Upon notification of termination for GDS's convenience, CUSTOMER shall protect all property in its
+possession in which GDS has an interest,
+
+14.2.2 Any Quote for Services or Products may be canceled by GDS at any time without charge prior to the
+
+commencement of the Services or the provision of the Products, as the case may be.
+
+14.3 Termination by GDS for convenience (Section 14.2) or for default (Section 14.3) shall not prejudice any claim for
+damages or nonperformance GDS would otherwise have against CUSTOMER. The rights and remedies of GDS
+set forth in this Contract are cumulative and not exclusive, and are in addition to all other rights and remedies
+
+of GDS.
+
+144 The rights of termination, restriction or suspension set forth in this Article are in addition to any other remedies
+available to GDS under these Terms and Conditions, or at law or in equity.
+
+14.5 Service and Product Rental agreements will automatically renew and the term shall be extended for an
+additional period equal to the initial term, upon the same terms and conditions contained herein except that
+Service and Product Rental rates shall be at the then current rates established by GDS, unless either Party
+provides written notice, either to renegotiate the terms or to terminate the Service or Product Rental no less than
+thirty (30) days prior to the expiration of the initial term.
+
+INDEPENDENT CONTRACTOR:
+
+
+Page 8:
+15.1
+
+15.2
+
+These Terms and Conditions do not create any partnership, joint venture, agency or employee/employer
+relationship of any kind between GDS and CUSTOMER. GDS is an independent contractor with respect to
+performance under this Contract; all persons employed by each party are, and will remain, the employees and
+agents of that party and are not, and will not become, the employees or agents of the other party. It is expressly
+understood that neither party's employees may participate in or receive any benefits from the other party's
+employee benefit plans.
+
+Limited for the purposes of the Louisiana Worker's Compensation Act and in order to comply with Louisiana
+Revised Statute 23:1061 where said Act and provisions may be applicable to the operations of GDS, CUSTOMER and
+GDS acknowledge and agree that the Network Services under this Contract and any quotation are an essential
+part of CUSTOMER's trade, business or occupation and are an integral part of or essential to the ability of
+CUSTOMER to generate services and therefore CUSTOMER will be considered the statutory employer of the
+employees of GDS and any contractor and subcontractor of GDS.
+
+16 CONFIDENTIALITY:
+
+17
+
+18
+
+19
+
+Global Data Systems - MSA v2020.1.0 Page 8 of 17 Initial
+
+16.1
+
+16.2
+
+FORCE MAJEURE:
+
+171
+
+Unless CUSTOMER consents in writing, or disclosure is made pursuant to a legal proceeding, GDS shall keep
+confidential all information or data furnished by CUSTOMER or otherwise acquired by GDS through
+performance. Such information will not be released by GDS to anyone other than: (i) CUSTOMER; (ii) a person
+who in the reasonable judgment of GDS is acting as an agent of CUSTOMER, (iii) to the commissioning entity
+or supplier or another telecommunications service provider provided that the information is to be used for the
+provision of Services and disclosure is made on a confidential basis with the information to be used solely for
+that purpose; (iv) an agent retained by GDS to collect outstanding balances owed to GDS by CUSTOMER ,; or (v)
+to a law enforcement agency whenever GDS has reasonable grounds to believe that CUSTOMER has knowingly
+supplied GDS with false or misleading information or is otherwise involved in unlawful activities.
+
+Each party will comply fully with all applicable privacy and data protection laws and regulations, and will provide
+such assistance to the other party as is reasonably necessary to assist the other party in complying with such laws
+and regulations. CUSTOMER will indemnify GDS against claims by third parties resulting from breach or
+inadequate observance by CUSTOMER of the provisions of this Article.
+
+GDS will not be liable for any failure of performance hereunder due to causes beyond its reasonable control
+("Force Majeure’), including without limitation, acts of God, strikes, lockouts or other labor disputes, acts of public
+enemy, governmental orders, preemption of existing services to restore service in compliance with Part 64,
+Subpart D, of the Federal Communications Commission's Rules and Regulations, wars, riots, terrorist activities,
+epidemics, unusually severe weather, earthquakes, fires, floods, civil disturbances, explosions, train derailments,
+failure of or accidents to machinery, pipeline, or materials, and delay in delivery of Equipment, to the extent all
+such occurrences are beyond the reasonable control of GDS or CUSTOMER, delay in performance by contractors
+or subcontractors to the extent such delay is beyond GDS' reasonable control, and other delays incurred for
+reasons beyond GDS's reasonable control, which, by the exercise of reasonable diligence, they are unable to
+prevent or avoid. GDS's obligation to perform will be suspended for the duration of a period of Force Majeure
+and will resume as soon as reasonably possible, upon the cessation of the event of Force Majeure.
+
+NOTICES: All notices, requests, demands and other communications hereunder will be effective upon delivery. Such
+notices will be in writing and will be sent by email, facsimile or nationally recognized overnight courier or delivered
+in person, addressed as set forth below. GDS may, at any time, amend the above addresses for notices upon written
+notice to CUSTOMER.
+
+If to GDS: If to Customer:
+Global Data Systems, Inc. Customer Name
+310 Laser Lane Customer Address 1
+Lafayette, Louisiana, 70507 Customer Address 2
+ATIN: Legal _
+Email: legal@getgds.com Customer Email
+
+ASSIGNMENT: GDS may, without the consent of CUSTOMER, (a) assign its right to receive payment hereunder to a
+third party, or (b) assign its rights and obligations hereunder to a corporation, partnership or other business enterprise
+in which GDS has directly or indirectly, an ownership interest, or (c) assign its rights to a successor in the event of a
+merger, acquisition or consolidation, or to a purchase of all (or substantially all) of GDS' assets. This Contract will inure
+to the benefit of, and will be binding on CUSTOMER's and GDS' respective successors and permitted assigns.
+
+
+Page 9:
+20
+
+WAIVER OF COMPLIANCE:. The waiver or the failure of GDS to enforce any of the provisions of this Contract or to exercise
+any right or privilege hereunder, will not be construed as a waiver of any subsequent breach or default of a similar
+nature, or as a waiver of any provisions, rights or privileges hereunder.
+
+21 GOVERNING LAW / RULES & REGULATIONS:
+
+21.1 THESE TERMS AND CONDITIONS OF THIS CONTRACT SHALL BE GOVERNED AND CONSTRUED IN ACCORDANCE WITH THE
+GENERAL MARITIME LAW OF THE UNITED STATES, EXCLUDING ANY CHOICE OF LAW RULE THEREOF THAT WOULD DIRECT
+THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION. IN THE EVENT THAT THE GENERAL MARITIME LAW OF THE
+UNITED STATES IS DETERMINED BY A COURT NOT TO BE APPLICABLE, THEN THESE TERMS AND CONDITIONS WILL BE
+GOVERNED AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF LOUISIANA, USA EXCLUDING ANY CHOICE,
+OF LAW RULE THEREOF THAT WOULD DIRECT THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION.
+
+212 Both GDS and CUSTOMER will fully abide by all applicable laws, rules and regulations, including but not limited
+to all applicable anti-bribery or anti-corruption laws. GDS will not pay any commissions, fees or grant any
+rebates to any employee or officer of CUSTOMER, nor favor any employee or officer of CUSTOMER with gifts or
+entertainment of other than nominal value, nor enter into business arrangements with any employee or officer
+of CUSTOMER, other than as a representative of CUSTOMER, without the prior written approval of CUSTOMER.
+
+213 CUSTOMER agrees to strictly adhere to the requirements and restrictions of the U.S. export and embargo laws
+and regulations, and any similar laws and regulations of other countries as applicable, in respect of the Network
+Services. CUSTOMER agrees to obtain, at CUSTOMER's sole expense, all necessary licenses, approvals, permits,
+consents and governmental authorizations that may be required for CUSTOMER's use of the Network Services.
+CUSTOMER may only use the Network Services in the region or with the satellite identified on the quotation.
+CUSTOMER may acquire the right to use the Services and/or Products in other regions from GDS; however, an
+additional fee for reconfiguration of the Services and/or Products and/or a different price for the Services or
+Products may apply.
+
+214 GDS will not be held responsible for any operational restrictions, customs, license or permit fees required for
+operation of the Network Services in the destination country. In addition, GDS will have no responsibility for
+fines associated with terminal seizure nor for legal ramifications of using Services and/or Products in countries
+where it is prohibited. CUSTOMERs are advised to contact the embassy or trade office of the destination
+country prior to entry into that country.
+
+22 SEVERABILITY: If any provision of this Contract is declared invalid, illegal or unenforceable by a court or regulatory
+agency of competent jurisdiction, the validity, legality and enforceability of the remaining provisions will not in any
+way be affected or impaired thereby. In the event that any such provision will be declared invalid, illegal or
+unenforceable due to its scope, breadth or duration, then it will be modified to the scope, breadth or duration
+permitted by law and will continue to be fully enforceable as so modified.
+
+23 SURVIVABILITY: All provisions which would naturally survive the expiration or termination of this Contract will so survive,
+including but not limited to the Articles entitled "Payment Terms’, "Indemnity & Limitation of Liability’, "Termination",
+"Confidentiality", and "Governing Law" and "Rules and Regulations".
+
+24 EFFECTIVE DATE: The Effective Date is as of the signing of this Contract or the date Services and/or Products were first
+provided to Customer, whichever comes first.
+
+25 RECOVERY OF ATTORNEYS FEES AND COSTS: Where there is an obligation in this Contract to pay or owe attorney
+fees and costs, whether it is in connection with a defense and indemnity obligation or otherwise, that obligation shall
+include also the broader obligation to pay or owe attorney fees and costs incurred in pursuing and enforcing that
+obligation and collecting those attorney fees and costs, through litigation or administrative proceedings or otherwise.
+
+GDS: CUSTOMER:
+
+Signature (Authorized Representative) Signature (Authorized Representative)
+
+Mark Ditsious
+
+Type Name Type Name
+
+Global Data Systems - MSA v2020.1.0 Page 9of17___ Initial
+
+
+Page 10:
+Chief Financial Officer
+
+Title Title
+
+Date Date
+
+Global Data Systems - MSA v2020.1.0 Page 10 of 17 Initial __
+
+
+Page 11:
+Exhibit A - Provisions for Specific Services and Products
+
+1 SATELLITE SERVICES:
+
+1
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+Satellite Service is a contended service, for which a contention ratio is applicable. CUSTOMER will adhere to
+GDS's fair access policy, a copy of which is available upon written request to GDS. GDS implements weight-based
+fair queuing algorithms to give all customers equal and fair access to network resources if no CUSTOMER specific
+QoS is implemented.
+
+CUSTOMER acknowledges that that GDS does not own or operate their own satellite communication system,
+GDS is a reseller of Satellite Services, GDS purchases Satellite Services from third party suppliers (collectively
+referred to as “Supplier(s)") under strict contractual terms and conditions required of all resellers.
+
+CUSTOMER acknowledges that Services may be temporarily unavailable or limited because of capacity
+limitations, network equipment failures, distress or any other emergency pre-emption as required by GDS ora
+Supplier. Services may also be temporarily interrupted or curtailed due to modifications, upgrades, repairs or
+similar activities of GDS's Supplier. The use and restoration of certain space segment is governed by Part 64,
+Subpart D of the FCC's Rules and Regulations, which specify the priority system for such activities.
+
+CUSTOMER acknowledges and agrees that GDS has no liability for any Supplier networks and that GDS makes
+no warranties with respect to the availability of the Satellite Services. CUSTOMER's sole remedy for a failure by GDS
+to provide Services during the contracted term for such Services, will be for the CUSTOMER to request an Outage
+Credit, as defined in Article 6 of the Contract.
+
+The obligations of GDS and the terms for the sale and provision of Services are subject to the terms of the
+agreements under which GDS purchases the Services from its Suppliers (each an "Other Contract’). To the extent
+fulfillment of any obligation of GDS under this Contract is not permissible or possible under an Other Contract,
+the Other Contract will prevail and such obligation will be suspended or modified to the extent required by the
+Other Contract.
+
+Improper Illumination: "Improper Illumination" is defined as any of the following: (a) transmissions other than
+as specified in writing by CDS, or (b) transmissions of an incorrect frequency, or (c) transmissions at excessive
+power levels, or (d) any illumination that could cause harm to or interference on any transponder or space
+segment on any satellite. If GDS detects or is informed of any Improper IIIumination of any Service provided
+under this Contract, GDS will immediately notify CUSTOMER. CUSTOMER shall take immediate corrective
+action to stop the Improper IIIumination. If capable, and as soon as capable, GDS will temporarily suspend any
+affected Services should CUSTOMER be unable to rectify the Improper Illumination within four (4) minutes from
+notification of the Improper Illumination to CUSTOMER. Such affected Services will be suspended until
+CUSTOMER demonstrates to GDS's sole satisfaction that the Improper Illumination is rectified. CUSTOMER will
+be charged and will pay any amount that GDS is required to pay to its Suppliers or other telecommunications
+service provider(s) under any Other Contract due to any Improper Illumination attributable to CUSTOMER.
+GDS will timely inform CUSTOMER in writing of any liability GDS incurs as a result of such Improper
+Illumination. It is CUSTOMER responsibility to provide GDS, on or before the Due Date, with a telephone
+number(s) at which GDS can contact CUSTOMER twenty-four hours per day, seven days per week, 365/366 days
+per year. In addition, GDS has the right, in its sole discretion, to take immediate action, including but not
+limited to suspending or terminating any affected Service(s), in order to protect GDS's services and/or interests.
+
+CUSTOMER shall adhere to the Installation Guidelines set forth in Exhibit C and as modified in the Quote.
+
+2 TELEPHONE AND DATA CIRCUIT SERVICES:
+
+21
+
+22
+
+25)
+
+24
+
+Telephone Services and Data Circuit Services
+
+CUSTOMER acknowledges that GDS does not own or operate their own telephone or data circuit network, GDS
+is a reseller of Telephone and Data Circuit Services, and GDS purchases telephone and circuit services from third
+party suppliers (collectively the "Supplier(s)"), under strict contractual terms and conditions required of all
+resellers.
+
+CUSTOMER acknowledges and agrees that GDS has no liability for any Supplier networks and that GDS makes
+no warranties with respect to the availability of the Telephone Services or Data Circuit Services. CUSTOMER's sole
+remedy for a failure by GDS to provide Services during the contracted term for such Services, will be for the
+CUSTOMER to request an Outage Credit, as defined in Article 6 of the Contract.
+
+The obligations of GDS and the terms for the sale and provision of Telephone Services or Data Circuit Services
+are subject to the terms of the agreements under which GDS purchases such Telephone Services or Data Circuit
+Services from its Suppliers (each an "Other Contract"). To the extent fulfill ment of any obligation of GDS under
+this Contract is not permissible or possible under an Other Contract, the Other Contract will prevail and such
+obligation will be suspended or modified to the extent required by the Other Contract.
+
+3 PROFESSIONAL AND CABLING SERVICES:
+
+Global Data Systems - MSA v2020.1.0 Page llof17 Initial
+
+
+Page 12:
+5)
+
+32
+
+55)
+
+34
+
+35
+
+3.6
+
+Professional Services is defined as Service work that GDS performs as defined and designated as “Professional
+Services” in the Quote. Cabling Services is defined as Service work that GDS performs as defined and designated
+as “Cabling Services” in the Quote.
+
+Professional and Cabling Services work will be provided as outlined in a Quote.
+
+In the event the Due Date is delayed, CDS and CUSTOMER will make all reasonable efforts to agree upon a new
+Due Date.
+
+CUSTOMER shall adhere to the Installation Guidelines set forth in the Quote.
+
+In no event will GDS be liable for failure to meet the Due Date when such failure is due to an act or omission by
+CUSTOMER. CUSTOMER will reimburse GDS for all out-of-pocket expenses incurred by GDS in relation to a
+failure to meet the Due Date caused by CUSTOMER.
+
+CUSTOMER's sole remedy for a failure by GDS to either provide Services by the Due Date will be for the CUSTOMER
+to request an alternate service date that is acceptable to GDS.
+
+4 PURCHASED PRODUCTS:
+
+4]
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+The risk of loss in Products purchased by CUSTOMER will transfer upon shipment from GDS or supplier. Unless
+otherwise agreed in writing, GDS will ship all Products FOB shipping point from GDS’s premises in the United
+States or from supplier to CUSTOMER's designated location, and all shipping costs will be borne by CUSTOMER.
+In no event will GDS have any liability in connection with any shipment, nor will the carrier be deemed to be
+an agent of GDS unless otherwise agreed in a Quote, CUSTOMER agrees to accept partial shipments.
+
+Title to Products purchased by CUSTOMER will transfer from GDS to CUSTOMER upon CDS's receipt of the full
+sale price and any applicable taxes, fees, and freight charges. Until such time, CUSTOMER will keep Products
+that are owned by GDS free from any liens, claims or encumbrances.
+
+GDS warrants that new Products delivered to CUSTOMER will perform substantially in accordance with the
+specifications contained in the technical documentation accompanying the Products in accordance with
+supplier warranties and warranty period. GDS further warrants that all refurbished or used Products or
+accessories sold hereunder will be free from defects in workmanship and material for a period of thirty (30)
+days from the date of delivery. All repairs covered by such warranty will be performed at no charge to
+CUSTOMER. For any repairs requested after the warranty period, GDS will provide a Quote for such repairs and
+upon acceptance of the Quote, the repairs will be performed per the terms of the Quote.
+
+In the event of a warranty claim, GDS will, at its sole option: (a) repair the Product, (b) replace the
+nonconforming Product, or (c) if GDS determines that neither of the foregoing is commercially reasonable,
+upon return of the Product to GDS, refund all sums paid to GDS by CUSTOMER with respect to the
+nonconforming Product. The foregoing warranty on Products is CUSTOMER's sole remedy in the event of a
+warranty claim, and is a 'back-to-base’ warranty, such that CUSTOMER will bear the transportation cost of
+returning any nonconforming or defective Product to GDS's designated premises in the United States and also
+the transportation cost associated with returning Product following a repair from GDS's premises in the United
+States to CUSTOMER's premises.
+
+If CUSTOMER requires a GDS technician to travel to CUSTOMER's location to perform warranty services,
+CUSTOMER shall bear all costs associated with the travel including, but not limited to, transportation costs, room
+and board. GDS will provide CUSTOMER a written estimate of such costs upon request.
+
+The foregoing warranty does not extend to Product which is altered, improperly installed by a third party or
+which fails or is damaged after delivery due to accident, act of God, shipment or handling, or due to storage,
+operation, use, or maintenance in a manner or environment which does not conform to the Product
+manufacturer's instructions or specifications provided by GDS at the time of delivery to CUSTOMER.
+
+Return of unused Product by CUSTOMER to GDS in its original package, in its original condition, and within
+the manufactures return policy, GDS will refund to CUSTOMER eighty five percent (85%) of the purchase price.
+CUSTOMER will bear all shipment and insurance costs related to such return shipment.
+
+All Product returned to GDS must have a GDS issued Returned Merchandise Authorization ("RMA") number
+prominently displayed on the packaging and must be returned to the GDS facility as directed by GDS. An RMA
+number may be obtained by calling GDS’s Customer Care at 1-888-435-7986 press 2, within North America (Toll
+Free) or by email at support@getgds.com. Product returned without an RMA number will be returned to
+CUSTOMER at CUSTOMER's expense. There will be no refunds for used product returned to GDS
+
+5 PRODUCT RENTAL:
+
+51
+
+5.2
+
+Global Data Systems - MSA v2020.1.0 Page 120f17 Initial
+
+GDS retains title to any and all Product that is rented to CUSTOMER.
+Unless otherwise agreed, all rented Product will be shipped FOB GDS’s premises in the United States to
+
+CUSTOMER's designated premises. Risk of loss in the Product will transfer to the CUSTOMER upon delivery of the
+Product, and delivery will have deemed to take place when the Product is loaded onto the carrier's vehicle.
+
+
+Page 13:
+53)
+
+54
+
+5.5
+
+CUSTOMER agrees, at CUSTOMER's sole expense, to (i) insure such Product against loss by fire, theft and any
+other casualty covered by standard fire and extended coverage insurance, for the full current replacement value,
+(ii) keep the Product free and clear from all adverse liens, security interests and encumbrances, (iii) provide a
+proper and suitable environment (including adequate power and appropriate temperature control) for the
+Product, in accordance with GDS and/or the manufacturer's specifications (and any failure to provide such
+proper and suitable environment will void any warranty on the Product), (iv) keep the Product clearly labeled
+as property of GDS, in good order and repair and comply with any maintenance instructions given by GDS, (v)
+not transfer the Product or all or part of CUSTOMER's interest therein, if any, and (vii) return the Product to GDS
+at the end of the rental term in good condition, normal wear and tear excepted.
+
+CUSTOMER shall pay GDS for the fair market value of the Product, in its reasonable determination, if CUSTOMER
+fails to return the Product to GDS within thirty (30) days of the end of the rental term.
+
+Breach by CUSTOMER of any of the foregoing provisions regarding Product rental will entitle GDS to enter
+CUSTOMER's premises where the Product is reasonably believed to be located, and remove such Product without
+any legal process or notice, and without being liable for trespass or damage, and to declare all amounts
+remaining unpaid to be immediately due and payable by CUSTOMER.
+
+6 REMOTE MANAGED SERVICES:
+
+61
+
+62
+
+63
+
+64
+
+65
+
+66
+
+Remote Managed Services is defined as Service work that GDS performs as defined and designated as “Remote
+Managed Services” in the Quote.
+
+Remote Managed Services work will be provided as outlined in a Quote.
+
+In the event the Due Date is delayed, CDS and CUSTOMER will make all reasonable efforts to agree upon a new
+Due Date.
+
+CUSTOMER shall adhere to the Remote Managed Services Installation Guidelines set forth in the Quote.
+
+In no event will GDS be liable for failure to meet the Managed Service work as set forth in the Quote when such
+failure is due to an act or omission by CUSTOMER.
+
+CUSTOMER's sole remedy for a failure by GDS to provide Managed Services as set forth in the Quote will be for the
+CUSTOMER to request a credit for the Managed Services not performed or request the Managed Services be
+performed at a service date that is acceptable to GDS.
+
+Global Data Systems - MSA v2020.1.0 Pagel3of17_ Initial =
+
+
+Page 14:
+1
+
+Global Data Systems - MSA v2020.1.0 Page 140f17 Initial
+
+Exhibit B_Payment Terms for Specific Services and Products
+
+SATELLITE SERVICES:
+
+1
+
+12
+
+Unless otherwise agreed in writing by the parties or stated in a Quote, billing for Satellite Services (or
+any part thereof) will commence upon the acceptance date for each network site, which is defined as
+follows: the earlier of (i) CUSTOMER's signature of the Acceptance Certificate or (ii) forty-eight (48) hours
+from installation of the Satellite Services, provided that CUSTOMER does not provide GDS with
+written notice that the Satellite Services fail to perform in accordance with the specifications in a
+material aspect, within the aforementioned 48-hour time period
+
+Unless otherwise agreed in writing by the parties or stated in a Quote, GDS will invoice and
+CUSTOMER will pay, monthly in advance for the satellite services provided by GDS, including all
+applicable federal, state, provincial, local and other taxes, including value added tax and fees,
+including, if applicable, any fees established by a regulatory authority (including fees associated with
+the Universal Service Fund) for the provision of telecommunication services, which may be attributable
+to the sale or use of Satellite Services.
+
+TELEPHONE SERVICES:
+
+21
+
+Unless otherwise agreed in writing by the parties or stated in a Quote, GDS will invoice and
+CUSTOMER will pay, monthly in advance for the Telephone Services provided by GDS, including all
+applicable federal, state, provincial, local and other taxes, including value added tax and fees,
+including, if applicable, any fees established by a regulatory authority (including fees associated with
+the Universal Service Fund) for the provision of telecommunication services, which may be attributable
+to the sale or use of Network Services.
+
+DATA CIRCUITS SERVICES:
+
+31
+
+Unless otherwise agreed in writing by the parties or stated in a Quote, GDS will invoice and
+CUSTOMER will pay, monthly in advance for the Data Circuit Services provided by GDS, including all
+applicable federal, state, provincial, local and other taxes, including value added tax and fees,
+including, if applicable, any fees established by a regulatory authority (including fees associated with
+the Universal Service Fund) for the provision of telecommunication services, which may be attributable
+to the sale or use of Network Services.
+
+PROFESSIONAL SERVICES AND CABLING SERVICES:
+
+4l
+
+Unless otherwise agreed in writing by the parties or stated in a Quote, GDS will invoice the
+CUSTOMER for services rendered upon completion of the job. Where job completion extends beyond
+a calendar month, CUSTOMER will be progressively billed for services completed through month-
+end and CUSTOMER will pay, monthly in arrears for all services provided by GDS, including all
+applicable federal, state, provincial, local and other taxes as required by law.
+
+PRODUCT SALE:
+
+51
+
+Unless otherwise agreed in writing by the parties or stated in a Quote, invoices for sales of Product
+will be sent on or after the date of shipment from Vendor Partners and will include all applicable federal,
+state, provincial, local, VAT and other taxes that may be levied upon the Product.
+
+PRODUCT RENTAL:
+
+61
+
+Unless otherwise agreed in writing by the parties or stated in a Quote, GDS will invoice and
+CUSTOMER will pay, monthly in advance for the Product Rental provided by GDS, including all
+applicable federal, state, provincial, local, and other taxes including value added tax and fees which
+may be attributable to the product rental.
+
+MANAGED SERVICES:
+
+71
+
+Unless otherwise agreed in writing by the parties or stated in a Quote, GDS will invoice and
+CUSTOMER will pay, monthly in advance for the Managed Services provided by GDS, including all
+applicable federal, state, provincial, local and other taxes, including value added tax and fees,
+including, if applicable, any fees established by a regulatory authority, which may be attributable to
+the sale or use of Managed Services
+
+
+Page 15:
+Exhibit C - Installation Guidelines- Satellite Services
+
+Scope
+
+These installation guidelines set forth the obligations of Customer with respect to installation of Equipment. Unless
+otherwise agreed to in a quotation, Customer is responsible for meeting the requirements of these guidelines, at its sole
+expense.
+
+Construction and Position of the Antenna
+
+Customer is responsible for ensuring that the antenna has a clear and unrestricted view of the applicable satellite, at all
+times. Customer shall follow GDS' reasonable instructions with respect to positioning of the antenna. Antennas should be
+not be installed near traffic ways. Customer warrants that it will supervise all third-party personnel requiring access to the
+antenna or the area surrounding it. In no event will GDS be liable damage to the antenna or failure of Network Services due
+to acts or omissions of third parties, or for any resulting health defects which may be incurred through such third party's
+proximity to the antenna.
+
+Installation Requirements
+
+Customer shall ensure that GDS has free and unimpeded access to and egress from the installation site. Customer
+
+shall obtain all necessary permits, consents and authorizations ("Authorizations") necessary for the placement of the
+antenna. Authorizations shall include but not be limited to consent from the building owner, licenses associated with
+
+use of the Equipment and any governmental consents or permits.
+
+The antenna shall be installed on a level surface. If roof installation if required, such requirements will be set forth in the
+site survey.
+
+Unless otherwise agreed to in a quotation, Customer shall provide all equipment necessary for the installation. This may
+include, without limitation, use of a crane, scaffolding or hydraulic lifts.
+
+Customer shall ensure that there is sufficient space for the antenna. The following table sets forth the area around the
+antenna, which must be kept free from all other objects, in order to ensure safe and proper operation of the antenna.
+
+Antenna Diameter (Meters) 1.0 12 18 24 3.7
+Surface Area for Antenna (Meter) ixl 2x2 5x5 6x6 9x8
+
+Customer shall make available to GDS all technical description and other information required by GDS relating to the
+construction of the antenna foundation. GDS shall provide to Customer general static information for the antenna
+foundation. Customer shall construct the antenna foundation according to GDS' specifications, at its sole expense.
+Customer is solely responsible for ensuring that the antenna foundation meets the requirements of any applicable law, rule,
+regulation, permit or Approval.
+
+Laying of Cables
+
+Customer is solely responsible for the laying of any required IF cables and power cables. The distance between the antenna
+and the internal equipment shall not exceed 150m. Cables should not be laid parallel to existing power lines, and should
+be protected against damage by vehicles, construction work, persons, etc:
+
+Safety Requirements
+GDS will perform all installations in accordance with all applicable health and safety laws, rules and regulations. Customer
+shall also comply with all applicable health, safety and environmental laws, rules and regulations.
+
+Environmental Requirements
+
+The following table contains the environmental requirements for Equipment. To the extent that there is any conflict
+between the following table and the specifications set forth in the manufacturer's installation and/operation guides, the
+manufacturer's documentation shall take precedence. Customer will ensure compliance with these requirements. GDS
+shall not be responsible for any damage or failure of Equipment due to Customer's failure to comply with such
+requirements.
+
+Temperature O°Cto40°C -40°C to70°C
+
+Humidity 5 % to 95 % not condensate
+
+Global Data Systems - MSA v2020.1.0 PagelSof17 Initial =
+
+
+Page 16:
+Shocks/Vibrations As is usual with respect to commercial
+transportation
+
+Electric Power Supply
+
+Customer shall provide, at its sole expense, an uninterruptible power supply of 230 V /16A / 50Hz or 120 V /20A/ 60 Hz,
+depending upon the country, for installation and maintenance. If Customer does not provide power on an uninterruptible
+basis, then Customer shall be liable for any and all damages arising thereby.
+
+If stated on a quotation, GDS may provide an uninterruptible power supply, subject to availability. If GDS does so provide
+such power, then GDS will invoice Customer and Customer will pay for all costs associated therewith. Specifications for any
+power that GDS may supply will be as follows, and as applicable depending upon the country where the installation is to
+be performed:
+
+Input voltage (alternating current): 220-240 V 115-125V
+
+Fluctuating range input voltage (alternating current): 190-250 V 115-125V
+
+Input frequency range: 50 Hz +/- 10% 60 Hz +/- 10%
+
+Customer shall ensure that any electricity supply is shut down upon request by GDS at any time, to the extent that it is
+necessary to avoid damage or interference to the Network Services. Customer shall provide the contact details of Customer's
+designated representative who has the authority to shut down electricity.
+
+Lightning Protection
+
+If there is no lightning protection system at the installation site, or if an existing lightning protection system is more than
+5m from the antenna location, then Customer shall arrange for the antenna and any other ancillary equipment to be
+connected to an appropriate lightning protection system and ground. Customer shall comply with all applicable laws, rules
+and regulations. Customer shall further ensure that the IDU has a potential equalization location with a response resistance
+of <2 Ohm. Customer shall also prove a cable trunk for the connection between the antenna and internal Equipment. The
+maximum distance for the lightning/grounding protection system is 5m for both the antenna and the internal Equipment.
+Cable specification should be Cu / Fe /@10mm.
+
+Fuses
+Customer shall provide fuses in accordance with the following specifications:
+
+For internal Equipment 230 V- 16A As separate circuits with safety sockets
+
+For antenna heating (if applicable) 230V- 10A As separate circuits with grounding
+
+If antenna AC us used 230 V-110A |10A As separate circuits with grounding
+
+Services Not Included in Standard Installation
+
+In addition to the other provisions of this Appendix A, the following are not included in the standard installation. If Customer
+
+requests GDS to provide any of the following, then GDS will issue a separate quotation for such services.
++ Any preliminary work
+
+Laying of cable lines
+
+Construction work, e.g. laying of foundation
+
+Fencing of the antenna unit
+
+Assembly of lightning protection
+
+Use and operation of a crane
+
+Disassembly of any existing equipment
+
+Packaging and crating of any removed/de-installed equipment
+
+« Any labor associated with the foregoing
+
+Global Data Systems - MSA v2020.1.0 Page 16 of 17 _ Initial
+
+
+Page 17:
+Global Data Systems - MSA v2020.1.0 Page 17 of 17 Initial _
+
+
+

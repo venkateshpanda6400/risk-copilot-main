@@ -1,0 +1,30 @@
+python-dotenv
+PyPDF2
+llama-index
+llama-index-vector-stores-postgres
+llama-index-agent-openai
+llama-index-embeddings-openai
+llama-index-postprocessor-colbert-rerank
+llama-index-llms-openai
+llama-index
+langchain_community
+streamlit
+pytesseract
+pdf2image
+metaflow
+pylint
+metaflow
+watchdog
+requests
+pandas 
+gdown
+notebook
+python-box==6.0.2 
+pyYAML
+tqdm
+ensure==1.0.2 
+pylint
+sqlalchemy
+setuptools
+# to install as a local package
+-e .

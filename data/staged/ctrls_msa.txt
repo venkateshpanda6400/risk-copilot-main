@@ -1,0 +1,1405 @@
+Page 1:
+MASTER SERVICE AGREEMENT
+Dated [e] of [e], 2020
+
+BY AND BETWEEN
+
+Ctrl S Datacenters Limited
+(‘Service Provider’)
+and
+[Name of the Customer]
+
+(‘Customer’)
+
+
+Page 2:
+MASTER SERVICE AGREEMENT
+
+This Master Service Agreement (“A greement” or “MSA”) dated as of this [e] day of [e], 2020 is made
+by and between Ctrl S Datacentres Limited, a company registered under the laws of India with its
+primary offices situated at Plot No.16, Software Units Layout, Madhapur, Hyderabad- 500081
+(hereinafter referred to as “Service Provider" which expression shall include its successors and
+assignees) and [@], a company incorporated under laws of [e] and having its primary offices situated
+at [e] (hereinafter referred to as the “Customer" which expression shall include its successors and
+permitted assignees) shall become effective from [@] (“Effective Date’).
+
+Service Provider and Customer shall individually be referred to as a “Party” and collectively as
+“Parties”.
+
+The Parties agree that as of the Effective Date, this Agreement shall constitute the complete exclusive
+statement of the agreement between them and that this A greement shall supersede and replace any prior
+agreements between the Parties regarding the subject matter herein.
+
+WHEREAS this Agreement describes the terms and conditions under which the Customer will obtain
+Service Provider’s Services (defined later) and the Parties intend that any specific business transactions
+will be implemented through individual separately executed Purchase Orders (defined later) unless
+otherwise provided under Part A of Schedule I to this Agreement.
+
+WHEREAS the following Schedules are attached hereto and incorporated into this Agreement by this
+reference:
+
+Schedule I, Part A — Specific Terms Addendum and Schedule 1, Part B (together referred to as
+“STA”)Schedule II — Service Level Agreement (“SLA”)
+
+NOW, THEREFORE, in consideration of the mutual promises herein, Service Provider and the
+Customer agree as follows:
+
+1. Definitions:
+
+.1. “Affiliate” means any entity that directly or indirectly controls, is controlled by, or is under
+common control with the entity referred to, but only for so long as such control exists;
+
+.2. “Agreement” means, collectively, the MSA, any applicable Purchase Order, STA, AUP,
+SLA and other addenda which govern the provision of Services mutually agreed between
+the Parties.
+
+.3, “Applicable Laws” mean all laws/rules/regulations applicable on the Services according to
+the governing laws of the Governing Law Country mentioned under Section 7 of the STA.
+
+A. “AUP” means Service Provider’s Acceptable User Policy found at
+https://www.ctrls.in/aup.php
+
+.o. “Billing Commencement Date” means the date on which the billing period shall commence
+as mentioned under Section 9 of STA.
+
+.6. “Business Day” means Monday through Friday, excluding public holidays, in the country
+whose laws govern this A greement.
+
+.7.. “Confidential Information” means non-public information disclosed by one party to the
+other in any form that: (i) is designated as “Confidential”; (ii) a reasonable person knows or
+reasonably should understand to be confidential; or (iii) includes either party’s products,
+customers, marketing and promotions, know-how, or the negotiated terms of the A greement;
+and which is not independently developed by the other party without reference to the other’s
+Confidential Information or otherwise known to the other party on a non-confidential basis
+prior to disclosure.
+
+
+
+Page 3:
+10.
+
+AL
+
+12.
+
+.20.
+
+21,
+22.
+
+“Cure Period” shall mean the period mentioned under Section 12 of the STA.
+
+“Customer C onfiguration” means an information technology system (hardware, software
+and/or other information technology components) which is the subject of the Services or to
+which the Services relate.
+
+“Customer Data” means all data which Customer receives, stores, or transmits on or using
+the Customer Configuration.
+
+“Due Date” means the date on which a period of thirty (30) days from the date of a valid
+invoice raised by the Service Provider on the Customer for the Services.
+
+“End User” means any individual or entity that directly or indirectly through another user:
+(a) accesses or uses Customer’s Content; or (b) otherwise accesses or uses the Services under
+Customer’s account. The term “End User” does not include individuals or entities when they
+are accessing or using the Services or any content under their own account with the Service
+Provider, rather than under Customer’s account.
+
+. “Fees” mean the fee payable by the Customer to the Service Provider for the Services as per
+
+the terms of this Agreement
+
+. “Hosted System” means a Customer Configuration provided by the Service Provider for
+
+Customer’s use of Services.
+
+. “Initial Term” means the term of this Agreement as specified under Section 13 of STA.
+. “Jurisdiction” means the courts of law situated in and having jurisdiction in the city/region
+
+mentioned under Section 8 of the STA.
+
+. “Purchase Order(s)” shall mean all purchase orders pertaining to the Services and/or
+
+additional/supplemental services, raised by the Customer and duly accepted by the Service
+Provider under this A greement.
+
+. “Renewal Term” means the automatic renewal period following expiry of the Initial Term,
+
+for consecutive rolling 90 day terms unless otherwise provided under the STA.
+
+. “Services” shall mean all services provided by the Service Provider to which the Customer
+
+subscribes to, by the virtue of this A greement as described under Schedule I, PartB and/or
+any subsequent Purchase Orders.
+
+“Service Level Agreement” or “SLA” means the Services Levels Agreement entered
+between the Parties as provided under Schedule II to this A greement.
+
+“STA” means the Specific Terms Addendum provided under Schedule I to this Agreement.
+“Tax” means all taxes applicable on the provision of Services as per the A pplicable Laws.
+
+2. Terms Governing Provision of Services:
+
+The Parties agree that this A greement shall be read together with the purchase order(s) for Services
+issued by the Customer and accepted by Service Provider, and together they shall constitute the
+terms and conditions on which the Services shall be provided by Service Provider to the Customer.
+In case of conflict among different documents or sections, each of the following would prevail over
+the subsequent ones:
+
+- STA
+
+- SLA
+
+- AUP
+
+- MSA
+
+- Purchase Order
+
+3. Services:
+Subject to the terms and conditions set forth in this Agreement, Service Provider shall provide the
+Services to the Customer. In case the relevant section in Schedule 1, Part B is blank, services
+
+
+Page 4:
+mentioned in the Purchase Order issued by the Customer and duly accepted by the Service Provider
+shall constitute Services.
+
+Change in Scope of Services:
+
+4.1.Customer may request additional services during the Term by (i) executing a statement of work
+prepared by the Service Provider (“SOW”); or (ii) by placing a Purchase Order. SOWs and
+Purchase Orders may also be collectively referred to as “Orders”. SOWs will not be effective
+unless signed by both Parties. Customer and Service Provider may execute multiple Orders
+under this Agreement and all Orders will be governed by the terms and conditions of this
+Agreement. Each additional Order will supplement rather than replace the prior Orders, unless
+otherwise stated by the Parties in writing.
+
+4.2.If Customer requests a change to an existing Order, Service Provider will prepare a change
+order (“Change Order”) as per the Change Request Procedure provided under Section 14 of
+the STA which will be effective when signed by the Parties. Change Orders will amend
+existing Orders but will not replace them, unless otherwise agreed to by the Parties in writing.
+Service Provider has no obligation to execute, or to amend, any Order, including any Change
+Order, with Customer.
+
+Lock-In Period:
+
+Customer acknowledges and accepts that the provision of Services by the Service Provider shall be
+
+subject to Lock-In Period as provided under Section 11 of STA. The Customer shall not be entitled
+
+to terminate this Agreement during the Lock-In Period for any reasons whatsoever except for the
+
+sole reason as specified under Clause 13.3 (a) and (b). Notwithstanding anything contained herein,
+
+if the Customer terminates this A greement before the expiry of Lock-In Period, then the Customer
+
+undertakes and agrees to pay the Service Provider, on or before the effective date of termination of
+
+this Agreement, an early termination compensation of an amount equivalent to the fee payable for
+
+the balance period of such Lock-In Period, calculated as per such effective date of termination of
+
+this A greement.
+
+Fees and Payment Terms:
+
+6.1. The fees that the Service Provider shall charge for Services shall be agreed upon by Parties
+from time to time and set forth in the relevant Purchase Order. Unless otherwise agreed
+between the Parties in writing, Fees for the Services will begin to accrue on the Billing
+Commencement Date. Service Provider will invoice the Customer for the Services in advance
+at the beginning of every Billing Cycle, as defined under Section 10 of the STA. Customer
+shall pay all undisputed invoices raised by the Customer on or before the Due Date. Partial
+months will be billed on a pro rata basis based on a thirty (30) day month and Customer will
+pay for the Services in accordance with this Section.
+
+6.2.Invoices that are not disputed within thirty (30) days of the invoice date are conclusively
+deemed to be accepted as accurate by Customer.
+
+6.3.Any overdue amounts owed by Customer will accrue interest at the lesser of two percent (2%)
+per month or the highest rate permitted by Applicable Laws.
+
+6.4.In the instance if the actual consumption by the Customer under this Agreement exceeds the
+mutually agreed consumption levels as per the scope of Services, the Parties agree and affirm
+that the Service Provider shall be entitled to raise a demand note evidencing such excess
+consumption, charging the Customer as per the agreed rates calculated on a pro-rata basis and
+the Customer undertakes to honour such undisputed demand note(s) and pay the additional fee
+charged therein. The Service Provider undertakes that it shall provide the necessary
+
+
+Page 5:
+documents/evidences to establish such excess consumption of Services on part of the
+Customer.
+
+6.5.All amounts due to the Service Provider under the Agreement are exclusive of Tax. Service
+Provider shall invoice all taxes applicable on the Services as per Applicable Laws to the
+Customer and Customer shall pay Service Provider any Tax that is due or provide Service
+Provider with satisfactory evidence of Customer’s exemption from the Tax in advance of
+invoicing. Customer shall provide Service Provider with accurate and adequate documentation
+sufficient to permit Service Provider to determine if any Tax is due.
+
+6.6.All payments to the Service Provider shall be made without any withholding or deduction for
+any taxes except for local withholding taxes. Customer agrees to provide the Service Provider
+with accurate factual information and documentation of Customer’s payment of any such local
+withholding taxes in a timely manner. Service Provider shall remit such cost to Customer in
+the form of a credit on Customer’s outstanding account balance following receipt of sufficient
+evidence of payment of any such local withholding taxes as per A pplicable Laws.
+
+Representations and Undertakings:
+
+7.1.Each Party represents that:
+
+a. It has the legal right and authority to enter into this Agreement and is not barred by any
+agency or under A pplicable Laws.
+
+b. All the information and disclosures made in respect to this A greement are true and accurate.
+
+c. It has taken all necessary authorizations and approvals for the purpose of execution of this
+Agreement.
+
+7.2. Customer represents that except to the extent caused by Service Provider’s breach of this
+Agreement, (a) Customer is responsible for all activities that occur under the Hosted System,
+regardless of whether the activities are authorized by the Customer or undertaken by the
+Customer, Customer’s employees or a third party (including Customer’s contractors, agents or
+End Users), and (b) Service Provider is not responsible for unauthorized access (not
+attributable to the Service Provider) to Customer’s Hosted System.
+
+7.3. Customer further represents that it owns and/or has the lawful right to possess contents,
+materials and the data (including the Customer Data) which runs on the Services or causes to
+interface with the Services or which is uploaded for the Services or posted or submitted or
+otherwise used during availing of the Services by the Customer and such contents do not
+violate any terms of this Agreement or any Applicable Laws. Customer is solely responsible
+for the development, content, operation, maintenance, and use of Customer Data and content
+on the Hosted System.
+
+7.4. Customer agrees to utilize the Services strictly in accordance with the AUP. Service Provider
+shall be entitled to modify the A UP from time to time and such amended A UP, made available
+at the website of Service Provider, shall be applicable. In all events where the Parties have
+mutually agreed to modify the terms of the AUP and such modifications shall be captured
+under this Agreement, the terms so modified shall prevail over the AUP and shall be read
+harmoniously with the terms of the AUP. If no such modifications are mentioned under this
+Agreement, then the standard A UP shall remain applicable.
+
+7.5. Service Provider represents that the Services provided under this Agreement are not in
+violation of any Applicable Laws and undertakes to provide Services in accordance with this
+Agreement.
+
+7.6. Service Provider does not provide any support or services to End Users unless Service Provider
+has a separate agreement with the Customer stating otherwise or an End User obligating us to
+provide such support or services.
+
+
+
+Page 6:
+8. Confidentiality:
+
+8.1. Each Party (“Receiving Party”) agrees that it will not disclose to third party/ies any information
+belonging to the other Party (“Disclosing Party”) which is provided to it by the Disclosing
+Party before, during and after the execution of this Agreement. All such information belonging
+to the Disclosing Party and provided to the Receiving Party shall be considered Confidential
+Information. Confidential Information includes prices, quotations, negotiated issues made
+before the execution of the Agreement, server configuration, design and other related
+information and information relating to the contents to be transmitted to and from the servers
+of Service Provider or Customer. All information provided by a Party to the other shall be
+considered confidential even if it is not conspicuously marked as confidential.
+
+8.2. Notwithstanding the foregoing, neither Party shall have any obligations regarding non-use or
+non-disclosure of any confidential information which (i) is already known to the Receiving
+Party at the time of disclosure; (ii) is or becomes part of the public domain without violation
+of the terms hereof; (iii) is shown by conclusive documentary evidence to have been developed
+independently by the Receiving Party without violation of the terms hereof; (iv) is disclosed
+by the Disclosing Party to a third party without similar restrictions on the third party's rights;
+or (v) is received from a third party without similar restrictions and without violation of this
+or a similar agreement.
+
+8.3.Each Party agrees not to disclose any of the Confidential information obtained from the other
+under any circumstances to any third party unless it is so required by law to be disclosed or if
+it falls under any of the exceptions mentioned in Clause 8.2 above. Any disclosure to be made
+by the Customer as per the requirements of law shall be so disclosed on providing advance
+notice to Service Provider with the reasons for such disclosures.
+
+8.4.The terms and conditions of this Agreement, and all annexes, attachments and amendments
+hereto and thereto shall be considered Confidential Information. No news release, public
+announcement, advertisement or publicity concerning this Agreement and/or its contents
+herein shall be made by either Party without the prior written approval of the other Party unless
+such disclosure or public announcement is required by applicable law. Notwithstanding any
+provision to the contrary, Service Provider shall be entitled to freely disclose the information
+that it is providing / has provided the Services to the Customer in its marketing, promotion or
+other materials.
+
+9. Temporary Suspension of Services:
+
+9.1. Service Provider may suspend or limit Customer’s or any End User’s right to access or use any
+portion or all of the Services immediately upon prompt notice to the Customer if the Service
+Provider determines:
+
+(a) Customer’s or an End User’s use of the Services;
+i. poses an immediate security risk to the Hosted System or any third party,
+ii. could adversely impact Service Provider’s systems, the Services or the systems or
+content of any other customer,
+iii. could be fraudulent or be utilized to cause fraud or be illegal or be utilized to aid or abet
+illegal activities;
+(b) Customer is in breach of this Agreement and fails to cure such breach within a period of
+ten (10) days (or such mutually agreeable period) of Service Provider notifying the
+Customer of such breach;
+
+
+Page 7:
+10.
+
+(c) Customer is in breach of its payment obligations under Section 5 and fails to cure such
+breach within the Cure Period.
+(d) In all events where such suspension or limitation is required by law.
+
+In all events of suspension under Clause 9.1(a)(i) and Clause 9.1(a)(ii), the Service Provider must
+furnish a detailed Root Cause Analysis (RCA) Report to the Customer evidencing and justifying
+such reason for suspension and the cause for such suspension attributable to the acts and/or
+omissions of the Customer/End User. Further, Service Provider will limit a suspension and/or
+limitation in time and scope as reasonably possible under the circumstances
+
+9.2.Effect of Suspension.
+In the event Service Provider suspends Customer’s right to access or use any portion or all of
+the Services under Clause 9.1 above:
+(a) Customer remains responsible for all fees and charges the Customer incurs during the
+period of suspension; and
+(b) Customer will not be entitled to any service credits as provided under the SLA for such
+period of suspension.
+
+Data Privacy:
+
+10.1. | The Service Provider shall without limiting Clause 15 or Customer’s obligations under
+Clause 7.3 , implement and undertake reasonable and appropriate measures designed to help
+the Customer secure Customer Data against accidental or unlawful loss, access or disclosure.
+
+10.2. All data privacy laws/rules as per the laws of the Governing Law Country (defined under
+Section 7 of STA) shall be applicable to the Services. Further, the Parties agree and affirm that
+in all cases where the Customer Services pertain to colocation services only, the Service
+Provider shall not have any access to Customer Data. Hence, this clause will not be applicable
+in such cases.
+
+10.3. The Customer acknowledges that the Service Provider may require to disclose
+information and data provided to it by Customer, including information that identifies an
+individual or a person either directly or indirectly and alone or in combination with other
+information available (such identifying information being referred to as ‘Personal
+Information”), such as a person’s name, phone number and email address, to Service
+Provider’s affiliates and associates to carry out Services under this Agreement. Service
+Provider may also disclose Personal Information obtained from Customer if required (i) under
+applicable laws including in connection with law enforcement, fraud prevention, or other legal
+action, or as required by law or regulation, or (ii) for optimisation of Services or (iii) if it
+reasonably considers it necessary to protect itself, its customers, or the public; All disclosures
+under this Clause shall be subject to prior intimation of such disclosure by the Service Provider
+to the Customer unless specifically barred thereto.
+
+10.4. The Customer shall be deemed to have consented to disclosure of Personal Information
+by the Service Provider in the instances mentioned under Clause 10.3 above by providing such
+Personal information to the Service Provider in the course of Service Provider’s performance
+of the Services.
+
+10.5. The Service Provider hereby undertakes that the Service Provider shall comply with all
+applicable data privacy laws while handling Personal Information belonging to the Customer.
+All such disclosures and compliances will be governed and monitored by the Service
+Provider’s dedicated Committee on GDPR and Data Protection Laws which shall ensure
+Service Provider’s compliance with such applicable data protection laws. However, the Parties
+agree and affirm unequivocally due to the nature of the Services, the Service Provider does not
+
+
+Page 8:
+have any access to Customer Data and hence cannot be held liable for any losses/damages that
+the Customer may suffer on account of Customer Data.
+
+11. Indemnity
+
+11.1
+
+11.2.
+
+11.3.
+
+Service Provider will indemnify, defend and hold harmless the Customer including their,
+directors, employees, agents and contractors from any and all liability, damages, costs and
+expenses (including reasonable attorneys’ fees and expenses) that the Customer may incur as
+a result of (a) gross negligence or wilful misconduct of the Service Provider solely, in provision
+of Services to the Customer; and (b) .any third-party claim alleging that the Services infringe
+or misappropriate that third party’s intellectual property rights, and undertakes to pay the
+amount of any adverse final judgment or settlement.
+
+Customer will defend, indemnify, and hold harmless the Service Provider, its Affiliates
+and licensors, and each of their respective employees, officers, directors, and representatives
+from and against any Losses arising out of or relating to any third-party claim concerning: (a)
+Customer’s or any End Users’ use of the Services (including any activities and use by
+Customer’s employees and personnel); (b) violation of this Agreement or applicable law by
+the Customer or Customer’s End Users; or (c) a dispute between Customer and any of its End
+User (d) an allegation that any of Customer Content infringes or misappropriates that third
+party’s intellectual property rights, and will pay the amount of any adverse final judgment or
+settlement; except in cases where such third party claim is solely attributable to gross
+negligence or wilful misconduct on part of the Service Provider.
+
+The obligations under this Section 11 will apply only if the party seeking defense or
+indemnity: (a) gives the other party prompt written notice of the claim; (b) permits the other
+party to control the defense and settlement of the claim; and (c) reasonably cooperates with
+the other party (at the other party’s expense) in the defense and settlement of the claim. In no
+event will a party agree to any settlement of any claim that involves any commitment, other
+than the payment of money, without the written consent of the other party.
+
+12. LIMITATION ON DAMAGES:
+
+12.1
+
+. Notwithstanding anything in the Agreement to the contrary:
+
+(a) Either Party’s liability arising out of any loss or damages for which limitation is expressly
+prohibited by Applicable Laws, shall be unlimited.
+
+Subject to Clause 12.1(a), the maximum aggregate monetary liability of either Party and
+any of its representatives in connection with the Services or this Agreement under any
+theory of law shall not exceed the actual damages incurred up to the greater of: (i) an
+amount equal to six times the Fees payable by Customer for the Services in the first month
+of the Initial Term, or (ii) the total amount paid by Customer to the Service Provider for
+the Services that are the subject of the claim in the 12 months immediately preceding the
+event(s) that first gave rise to the claim.
+
+(b
+
+12.2. Neither party (nor any of its representatives) is liable to the other party for any indirect,
+
+special, incidental, exemplary, or consequential loss or damages of any kind. Neither party is
+liable for any loss that could have been avoided by the damaged party’s use of reasonable
+diligence, even if the party responsible for the damages has been advised or should be aware
+of the possibility of such damages. In no event shall either party be liable to the other for any
+punitive damages; or for any loss of profits, data, revenue, business opportunities, customers,
+contracts, goodwill, or reputation.
+
+
+Page 9:
+12.3. As an essential part of the A greement, the liquidated damages payable under the SLA (s) shall
+
+be the credits stated in any applicable SLA(s) which are Customer’s sole and exclusive remedy
+for Service Provider’s failure to meet those guarantees for which credits are provided; and the
+parties agree that the credits are not a penalty, are fair and reasonable and represent a
+reasonable estimate of loss that may reasonably be anticipated from any breach. The maximum
+credit(s) for failures to meet any applicable SLA(s) for any calendar month shall not exceed
+100% of the then current monthly recurring Fee for the Services. Customer is not entitled to a
+credit if Customer is in breach of the Agreement at the time of the occurrence of the event
+giving rise to the credit, until such time as Customer has remedied the breach. No credit shall
+be due if the credit would not have accrued but for Customer’s action or omission.
+
+13. Term and Termination:
+13.1. Term: The term of this A greement shall commence on the Effective Date and shall remain
+
+14,
+
+15.
+
+valid till the expiry of Initial Term and any Renewal Term thereto, unless terminated under
+Clause 13 of this Agreement.
+
+13.2. Termination for C onvenience: Either Party may terminate this A greement for any reason
+
+by providing the other Party, a written notice of termination at least ninety (90) days prior
+to such date of termination.
+
+13.3. Termination for Cause:
+
+a. Either party may terminate this Agreement for cause if the other party is in material
+breach of this Agreement and if the other party fails to cure the material breach within
+the Cure Period.
+
+b. Customer may terminate this Agreement if the Service Provider fails to provide
+Services as agreed between the Parties under this A greement.
+
+c. Service Provider may terminate this A greement upon breach of monetary terms under
+Clause 5 above and fails to cure such breach within the Cure Period.
+
+Effects of Termination:
+The Parties agree and affirm that upon the date of termination/expiry of this Agreement:
+
+a.
+
+DISCLAIMER:
+
+Except as provided in Sub-Clause (d) hereunder, all rights of the Customer under this
+Agreement immediately terminate.
+
+Customer shall remain responsible for all fees and charges payable by the through the date of
+termination for Services rendered by the Service Provider.
+
+Either Party shall immediately return/destroy all Confidential Information belonging to the
+other party that may be in its possession as instructed by such party.
+
+The Service Provider must allow the Customer to retrieve any data/remove any physical
+assets/equipment belonging to the Customer within a period of ten (10) days from the date of
+termination, provided that the Customer has cleared all outstanding dues payable to the Service
+Provider till such date of termination.
+Termination shall not affect the rights and liabilities of a Party that have accrued before the
+effective date of termination.
+
+THE SERVICES ARE PROVIDED “AS IS.” EXCEPT TO THE EXTENT PROHIBITED BY
+LAW, OR TO THE EXTENT ANY STATUTORY RIGHTS APPLY THAT CANNOT BE
+EXCLUDED, LIMITED OR WAIVED, SERVICE PROVIDER AND ITS AFFILIATES (A)
+MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EX PRESS,
+IMPLIED, STATUTORY OR OTHERWISE REGARDING THE SERVICE OFFERINGS OR
+
+
+Page 10:
+16.
+
+17.
+
+18.
+
+THE THIRD-PARTY CONTENT, AND (B) DISCLAIM ALL WARRANTIES, INCLUDING
+ANY IMPLIED OR EXPRESS WARRANTIES (I) OF MERCHANTABILITY,
+SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, NON-
+NFRINGEMENT, OR QUIET ENJOYMENT, (II) ARISING OUT OF ANY COURSE OF
+DEALING OR USAGE OF TRADE, (III) THAT THE SERVICE OFFERINGS OR THIRD-
+PARTY CONTENT WILL BE UNINTERRUPTED, ERROR FREE OR FREE OF HARMFUL
+COMPONENTS, AND (IV) THAT ANY CONTENT WILL BE SECURE OR NOT OTHERWISE
+LOST ORALTERED.
+
+Notices:
+
+6.1. Customer’s routine communications to the Service Provider regarding the Services should
+be sent to Customer’s Account Manager via authorised e-mail ID of the Customer. To serve
+any notice/communications regarding termination of the Agreement for breach,
+indemnification, or other legal matter, Customer shall send the same via electronic mail
+and/or through postal service to the address mentioned under Section 3 of the STA.
+
+16.2. All communications by the Service Provider with respect to this Agreement should be sent
+
+to the Customer via electronic mail/fax/registered post/courier at the address or email
+
+address mentioned under Section 6 of the STA.
+
+Force Majeure:
+
+A Party shall not be liable to the other Party if, and to the extent, that the performance of any of its
+obligations under this A greement (excluding obligations in relation to the Customer’s payment for
+Services already rendered and/or being rendered during the Force Majeure event) is prevented,
+restricted, delayed or interfered with due to circumstances beyond the reasonable control of that
+Party, including, but not limited to, circumstances such as change in legislation, fire, flood,
+explosion, epidemic, accident, act of God, war, riot, terrorist activities, strike, lockout and/or act of
+government (Force Majeure).
+
+The Party claiming an event of Force Majeure as aforesaid shall promptly notify the other Party in
+writing, and provide full particulars of the event of Force Majeure and the date of first occurrence
+thereof, as soon as possible after the event and also keep the other Party informed of any further
+developments. The Party so affected shall use its commercially reasonable efforts to remove the
+cause of non-performance, and shall, unless otherwise agreed to by the other Party in writing,
+resume performance hereunder with utmost dispatch when such cause of non-performance is
+removed.
+
+Governing Law and Dispute Resolution:
+
+18.1. This Agreement shall be governed by the laws of the region/country as provided under
+Section 7 of the STA.
+
+18.2. In case of any disagreement or dispute between the Customer and the Service Provider, the
+dispute will be resolved in the manner as outlined hereunder.
+The Customer and the Service Provider shall make every effort to resolve amicably by direct
+informal negotiations any disagreement or dispute between them on any matter connected
+with this Agreement or in regard to the interpretation thereof. If, after thirty (30) days from
+the commencement of informal negotiations, the Customer and Service Provider have not
+been able to resolve the dispute amicably, such differences and disputes shall be referred, at
+the option of either Party, to arbitration by a single arbitrator to be mutually agreed upon
+between the Parties. In the event of no consensus, the courts of the relevant Jurisdiction shall
+appoint an Arbitrator.
+
+
+Page 11:
+Such arbitration will be conducted in accordance with the prevailing arbitration laws/rules
+of such country whose laws govern this Agreement. The arbitration shall take place in the
+Jurisdiction city, unless otherwise mutually agreed by the Parties and shall be conducted in
+the English language.
+
+19. Assignment/Subcontractors
+
+20.
+
+21,
+
+22.
+
+Neither party shall assign this Agreement and/or any Purchase Orders without the prior consent of
+the other party, except to an A ffiliate or successor as part of a corporate reorganization or a sale of
+some or all of its business, provided the assigning party notifies the other party of such change of
+control. The Service Provider may use its A ffiliates or subcontractors to perform all or any part of
+the Services, but the Service Provider remains responsible under the Agreement for work
+performed by its Affiliates and subcontractors to the same extent as if the Service Provider
+performed the Services itself.
+
+Ownership
+
+20.1. Each Party acknowledges and agrees that the other Party retains exclusive ownership and
+rights in its trade secrets, inventions, copyrights, and other intellectual property and any
+hardware provided by such Party in relation to this Agreement.
+
+20.2. Neither Party shall remove or misuse or modify any copyright, trade mark or any other
+proprietary right of the other Party which is known by virtue of this Agreement, in any
+circumstances.
+
+Declaration with regard to Internet Bandwidth and Public IPs:
+
+The Service Provider hereby declares that in all instances where Internet Bandwidth and/or public
+Ps are provided to the Customer as a part of the Services, such Internet Bandwidth and/or public
+Ps are sourced through Pioneer E-Labs Limited, a ‘Class A’ ISP License holding company
+incorporated under the Companies Act, 1956 (CIN: U72900TG1998PLC030728). Pioneer E-Labs
+Limited is an affiliate of the Service Provider, owned and managed by the same promoter group as
+the Service Provider. All billings on account of the said Internet Bandwidth and/or public IPs that
+may form the part of the Services under this A greement, are done by the Service Provider on behalf
+of Pioneer E-Labs Limited as a pass-through mechanism and the Customer may at any time demand
+the billings to be done directly through Pioneer E-Labs Limited if the Customer so wishes, by
+notifying the same to the Service Provider. The Service Provider, upon receipt of such request
+mandate Pioneer E-Labs to raise such bills on account of Internet Bandwidth and/or Public IPs,
+directly to the Customer. The Service Provider is making this declaration in good faith.
+
+Miscellaneous;
+
+22.1. The provisions that by their nature are intended to survive expiration or termination of the
+Agreement shall survive expiration or termination of this MSA including all terms of the
+Agreement requiring Customer to pay any Fees for Services provided prior to the time of
+expiration or termination.
+
+22.2. The Agreement constitutes the complete and exclusive understanding between the Parties
+regarding its subject matter and supersedes and replaces any prior or contemporaneous
+representation(s), agreement(s) or understanding(s), written or oral.
+
+22.3. Amendment/M odification of this Agreement: This Agreement may be amended only by the
+written agreement of both Parties.
+
+22.4. General.
+
+
+Page 12:
+Except where otherwise expressly stated herein, and subject to the limitations set forth under
+this Agreement, the rights and remedies provided for herein are cumulative and not exclusive
+of any rights or remedies that a Party would otherwise have.
+
+22.5. Each Party recognizes and agrees that the warranty disclaimers and liability and remedy
+limitations in this Agreement are material bargained for bases of this Agreement and that they
+have been taken into account and reflected in determining the consideration to be given by
+each Party under this A greement and in the decision by each Party to enter into this A greement.
+
+22.6. Service Provider and Customer are independent contractors and this Agreement will not
+establish any relationship of partnership, joist venture, employment, franchise or agency
+between the Service Provider and Customer. Neither the Service Provider nor Customer will
+have the power to bind the other or incur obligations on the other’s behalf without the other’s
+prior written consent.
+
+22.7. The Parties agree that there will be no third party beneficiaries to this Agreement, including,
+but not limited to any Authorized Person, end user, customer or the insurance providers for
+either Party.
+
+22.8. No waiver of any breach of any provision of this Agreement will constitute a waiver of any
+prior, concurrent or subsequent breach of the same or any other provisions hereof, and no
+waiver will be effective unless made in writing and signed by an authorized representative of
+the waiving Party.
+
+<Signature Page Follows>
+
+
+Page 13:
+IN WITNESS WHEREOF EACH PARTY HAS EXECUTED THIS AGREEMENT ON THE
+
+DATES WRITEN BELOW:
+
+Signed by:
+
+Position:
+
+FOR AND ON BEHALF OF
+Service Provider
+
+Signed by:
+
+Position:
+
+FOR AND ON BEHALF OF
+Customer
+
+
+Page 14:
+SCHEDULE I
+SPECIFIC TERMS ADDENDUM
+
+This Addendum (the “STA”) supplements and amends the Master Service Agreement (the
+“Agreement”), entered into by and between the Service Provider and the Customer on [INSERT
+EFFECTIVE DATE OF MSA]. The “Addendum Effective Date” shall be the date of the last signature
+hereunder. Any capitalized terms used and not defined herein shall have the meaning set forth in the
+
+MSA.
+
+A. Interpretation: This Addendum supplements the MSA and shall be construed and interpreted in a
+harmonious manner as an integral part of the MSA. . In the event of any inconsistency between any
+of the clauses of the MSA and this Addendum, the provisions of the Addendum shall survive. All
+references in the MSA which mention “Section under Schedule I” shall be read as reference to
+Sections mentioned in the Table under Part A provided below.
+
+B. This STA and contains two parts:
+
+(i)
+(ii)
+
+Part A: Reference Terms and Specific Amendments to the MSA.
+Part B: Commercial Terms
+
+PARTA
+Reference Terms and Specific Amendments to the MSA
+
+1. Reference Terms:
+
+Section | Description Particulars
+1. Name of the Service Provider entity | Ctrl S Datacenters Limited
+2. Registered Office A ddress of the Plot No. 16, Software Units Layout, Madhapur,
+Service Provider Hyderabad - 500081
+3. Communication Details of the Address: Plot No. 16, Software Units Layout,
+Service Provider Madhapur, Hyderabad - 500081
+Attn: Legal Team
+Email: legal@ ctrls.in
+4. | Name of the Customer To be inserted by Customer/Business
+5. Registered Office Address of the Tobeinserted by Customer/Business —_—=si|
+Customer
+6. Communication Details of the Address: To be inserted by Customer/Business __|
+Customer | Atin: To be inserted by Customer/Business |
+7. Governing Law Country (Insert India
+name of the country whose laws will
+govern the MSA)
+8. Jurisdiction Hyderabad
+(Enter the name of the city/region
+whose courts of law shall have
+jurisdiction)
+9. Billing Commencement Date TobeinsertedbyBusiness. = ‘|
+10. | Billing Cycle (monthly/quarterly) TobeinsertedbyBusiness ‘|
+11. | Lock-In Period 6 Months
+12. | Cure Period 30 days
+13. | Initial Term (Contract Period) Tobeinserted by Business. = ‘|
+
+
+
+Page 15:
+14. | Change Request Procedure [[e]
+
+2. Specific Amendments to the MSA and/or AUP (if any)
+Sample Amendment clause:
+2.1 The following language amends Clause xx of the MSA:
+“Proposed language of the Clause”
+
+3. General.
+This Addendum does not affect the validity or enforceability of the Agreement. Except for the
+modifications set forth herein, all other terms and conditions of the Agreement remain unchanged
+and in full force and effect. In the event of any conflict between the terms and conditions of this
+Addendum and the terms and conditions of the Agreement, this Addendum shall prevail.
+Nothing in this Addendum:
+
+. prejudices or adversely affects any right, power, authority, discretion or remedy arising under the
+Agreement before the Addendum Effective Date; or
+
+—
+
+ii. discharges, releases or otherwise affects any liability or obligation arising under the Agreement
+before the Addendum Effective Date.
+
+PART B
+Commercial Terms
+
+The services and commercial terms to be provided by the Service Provider shall be detailed in the
+Statement of Work (SOW) provided along with this MSA.
+
+SCHEDULE II
+SERVICE LEVEL AGREEMENT
+
+This Agreement is effective from the Service Commencement Date. This Agreement provides the
+right under certain circumstances specified below, for a Customer to receive Service Credits in the
+event of failure by Service Provider to provide Services to the Customer in accordance with the
+Agreement.
+
+Customer acknowledges that Service Provider has the expertise and knowledge to provide the
+Services. The Customer has shown his interest in availing the Services provided by Service Provider
+by accepting the terms and conditions mentioned in this Agreement and the standard of the Service
+as provided in this SLA.
+1. DEFINITIONS
+
+In this SLA, the following words and expressions, unless inconsistent with the context, shall bear the
+meanings assigned thereto:
+
+“Billing Start Date” shall mean the date of commissioning report submitted to the Customer by
+
+
+Page 16:
+Service Provider. In case the Customer is not satisfied with the solution delivered by Service Provider,
+the Customer shall inform Service Provider of the same within 3 days of the receipt of Commissioning
+Date. Upon receipt of the objection, Service Provider shall suspend all Services, make the changes
+required and release the environment once again with a new Commissioning Report. In such case the
+latter one shall be regarded as the Billing Start Date. If the Customer uses the commissioned set-up,
+though he has a few outstanding requests, Customer shall pay full charges from the first
+Commissioning Report, unless partial billing is agreed to between the parties, before the Customer
+starts using the Services. If no partial billing agreement has been reached and if Customer uses the
+Services even after raising objections, Customer shall pay in full from the first date of Commissioning
+Report
+
+“Downtime” (“D”) shall mean the duration of the Service Outage, calculated in aggregate number
+of hours in respective month. Where if Service Provider identifies the service outage, the downtime
+begins from there on or if customer identifies and a Trouble Ticket is raised from the occurrence of
+Service Outage, the time period for Downtime begins upon start of Service Outage and ends when the
+Trouble Ticket is closed by Service Provider subject to due confirmation from the Customer on
+resolution of the outage. The time periods are calculated on basis on the number of outages per
+respective month and excluding the events covered under headings Exceptions to this SLA which
+shall not for the purposes of this SLA be included while measuring Downtime.
+
+“Exceptions” shall mean all the events as mentioned in Clause 3 of this SLA and shall include either
+an event ora set of events, any occurrence and the duration of occurrence of which shall not constitute
+a Service Outage or Downtime for the purposes of this SLA.
+
+“Emergency Maintenance” shall mean maintenance carried out under a condition or situation which
+poses danger to the system, equipment, network, facilities required for rendering the Service etc. as
+the case may be and has to be attended immediately. Service Provider shall try to notify the Customer
+about the emergency maintenance in advance, whenever feasible.
+
+“Facility” means the facility located at office of Service Provider in Hyderabad where Service
+Provider provides space, racks for placing the servers.
+
+“Fees” means the amount invoiced by Service Provider.
+
+“Network” means the portion of internal computer network owned or operated on behalf of Service
+Provider that extends from the outbound port on a Customer’s cabinet switch to the outbound port on
+the border router and includes all redundant internet connectivity, bandwidth, routers, cabling and
+switches.
+
+“Actual Uptime” (“A”) shall mean the aggregate percentage of Total Uptime Hours in respective
+month during which the Services is actually made available for use by Customer.
+
+“Representatives” means any person who is nominated or appointed by the Customer to visit the
+Facility center.
+
+“Service Credits” shall mean services which the Customer would be entitled on account of failure
+of the Service Provider to provide Services as per the standards mentioned in this Agreement.
+
+“Service Catalogue” shall contain all or any of services/facilities viz., back up facility, dedicated
+firewall facility, hardware monitoring facility, help desk support, load balance server, network and
+power uptime, OS management, shared firewall service and Version Control described in Annexure
+A to this SLA which may be availed by the Customer.
+
+“Service Outage” shall mean an unscheduled disruption/failure in any Service offered by Service
+
+
+Page 17:
+Provider as per this Agreement, due to which Customer’s server is un-accessible to Customer. The
+outage of Services due to, but not limited to the following shall be a Service Outage; Customer is
+unable to transmit to or receive information from his network equipment because Service Provider
+failed to provide facility services to its network equipment including, switch, router, firewall etc.
+Failure of Services like Internet connectivity, IDC LAN etc. shall also be treated as Service Outage.
+
+“Setup Charges”: means all charges which may be incurred by Service Provider for installing the
+server or any other expenses incurred for the commencement of Services to the Customer.
+
+“Support Desk” shall be the location where the Customer should report a fault. Details of the same
+are mentioned in Schedule B to this SLA, orif changed, may be intimated from time to time by Service
+Provider to the Customer.
+
+"Total Uptime Hours" shall mean 24 hours 365 days a year (year is defined as period of 365 days)
+
+“Trouble Ticket” means issuing a ticket with a unique identification number confirming the
+Customer complaint logged in with Service Provider in relation to a Service Outage faced by the
+Customer.
+
+2. SCOPE OF THE SERVICES
+
+2.1 Service Provider may provide such Services as provided in the Service Catalogue provided in
+Annexure A to this SLA. The Customer may issue one or more purchase orders to Service
+Provider for Services and Service Provider shall accept a purchase order only if it is in
+accordance with the terms of this Agreement and for services as covered by the Service
+Catalogue.
+
+2.2 Service Provider assures Customer that it shall provide its immediate support and assistance
+in the event of any disruption in the Services being provided by Service Provider. The manner
+and time frame for troubleshooting and the timelines for the resolution of the problems are
+mentioned in the Annexure A of this Agreement.
+
+2.3 Services will be provided to the Customer by Service Provider with the infrastructure
+available at its data center which consists of the following:
+
+e Dual active power sources from two different power generation plants.
+
+e Tier IV - (system) + (system) Architecture - Fault Tolerant with No Single Point of
+Failure
+
+e Capability to provide 99.995 % SLA
+
+e Unique Six Zone Security System
+
+e Lean Six Sigma - ITIL Framework
+
+e Carrier Neutral Datacenter
+
+e ISO 20000-1 & 27001 Certified
+
+2.4 Service Provider assures the Customer 99.995 % uptime availability of the Infrastructure viz.,
+Power and Cooling** covered by this SLA. Hardware Uptimes SLA would be 4 hours
+resolution from the time of detection of hardware problem either by Service Provider help
+desk or by the Customer. Subject to Clause 3 of this SLA, in the event Service Provider fails
+to provide the Customer with the Services required by the Customer in accordance with the
+SLA, such failure resulting from complete unavailability of Service Provider network, such
+events will be treated as “Qualified Network Downtime Event” for which Service Provider
+will issue the Customer a Service Credit - calculated as per method provided in Clause 2.5.
+
+** Service Provider assures Customer that it will provide cooling @ 21°C (+/-) 2°C and
+
+
+Page 18:
+2.5
+
+Humidity levels @ 50 % (+/-) 5%.
+
+The Actual Uptime (A) calculated in the respective month and it will be measured (compared)
+against the total uptime hours of the year 99.995%. If the outages exceeds total uptime hours
+the following service credits shall be due to Customer:
+
+A >=99.995% No Credits
+
+A in between 99.994% to 99.000% 2 days equivalent service credit for the Service
+period affected calculated on a prorate basis.
+
+A in between 98.999% to 98.000% 7 days equivalent service credit for the Service
+period affected calculated on a prorate basis.
+
+A is <98% 15days equivalent service credit for the Service period affected
+calculated on a prorate basis
+
+Calculation of Actual Uptime % = Total Uptime Hours —A ctual Downtime x 100.
+
+2.6
+
+2.7
+
+3.1
+
+Total Uptime Hours
+
+The Customer is required to provide a preventive maintenance window, once in every quarter
+to enable Service Provider to update the various patches and carry out other preventive
+maintenance. The time required to carry out this preventive maintenance by Service Provider
+shall depend upon the environment of the Customer and shall be informed to the Customer
+before the time window is sought. During this window, Customer’s environment shall not be
+available and the same shall not be counted as Downtime.
+
+For the customized solutions provided by Service Provider, preventive maintenance is
+absolutely essential and the SLAs offered by Service Provider are based on the explicit
+understanding that the Customer will provide opportunity for Service Provider to carry out
+preventive maintenance from time to time. In case the Customer does not provide, at least
+once in a quarter, the requisite downtime to carry out preventive maintenance activities, even
+after a request is made by Service Provider, Service Provider shall not be liable to provide any
+Service Credits or any other compensation in case of Downtime or any other loss to Customer
+such as data loss, denial of service or virus attacks.
+
+Service Provider shall recommend usage of high availability architecture for all critical loads,
+wherein there is a duplication of critical elements. For instance, this may be two power sources
+to a rack, or two firewalls in the network. In a high availability set-up, it is clarified that even
+when one of the elements fail, but the other is still running, then the entire set-
+up/solution/system/environment is considered to be available and the same shall not be
+counted as Downtime.
+
+EXCEPTIONS
+
+The following events do not constitute a Downtime and shall not be eligible to be considered
+
+for any Service Credit:
+
+(a) Interruption due to scheduled maintenance, alteration, or implementation, where the
+Service Provider provides at least seven days prior notice and to the Customer and also
+interruption due to Emergency Maintenance; The usual scheduled maintenance time is
+the early hours of the morning i.e., between lam to 6am. The usual maintenance time
+would not be more than two hours.
+
+
+Page 19:
+4.1
+
+4.2
+
+4.3
+
+5.1
+
+6.1
+
+(b) The quarterly maintainance window as described in clause 2.6 above.
+
+(c) Hardware failure
+
+(d) Failure of the Customer links, internet connectivity or end user software, access circuits,
+local loop or any network not owned or managed by Service Provider.
+
+(e) DNS Issues not in scope and control of Service Provider.
+
+(f) | Negligence or other conduct of Customer or its authorized persons, including a failure
+or malfunction resulting from applications or services provided by Customer or its
+authorized persons;
+
+(g) A shut down due to circumstances reasonably believed by Service Provider to be a
+significant threat to the normal operation of the Services, Service Provider’s facility, or
+access to or integrity of Customer data (e.g., hacker or virus attack);
+
+(h) Failure or malfunction of any equipment or services not provided by Service Provider;
+
+(i) | Any abuse or fraud failure to comply with the Acceptable User Policy on the part of
+Customer and its authorized persons.
+
+(j) Any problems outside the Service Provider Facility Network.
+
+(k) Any interruptions, delays or failures caused by Customer or Customer’s employees,
+agents, or subcontractors, such as, the following:
+
+i, Inaccurate configuration.
+
+ii. Non-compliant use of any software installed on the server.
+iii. Customer initiated server over-utilization.
+iv. Any problems related to the attacks on the machine such as
+
+hacking, attacks, and exploits.
+(1) | Any specific services not part of Services.
+(m) Force Majeure event.
+
+SERVICE CREDIT
+
+Service Provider agrees that it shall provide for the requisite service credits to the Customer
+in the event of it not being able to provide the Services for which it had already received the
+payments.
+
+Service Provider agrees that on occurrence of any event that attracts service credits the
+Customer would be eligible to request a Service Credit on compliance of the terms as
+mentioned in Clause 6.1.(a) of this SLA.
+
+Customer shall be eligible for Service Credit for only those Downtimes which has occurred a
+month prior to the date of claim and the maximum Service Credit to which Customer shall be
+entitled is as mentioned in Clause 6.1.(c).
+
+PAYMENT TERMS
+
+The Customer shall pay all the charges as set out in the Agreement which includes one-time
+setup charges, Quarterly recurring charges and other supplemental charges for any
+Supplemental Services provided including before the Service Commencement Date.
+
+PROCEDURE FOR AVAILING SERVICE CREDITS
+
+Whenever the Customer encounters Service Outage, the following procedure should be
+
+followed;
+
+(a) The Customer should contact Service Provider “Support Desk” without undue delay
+and shall request for a Trouble Ticket number immediately and can track the Trouble
+Ticket number till the Trouble Ticket is closed on resolution of the outage.
+
+(b) Service Provider on the receipt of the issue of Trouble Ticket to the Customer shall have
+a background check to verify if the Customer is eligible for the Service Credit.
+
+
+Page 20:
+6.2
+
+71
+
+8.1
+
+10.
+
+11.
+
+12.
+
+(c) When Service Provider fails to provide Services in accordance of the SLA entitling
+Customer for Service Credits, Service Provider shall credit the Customer's account the
+prorated base charges from the day the Trouble Ticket is issued to Customer till the
+Trouble Ticket is closed on resolution of the outage.
+
+Service Credits will be adjusted in the subsequent billing cycle unless otherwise agreed
+mutually between the Parties.
+
+WARRANTIES OF SERVICE PROVIDER
+
+Additional Warranties of Service Provider in regards to SLA:
+
+Service Provider warrants that it shall perform and provide Services in a professional and
+workmanlike manner in accordance with this A greement.
+
+REPRESENTATIONS OF CUSTOMER
+
+Additional Warranties of Customer in regards to SLA.
+
+(a) The Customer will not do any voice communication from anywhere to anywhere by
+means of dialing a telephone number (PSTN/ISDN/PLMN) as defined in National
+Numbering plan. The customer will not originate the voice communication service from
+a Telephone in India and/or terminate the voice communication to any Telephone
+within India.
+
+(b) The Customer will not establish any connection to any public switched Network (i.e.
+telephone voice network) in India and will not use any dial up lines with outward dialing
+facility from Nodes.
+
+(c) Customer acknowledges and will not establish any interconnectivity between ISPs for
+the purposes of offering Internet Telephony Services.
+
+NETWORK SECURITY:
+
+For securing the servers of clients against any NW threats, the following are implemented:
+Firewall, IPS and Antivirus etc. However, Customer can opt for dedicated security gadgets
+by paying the relevant charges.
+
+MANAGING OS AND DB
+Setup and administering the OS, DB and HW including the patches updation for the servers
+
+for OS and DB will be taken care of by Service Provider as and when required. OS is provided
+with license and accordingly charged.
+
+SERVER AND DB MANAGEMENT
+OS and DB management will be provided by Service Provider to the Customer, if opted for
+and charged accordingly.
+
+CLIENT ACCESS TO THE SERVERS
+
+
+Page 21:
+13.
+
+Customer is allowed to access their server only after providing the PO to Service Provider.
+The Customer is provided with 2 IPs and 24x7x365 monitoring of servers is maintained.
+
+DISCLAIMER
+
+With a commitment and desire to offer the best possible technology to the Customer and
+evolutions in technology, Service Provider shall upgrade its platform from time to time.
+Accordingly, Service Provider reserves its right to change the platform without any change in
+the service levels committed.
+
+
+Page 22:
+Annexure A
+
+As mentioned in the Service Catalogue the following Services will be provided by CtrlS. In the event
+there is a disruption in Service or alarm is triggered, the troubleshooting and resolution of the problem
+in respect of each Service, where applicable, shall be as follows:
+
+SCHEDULE I - TROUBLESHOOTING & RESOLUTION TIMES
+
+Mean Timeto Mean Time to
+Assist Repair
+Priority Priority Definition (MTTA)/ (MTTR)/ Updates
+
+Response Time Resolution
+Time
+
+Out of Service Eg: N/W,
+Device Down, Power Down
+High or Infrastructure down at
+CtrlS Datacenter Premises.
+
+15
+minutes*
+
+1 Hour
+
+8 Hours Interval
+
+Partial/Intermittent Service
+Interruptions — Eg: System,
+N/W performance degraded 1H
+
+but still functioning. (For ‘ x 24 Hi our
+Medium services being provided by 30 minutes ours Interval
+CtrlS and inside its premises)
+
+All Change requests, Access
+Low Requests etc. 1 Hour* 48 Hours 12 Hours
+
+* Time starts when the problem is detected by CtrlS Help Desk team or reported by
+the customer and ends on assistance/repair as applicable &
+
+* Resolution norms for different hardware problems will depend on the SLAs
+
+with respective vendors.
+
+Q 95% of the calls will be attended to within the stipulated response time - Measured
+on a quarterly basis.
+
+Q 90% of the calls will be closed within the stipulated resolution time - Measured on a
+quarterly basis
+
+a Resolution norms will not include WAN link
+
+
+Page 23:
+Schedule II to Annexure — A
+ESCALATION PROCEDURE
+
+1) In Case of a Customer C omplaint:
+
+SI. No. Step Responsibility
+
+1 Customer Care
+Reporting of complaints by the customer Executive
+All complaints are reported to the Helpdesk through any of the means:
+
+Landline No: 040-30580583 Electronic
+
+Mail: support@ ctrls.in
+
+* The customer should give the Customer ID along with the complaint
+which is down for quick tracking & restoration.
+
+2 Customer Care
+Generation of Fault Ticket No Executive
+The Helpdesk will enter the details in the fault management system and
+inform to the customer about the following:
+
+a Fault ticket No
+
+a Expected Restoration Time
+Note 3: The Expected Restoration Time (ERT) will be reported
+within half an hour of the customer complaint with cause of failure.
+
+3 Customer care
+Updates to Customer Executive
+Update to the customer will be given 15 minutes before expiry of ERT.
+
+4 Customer Care
+Escalation of Complaint (By Customer) Executive
+The Customer is free to escalate to relevant CTRL S personnel in case
+customer care does not revert, as per Matrix enclosed.
+
+5 Customer Care
+Ticket Closure Executive
+
+Once the fault has been corrected, Helpdesk will contact the Customer]
+to ensure that he is satisfied with service restoration. The fault ticket will
+be closed in accordance with the Customer’s verbal acceptance of
+satisfactory closure.
+
+
+
+Page 24:
+2) In Case Of Outage: CTRL S IDC will communicate to Customer any outages related to
+Managed Services elements within 20 minutes of observation of fault through NMS or
+escalation by itsEngineers.
+
+** Logging of complaint is mandatory to ensure that fault ticket number is generated for further
+reference & auto escalation through our work flow system.
+
+3) ESCALATION MATRIX
+
+Pre-Sales Escalation
+Matrix
+
+Technical Support
+Escalation Matrix
+
+Billing Escalation
+Matrix
+
+24x 7x 365
+Support
+
+P1- >30 mins
+
+P2 - >02 Hrs
+
+Level 0 (First point of C ontact)
+support@ esupport.Ctrls.in
+
+Will provide the Ticket #for
+your call. This Ticket #to be
+quoted for further
+escalations. Ph. No: +91-
+9963455247
+
+(Shift Mobile Number)
+Level 1 Escalation
+
+Shanker A delli
+(shanker.adelli@ cloud4
+
+c.com)
+
+040-46474747 (Extn:
+2860)
+
+Support
+
++91-40-42030583,
++91-40-46474747
+
+billing@ cloud4c.com
+
+Support@ ctrls.in
+
+Dedicated Account
+Manager
+
+COLO Program Managers
+Email ID : ent-colo-
+pm@ ctrls.in
+PH NO : 6309030691
+
+managers@ ctrls.in
+
+Level 2 Escalation
+
+P1->60 mins
+
+P2->04Hrs
+
+P3 - > 08 Hrs
+
+Sabbik Ubaithullah Azmath Ali Nitin Dicondwar
+Ass. Vice President Azmath.ali@cloud4c.co | nitin.dicondwar@ ctrls
+van hens ITER | osu
+
+Level 3 Escalation
+
+Prasad MV BV Subbraman
+
+Sankaraman
+
+Mr. Vivek T
+Vice President
+
+
+
+Page 25:
+P2 - > 08 Hrs
+
+P3- > 16 Hrs
+
+P1->08 Hrs
+
+P2->16Hrs
+
+P3 - > 32 Hrs
+
+Email ID :
+
+prasad.mvbv@ ctrls.in
+PH NO : 9029059049
+
+subbaraman.sankarra
+
+man@ ctrls.in
+
+internalauditor@ ctrls.in
+
+Level 4 Escalation
+
+Brahma Reddy Mr. Anil Nama
+
+Mr. Neeraj Jha Chief Information
+
+Officer
+
+Senior Vice President
+Email ID : Brahma Reddy,
+
+Kasu brahmareddy@ ctrls.in
+PH NO : 9833222265
+
+Neeraj .jha@ cloud4c.co . .
+mn anilnama@ ctrls.in
+
+
+

@@ -1,0 +1,2936 @@
+Page 1:
+ARISTA Master Services Agreement
+
+MASTER SERVICES AGREEMENT
+
+PLEASE READ THIS MASTER SERVICES AGREEMENT (“AGREEMENT”) CAREFULLY
+BEFORE PURCHASING OR USING THE ARISTA NETWORKS PRODUCTS AND/OR
+SERVICES.
+
+BY PURCHASING OR USING THE ARISTA NETWORKS PRODUCTS AND/OR SERVICES,
+YOU ARE CONSENTING TO BE BOUND BY THIS AGREEMENT.
+
+This Agreement consists the Master Services Agreement General Terms and Conditions, one or
+more of the professional descriptions listed below (the “Service Descriptions”) and, one or
+more Statements of Work (“SOW”) entered into pursuant to a Service Description, if applicable.
+
+To the extent that the Customer has elected to purchase one or more of the Services covered
+by a Service Description, the relevant Exhibit(s) are incorporated into this Agreement by this
+reference:
+
+e Arista Global Services A-Care Maintenance and Support Policy Exhibit, including
+Appendix A
+
+e Arista Professional Services (“PS”) Terms Exhibit
+
+e Awake Security Services Exhibit
+
+MASTER SERVICES AGREEMENT GENERAL TERMS AND CONDITIONS
+
+1. DEFINITIONS.
+
+1.1. “Arista” means Arista Networks, Inc., a Delaware corporation with offices at 5453
+Great America Parkway, Santa Clara, CA 95054 or the other Arista affiliates identified
+in Section 15.1.1 below that enters this Agreement with Customer.
+
+1.2. “Arista Customer Portal” means Arista support website, Arista’s restricted access
+portal for online services and information.
+
+1.3. “Cloud Services” means the cloud hosted services such as CloudVision as a Service
+or Cognitive Cloud WiFi Management Service Customer may purchase subject to
+Arista’s Cloud Services Subscription Agreement available at
+httos://www.arista.com/assets/data/pdf/Cloud_Services_Subscription Agreement.pdf
+
+1.4. “Customer” means the entity subscribing for Services pursuant to a Purchase Order
+or an agreement between Arista and Customer who is the final end user, purchaser or
+licensee and who may have acquired Product(s) for its own internal use and not for
+resale, remarketing, or redistribution.
+
+1.5. “Deliverable” means, with respect to each Statement of Work, the items specified as
+MSA-online v2024.3.12 Page 1 of 53
+
+
+Page 2:
+ARISTA Master Services Agreement
+
+deliverables in such Statement of Work or attached exhibit.
+
+1.6. “Hardware” means the physical components of equipment delivered to Customer as
+part of the Arista Products and/or Services that Arista makes available to Customers
+and that are listed on Arista’s Global Price List.
+
+1.7. “Licensed Product” means Product that has been made available to the Customer
+on a licensed, subscription (or “term’”) basis.
+
+1.8. “Product” means both Hardware and/or Software.
+
+1.9. “Professional Services” include the Arista Professional Services, one or more of the
+Awake Security Services and/or such other professional services as offered from time
+to time by Arista pursuant to this Agreement and the applicable Statement of Work.
+
+1.10. “Purchase Order” means a written or electronic order from Customer to Arista for
+the Services to be provided by Arista under this Agreement.
+
+1.11. “Services” means the services provided by Arista to Customer under this
+Agreement. Services may include Cloud Services, Maintenance and Support
+Services, Professional Services, Awake Security Service, or WiFi Access Point
+Replacement Services, as applicable.
+
+1.12. “Software” means the machine-readable object code software programs licensed to
+Customer by Arista. Software shall exclude the software portion of any Customer
+Programmable Products.
+
+1.13. “Statement of Work” or “SOW” means the document(s) agreed upon by Arista and
+Customer which define(s) the Professional Services to be performed under the
+applicable Exhibit and the Deliverables to be provided pursuant to such document.
+
+2. SCOPE.
+
+This Agreement and the attached Exhibits set forth the terms and conditions for Customer’s
+purchase of and entitlement to the Services during the term of this Agreement. Customer’s
+purchase and use of Cloud Services shall be governed by Arista’s Cloud Services
+Subscription Agreement at the link provided in Section 1.3.
+
+3. ORDERS.
+
+3.1. Orders/Acceptance.
+Customer shall purchase Services and Products by issuing a Purchase Order which is
+
+(i) manually signed by an authorized representative, (ii) issued pursuant to an
+electronic data interchange agreement entered into by the parties, or (iii) a manually or
+electronically signed renewal notice. The Purchase Order will indicate the type of
+
+MSA-online v2024.3.12 Page 2 of 53
+
+
+Page 3:
+ARISTA Master Services Agreement
+
+Products and Services, quantity, price, total purchase price, shipping instructions (if
+relevant), requested delivery dates, bill-to address, tax exempt certifications, if
+applicable, and any other special instructions. Any contingencies or additional terms
+contained on such Purchase Order are not binding upon Arista. The terms and
+conditions of this Agreement prevail regardless of any conflicting or additional terms on
+the Purchase Order or other correspondence. All Purchase Orders are subject to
+approval and acceptance by Arista.
+
+3.2. Order Modifications.
+
+3.2.1. For the first two years of the Term (as defined in Section 7.1), once accepted by
+Arista, each Purchase Order shall constitute a binding commitment by Customer
+that cannot be cancelled or modified prior to shipment except as follows: (a) where
+noncancellation is prohibited by law, (b) shipments may be deferred for no more
+than thirty (30) days from the expected Shipping Date, provided written notice is
+received by Arista at least ten (10) days before the originally scheduled Shipping
+Date; and (c) rescheduled orders or configuration change requests received less
+than ten (10) days before the original expected Shipping Date will be subject to
+acceptance by Arista.
+
+3.2.2. After the first two years of the Term, once accepted by Arista, Purchase Orders
+may be modified subject to the following policy: (a) shipments may be deferred for
+no more than thirty (30) days from the expected Shipping Date, provided written
+notice is received by Arista at least ten (10) days before the originally scheduled
+Shipping Date; and (b) cancelled orders, rescheduled orders or configuration
+change requests received less than ten (10) days before the original expected
+Shipping Date will be subject to acceptance by Arista.
+
+3.2.3. In all cases, Arista reserves the right to reschedule delivery within ten (10) days of
+scheduled shipment and Arista may suspend or cancel any Purchase Order prior
+to shipment if Customer materially breaches this Agreement, fails to make
+payments when due or Arista believes in good faith that Customer’s ability to make
+payments may be impaired.
+
+4. PRICING.
+
+Pricing for Products and Services provided under this Agreement shall be at Arista’s then
+current list price, or as quoted or as specified in the relevant Statement of Work. All stated
+prices do not include any foreign, federal, state or local taxes, tariffs, or sales, use, excise,
+ad valorem, value-add, withholding, or other taxes or duties that may be applicable.
+Payments to Arista pursuant to this Agreement may not be reduced to reflect any
+withholding tax or other tax or mandatory payment to government agencies unless such
+payment is required for the specific Arista Products or Services under the local tax laws.
+Upon mutual written agreement by the Customer and Arista, Customer may withhold such
+tax provided it promptly sends Arista a copy of the withholding tax certificate or equivalent
+document that will be submitted to the local tax authority. When Arista has the legal
+obligation to collect taxes related to any invoice, unless Customer provides Arista with a
+
+MSA-online v2024.3.12 Page 3 of 53
+
+
+Page 4:
+ARISTA Master Services Agreement
+
+valid and acceptable tax exemption certificate prior to issuance of said invoice, the
+appropriate amount shall be added to Customer’s invoice and paid by Customer. If a tax
+authority subsequently finds that any tax payment related to any sale or service to Customer
+was insufficient and requires additional payments by Arista, Arista will make such payments
+and Customer will reimburse Arista for such additional tax payments (including any interest,
+levies, and penalties). Arista will not be responsible for any taxes or other amount assessed
+to Customer by any government agency based on Customer's net income, gross revenue, or
+for any other reason.
+
+5. PAYMENT.
+
+Subject to credit approval by Arista, payment terms shall be net thirty (30) days from invoice
+date. Unless otherwise agreed to in writing, all Services shall be invoiced upfront in advance
+and Arista shall invoice for Products no later than the date such Products are shipped or
+made available to Customer. Customer shall have no right of set off or refund (except as
+expressly stated). All payments shall be made in U.S. currency. Any sum not paid by
+Customer when due shall bear interest until paid at a rate of 1.5% per month (18% per
+annum) or the maximum rate permitted by law, whichever is less. Arista retains a purchase
+money security interest in the Products and Services until paid in full. Customer will
+cooperate with Arista as requested by Arista to perfect any Arista security interest in the
+Products and Services.
+
+6. PRODUCT DELIVERY AND LICENSE.
+
+6.1. Hardware may be sold by Arista to Customer in connection with the Services. Shipping
+terms shall be Ex Works San Jose, California, or other Arista designated shipment
+point (INCOTERMS 2010). Title (other than to licensed software) and risk of loss or
+damage to Arista Products shall pass from Arista to the Customer at the shipping point.
+Delivery and acceptance by Customer shall be deemed to have occurred at the
+shipment point. Customer shall be responsible for all freight, handling and insurance
+charges subsequent to delivery. Shipping dates may change due to unpredictable
+market trends or other causes beyond Arista’s reasonable control. Following delivery,
+Products may only be returned if defective and then, only in accordance with Arista’s
+Hardware Replacement Process outlined in its Limited Warranty
+(https://www.arista.com/assets/data/pdf/Warranty. pdf).
+
+6.2. Customer acknowledges that it may receive or be provided access to Software as a
+result of or in connection with the Services provided under this Agreement. Customer
+acknowledges and agrees that it may be required to use the version of Software
+specified by Arista from time to time as a condition to receiving the Services provided
+under this Agreement. Customer further agrees that it is licensed to use such Software
+only on Hardware authorized by this Agreement. Any such Software is provided
+subject to the terms and conditions of Arista’s End User License Agreement, the
+
+current version of which can be found at
+https://www.arista.com/assets/data/pdf/software-agreement/EndUserLicenseAgreemen
+t.pdf.
+
+MSA-online v2024.3.12 Page 4 of 53
+
+
+Page 5:
+ARISTA Master Services Agreement
+
+Software will be made available for download from the Arista Customer Portal unless
+otherwise specified by Arista.
+
+6.3. Customer acknowledges and agrees that, from time to time, in connection with
+rendering the Services, Arista may place one or more Hardware devices at Customer’s
+facility. Such placement is temporary and Customer is responsible for returning such
+devices at the end of the Services engagement. If Customer fails to promptly return the
+Hardware device following Arista’s request, Arista shall invoice Customer for the device
+at list price and the terms of Section 6.1 shall apply.
+
+7. TERM AND TERMINATION.
+
+7.1. Term. This Agreement shall commence on the Effective Date and continue for as long
+as there is an effective Purchase Order or SOW in place (“Term”) unless terminated in
+accordance with this Section.
+
+7.2. Termination:
+
+7.2.1.
+
+7.2.2.
+
+By either Party: This Agreement, any Services, and/or any SOW hereunder may
+be terminated immediately upon written notice by either party under any of the
+following conditions:
+
+a) If the other party has failed to cure a breach of any material term or condition
+under the Agreement (subject to Section 7.2), and/or SOW within thirty (30)
+days (or such other period stated in the applicable SOW) after receipt of notice
+from the other party including a detailed description of such breach.
+
+b) Either party ceases to carry on business as a going concern, either party
+becomes the object of the institution of voluntary or involuntary proceedings in
+bankruptcy or liquidation, or a receiver is appointed with respect to a substantial
+part of its assets.
+
+c) Either party assigns (by operation of law or otherwise, and including merger) or
+transfers any of the rights or responsibilities granted under this Agreement
+and/or SOW, without the prior written consent of the other party.
+
+By Arista: Notwithstanding anything else to the contrary, Arista may terminate this
+Agreement, any Services, and/or any SOW: (a) immediately upon written notice to
+Customer if Customer fails to pay for the Services when due and fails to make
+such payment within fifteen (15) days after written notice from Arista of such past
+due payment; and/or (b) immediately, effective upon delivery of written notice to
+Customer for breach of Section 3 (Orders), Section 6 (Software License), Section 8
+(Confidential Information), or Section 9 (Export).
+
+7.3. Effect of Termination. Upon termination of this Agreement any Service Orders, and/or
+SOWs, Customer shall, within ten (10) days after termination: (a) at Arista’s discretion,
+return or certify the destruction of all of Arista’s Confidential Information, and (b) either:
+
+MSA-online v2024.3.12 Page 5 of 53
+
+
+Page 6:
+ARISTA Master Services Agreement
+
+(i) return the original and all copies of the Deliverables and related materials received by
+Customer in connection with the terminated work for which Arista has not been paid in
+the course of performance; or (ii) a certificate certifying that Customer has destroyed
+the original and all copies of such Deliverables and related materials; and (c)return, or
+pay the full purchase price, for all Licensed Products that have been placed at
+Customer’s facilities on a temporary basis pursuant to section 6.3 above. In the event
+this Agreement is terminated by either party, neither shall have any further obligations
+under this Agreement, except as specifically provided herein. Termination of this
+Agreement shall not constitute a waiver for any amounts due. Arista is not liable to
+Customer for any damages, expenditures, loss of profits, good will or prospective profits
+of any kind or nature arising out of such termination. The termination or expiration of a
+Service Order and/or SOW shall not terminate this Agreement unless otherwise
+specified by Arista. Notwithstanding any provision to the contrary, Customer’s breach of
+this Agreement, Exhibit or SOW or failure to meet the pre-requisites excuses Arista’s
+performance to the extent such performance has been affected by such breach or
+failure.
+
+8. CONFIDENTIAL INFORMATION.
+
+8.1. Each party hereby acknowledges that, in connection with the performance of this
+Agreement, it may receive from the other party certain confidential or proprietary
+technical and business information and materials (“Confidential Information”). Without
+limiting the generality of the forgoing, Confidential Information shall include, (a) with
+respect to Arista, the Services, Software, and accompanying documentation, data
+produced by the Services or Customer’s use of the Services, test results or other
+outputs of the Services, and the existence of this Agreement and its terms, and (b) with
+respect to Customer, its data. Each party (“Discloser’) may provide Confidential
+Information to the other party (“Recipient”). Recipient agrees to hold and maintain in
+strict confidence all Confidential Information of Discloser and not to use any Confidential
+Information of Discloser except as permitted by this Agreement or as may be necessary
+to perform its obligations under this Agreement. Recipient will use at least the same
+degree of care to protect the Discloser’s Confidential Information as it uses to protect its
+own Confidential Information of like importance, and in no event shall such degree of
+care be less than reasonable care. Recipient shall only provide Confidential Information
+to its employees, contractors and third party service providers who have a need to know
+such Confidential Information for the purposes of this Agreement and who are bound by
+confidentiality obligations as restrictive as these. Recipient agrees that it shall not
+disclose Confidential Information to any other third party. Recipient will use and maintain
+reasonable administrative, physical and technical security measures to protect
+Discloser’s Confidential Information from unauthorized access or disclosure. Recipient
+will promptly notify Discloser of any unauthorized disclosure or use of Confidential
+Information and assist, as Discloser requests, in the investigation, remediation and any
+required reporting or notice.
+
+8.2. Mandatory Disclosure. If a Recipient is required by a judicial order, discovery request
+or other governmental order to disclose any Confidential Information, the Recipient will
+use commercially reasonable efforts to provide the Discloser with notice of such
+
+MSA-online v2024.3.12 Page 6 of 53
+
+
+Page 7:
+ARISTA Master Services Agreement
+
+9.
+
+request or requirement, and the Recipient will use reasonable efforts to ensure that all
+Confidential Information so disclosed is treated confidentially, including without
+limitation, providing reasonable assistance to the Discloser so that the Discloser may
+seek a protective order against public disclosure.
+
+EXPORT.
+
+Customer acknowledges that the Arista Products, Arista Services, and technology, or direct
+products thereof (collectively, "Arista Technology") are subject to export controls and
+sanctions under the laws and regulations of the Territory, the United States (U.S.), the
+European Union and other relevant territories (“Export Regulations”) and Arista reserves
+the right to terminate an Order it believes would violate applicable Export Regulations.
+Customer shall comply with Export Regulations governing use, export, re-export, and
+transfer of Arista Technology, and will obtain all required authorizations, permits, or licenses.
+Customer represents that it is not subject to a comprehensive export prohibition, blocking
+sanction, or asset freeze administered by the U.S. or European Union. Arista and Customer
+each agree to provide the other such information and assistance as may reasonably be
+required by the other in connection with securing such authorizations and licenses, and to
+take timely action to obtain all required supporting documentation.
+
+Without limiting the generality of any of the forgoing, Customer shall not sell, export, or
+re-export, directly or indirectly, the Arista Technology to the Russian Federation, Belarus, or
+the non-government controlled regions of Ukraine (collectively, the “Sanctioned Regions’)
+or for use in the Sanctioned Regions. Furthermore, Customer shall use best efforts to
+ensure that no third party involved in Customer’s supply chain sells, exports, or re-exports,
+any Arista Technology directly or indirectly, to a Sanctioned Region, and Customer shall
+establish and maintain an adequate monitoring mechanism to enforce this obligation. In
+addition, Customer shall immediately inform Arista of any violations of this paragraph and
+shall make available to Arista information concerning compliance with the obligations under
+this paragraph within two weeks of delivery of Arista’s written request for such information.
+Any violation of this paragraph shall constitute a material breach of an essential element of
+this Agreement and (a) shall void Arista's warranty obligation concerning the Arista Products
+shipped in violation of this Paragraph and (b) entitle Arista to seek appropriate remedies,
+including, but not limited to (i) termination of this Agreement and (ii) a penalty in the amount
+of the price of the goods exported.
+
+. WARRANTY.
+
+ARISTA WARRANTS THAT ALL SERVICES PROVIDED UNDER THIS AGREEMENT
+SHALL BE PERFORMED IN A PROFESSIONAL AND WORKMANLIKE MANNER.
+
+THE ONLY WARRANTY ARISTA PROVIDES WITH RESPECT TO ANY PRODUCTS IS
+THE WRITTEN LIMITED WARRANTY STATEMENT PROVIDED WITH THE PRODUCTS
+OR OTHERWISE SET FORTH AT hitps://www.arista.com/assets/data/pdf/Warranty.pdf AND
+NOTHING IN THIS AGREEMENT SHALL AFFECT THIS WARRANTY. EXCEPT AS
+SPECIFIED IN THIS AGREEMENT, ALL EXPRESS OR IMPLIED CONDITIONS,
+REPRESENTATIONS, AND WARRANTIES INCLUDING, WITHOUT LIMITATION, ANY
+
+MSA-online v2024.3.12 Page 7 of 53
+
+
+Page 8:
+ARISTA Master Services Agreement
+
+IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, SATISFACTORY QUALITY, AGAINST INFRINGEMENT OR
+ARISING FROM A COURSE OF DEALING, USAGE, OR TRADE PRACTICE, ARE
+HEREBY EXCLUDED TO THE EXTENT ALLOWED BY APPLICABLE LAW. CUSTOMER
+ACKNOWLEDGES AND AGREES THAT ARISTA, ITS AFFILIATES, OFFICERS,
+DIRECTORS, EMPLOYEES, SUPPLIERS, AUDITORS AND ITS SUBCONTRACTORS, DO
+NOT WARRANT THAT THE SERVICES OR DELIVERABLES WILL MEET THE
+CUSTOMER’S REQUIREMENTS, BE UNINTERRUPTED, TIMELY, SECURE OR ERROR
+FREE OR MAKE ANY WARRANTY AS TO THE RESULTS WHICH MAY BE OBTAINED
+FROM THE SERVICES OR DELIVERABLES. THE DELIVERABLES ARE NOT DESIGNED,
+INTENDED, OR LICENSED FOR USE IN ANY AERONAUTICAL, NUCLEAR, MEDICAL,
+LIFE SAVING OR LIFE SUSTAINING SYSTEMS, OR FOR ANY OTHER APPLICATION IN
+WHICH THE USE OF THE DELIVERABLES COULD CREATE A SITUATION WHERE
+PERSONAL INJURY OR DEATH MAY OCCUR. CUSTOMER MUST NOTIFY ARISTA
+PROMPTLY OF ANY CLAIMED BREACH OF ANY WARRANTIES. CUSTOMER’S SOLE
+AND EXCLUSIVE REMEDY FOR BREACH OF WARRANTY SHALL BE, AT ARISTAS
+OPTION, RE-PERFORMANCE OF THE SERVICES, OR TERMINATION OF THE
+APPLICABLE SERVICES AND RETURN OF THE PORTION OF THE FEES PAID TO
+ARISTA BY CUSTOMER FOR SUCH NON-CONFORMING SERVICES OR
+DELIVERABLES. THIS DISCLAIMER AND EXCLUSION SHALL APPLY EVEN IF THE
+EXPRESS WARRANTY AND LIMITED REMEDY SET FORTH ABOVE FAILS OF ITS
+ESSENTIAL PURPOSE. THE WARRANTY PROVIDED IS SUBJECT TO THE LIMITATION
+OF LIABILITY SET FORTH IN SECTION 12 HEREOF. CUSTOMER IS RESPONSIBLE
+FOR BACKING UP AND PROTECTING ALL CUSTOMER DATA, INFORMATION,
+EQUIPMENT AND SYSTEMS. ARISTA, ITS SUBSIDIARIES, AFFILIATES, SUPPLIERS
+AND LICENSORS, ARE NOT RESPONSIBLE FOR LIABLE FOR LOSS, CORRUPTION
+OR DESTRUCTION OF CUSTOMER DATA, NETWORKS OR EQUIPMENT.
+
+. FORCE MAJEURE.
+
+Arista will be excused from any obligation to the extent performance thereof is affected by
+acts of God, fire, flood, riots, material shortages, strikes, governmental acts, pandemics,
+disasters, earthquakes, inability to obtain labor or materials through its regular sources, or
+any other reason beyond the reasonable control of Arista.
+
+. LIMITATION OF LIABILITY.
+
+NOTWITHSTANDING ANYTHING ELSE HEREIN, ALL LIABILITY OF ARISTA, ITS
+AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, SUPPLIERS, AUDITORS OR ITS
+SUBCONTRACTORS FOR CLAIMS ARISING UNDER THIS AGREEMENT OR
+OTHERWISE SHALL BE LIMITED TO THE MONEY ACTUALLY PAID BY CUSTOMER TO
+ARISTA (EITHER DIRECTLY OR THROUGH AN AUTHORIZED CHANNEL PARTNER)
+FOR THE PRODUCTS AND SERVICES UNDER THIS AGREEMENT DURING THE
+TWELVE (12) MONTH PERIOD PRECEDING THE EVENT OR CIRCUMSTANCES GIVING
+RISE TO SUCH LIABILITY. THIS LIMITATION OF LIABILITY IS CUMULATIVE AND NOT
+PER INCIDENT.
+
+MSA-online v2024.3.12 Page 8 of 53
+
+
+Page 9:
+ARISTA Master Services Agreement
+
+13. CONSEQUENTIAL DAMAGES WAIVER.
+
+IN NO EVENT SHALL ARISTA, ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES,
+SUPPLIERS, AUDITORS OR ITS SUBCONTRACTORS BE LIABLE FOR ANY
+INCIDENTAL, SPECIAL, INDIRECT, PUNITIVE OR CONSEQUENTIAL DAMAGES, LOST
+REVENUE, LOST PROFITS, LOST OR DAMAGED DATA, INTERRUPTION OF
+BUSINESS, LOST OPPORTUNITY, LOSS OF GOODWILL OR LOSS OF REPUTATION OR
+COST OF PROCUREMENT OF SUBSTITUTE PRODUCTS, SERVICES OR
+TECHNOLOGY OR OTHER INTANGIBLE LOSS WHETHER ARISING IN CONTRACT,
+TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, EVEN IF
+ARISTA, ITS LICENSORS, SUPPLIERS OR SUBCONTRACTORS HAVE BEEN ADVISED
+OF THE POSSIBILITY THEREOF. THESE LIMITATIONS SHALL APPLY UNDER ANY
+THEORY OF LIABILITY, INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM
+THE USE OF ANY PRODUCTS AND/OR SERVICES PROVIDED HEREUNDER, OR THE
+FAILURE OF SUCH PRODUCTS OR SERVICES TO PERFORM, OR FOR ANY OTHER
+REASON, AND SHALL APPLY NOTWITHSTANDING THE FAILURE OF THE ESSENTIAL
+PURPOSE OF ANY LIMITED REMEDY.
+
+14. NOTICES.
+
+All notices required or permitted under this Agreement will be in writing and will be deemed
+given: (a) when delivered personally; (b) five (5) days after having been sent by registered or
+certified mail, return receipt requested, postage prepaid (or ten (10) days for international
+mail); or (c) one (1) day after deposit with a commercial express courier specifying next day
+delivery (or two (2) days for international courier packages specifying 2-day delivery), with
+written verification of receipt. All communications will be sent to the addresses as
+designated by a party by giving written notice to the other party pursuant to this paragraph.
+
+15. GENERAL PROVISIONS.
+15.1. Choice of Law and Ordering Party.
+
+15.1.1. This Agreement shall be by and between Customer and the Arista entity
+identified below in 15.1.1(a) - (d) based on the region where Customer's
+Purchase Order will be fulfilled (each “Arista” as applicable):
+
+a) Arista Networks, Inc., a Delaware corporation with offices located at 5453
+Great America Parkway, Santa Clara, CA 95054 where Customer’s purchase
+will be fulfilled within either North America or South America.
+
+b) Arista Networks Limited, an Irish limited company with a registered address
+at 70 Sir John Rogerson's Quay, Dublin 2, Ireland where Customer’s
+Purchase Order will be fulfilled outside of North America and South America
+(excluding the United Kingdom and Sweden).
+
+MSA-online v2024.3.12 Page 9 of 53
+
+
+Page 10:
+ARISTA Master Services Agreement
+
+c) Arista Networks UK Ltd an English limited company with a registered
+address at 6th Floor, One London Wall, London, EC2Y 5EB where
+Customer’s Purchase Order will be fulfilled within the United Kingdom
+
+d) Arista Networks Sweden AB a Swedish limited company with a registered
+address at Arista Networks Sweden AB c/o Azets Insight AB
+Ekensbergsvagen 113, Box 1424, 171 27 Solna, Sweden where Customer’s
+Purchase Order will be fulfilled in Sweden.
+
+15.1.2. If this Agreement is executed by Arista Networks, Inc., the validity,
+
+interpretation, and performance of this Agreement shall be controlled by and
+construed under the laws of the State of California, United States of America, as
+if performed wholly within the state and without giving effect to the principles of
+conflicts of laws.
+
+15.1.3. If this Agreement is executed by an Arista affiliate that is not listed in subsection
+
+15.1.2 above, the validity, interpretation, and enforcement of this Agreement
+shall be governed by the domestic laws of the Republic of Ireland and the courts
+of Ireland shall have exclusive jurisdiction over any claim arising hereunder,
+except as expressly provided below.
+
+15.1.4. Notwithstanding the foregoing, either party may seek interim injunctive relief in
+
+15.2.
+
+15.3.
+
+15.4.
+
+any court of appropriate jurisdiction with respect to any alleged breach of such
+party's proprietary rights. The parties specifically disclaim the application of the
+UN Convention on Contracts for the International Sale of Goods to the
+interpretation or enforcement of this Agreement.
+
+No Waiver. No waiver of rights under this Agreement by either party shall constitute
+a subsequent waiver of this or any other right under this Agreement.
+
+Assignment. Neither this Agreement nor any rights or obligations under this
+Agreement or under any Purchase Order or SOW, other than monies due or to
+become due, shall be assigned or otherwise transferred by Customer (by operation
+of law or otherwise) without the prior written consent of Arista. Arista shall have the
+right to assign all or part of this Agreement or any Purchase Order or SOW without
+Customer's approval. This Agreement, including any related Purchase Order and
+SOWs, shall bind and inure to the benefit of the successors and permitted assigns
+of the parties.
+
+Severability. In the event any of the terms of this Agreement become or are
+declared to be illegal or otherwise unenforceable by any court of competent
+jurisdiction, such term(s) shall be null and void and shall be deemed deleted from
+this Agreement. All remaining terms of this Agreement shall remain in full force and
+effect. Notwithstanding the foregoing, if this paragraph becomes applicable and, as
+a result, the value of this Agreement is materially impaired for either party, as
+determined by such party in its sole discretion, then the affected party may terminate
+
+MSA-online v2024.3.12 Page 10 of 53
+
+
+Page 11:
+ARISTA Master Services Agreement
+
+15.5.
+
+15.6.
+
+15.7.
+
+15.8.
+
+15.9.
+
+15.10.
+
+15.11.
+
+this Agreement by notice to the other.
+
+Independent Contractor Relationship. Arista and Customer understand,
+acknowledge and agree that Arista’s relationship with Customer will be that of an
+independent contractor and that nothing in this Agreement is intended to or should
+be construed to create a partnership, joint venture, or employment relationship.
+
+Attorneys’ Fees. In any suit or proceeding between the parties relating to this
+Agreement, the prevailing party will have the right to recover from the other its costs
+and reasonable fees and expenses of attorneys, accountants, and other
+professionals incurred in connection with the suit or proceeding, including costs,
+fees and expenses upon appeal, separately from and in addition to any other
+amount included in such judgment. This provision is intended to be severable from
+the other provisions of this Agreement, and shall survive and not be merged into any
+such judgment.
+
+No Agency. Neither party has the right or authority to, and shall not, assume or
+create any obligation of any nature whatsoever on behalf of the other party or bind
+the other party in any respect whatsoever.
+
+Amendment. Arista may amend the terms of this Agreement at any time in its sole
+discretion, and Customer agrees to be bound to such amendment.
+
+Survival. Sections 6 (Software License), 7 (Term and Termination), 8 (Confidential
+Information), 9 (Export), 10 (Warranty), 12 (Limitation of Liability), 13 (Consequential
+Damages Waiver), 15 (General Provisions) and all outstanding payment obligations
+under this Agreement, along with such provisions in the Exhibit or Statement of
+Work which, by their nature, survive the termination for any reason, shall survive
+termination of this Agreement or any Exhibit hereto.
+
+Privacy. Customer acknowledges that to the extent Arista collects or processes
+personal data from Customer, including that of Customer’s personnel to provide the
+Services, Arista does so in accordance with Arista's privacy policy available at:
+httos://www.arista.com/en/privacy-policy, as updated by Arista from time to time.
+Arista uses personal data from Customer only in connection with the administration
+of the Agreement and in providing any sales, service or support for Customer.
+Customer represents and warrants that it has the right to disclose such personal
+data to Arista including any notice and consents necessary for Arista to process
+such data as set forth herein.
+
+Counterparts. Facsimile or scanned signatures and signed facsimile or scanned
+copies of this Agreement will legally bind the Parties to the same extent as originals.
+This Agreement may be executed in multiple counterparts all of which taken
+together will constitute one single agreement between the Parties.
+
+MSA-online v2024.3.12 Page 11 of 53
+
+
+Page 12:
+ARISTA Master Services Agreement
+
+Arista Global Services A-Care
+Maintenance and Support Services Policy Exhibit, including Appendix A
+
+This Arista Global Services A-Care Maintenance and Support Policy Exhibit is an exhibit to the
+Master Services Agreement entered into by Arista and the Customer named therein and is
+incorporated into the Master Services Agreement by this reference and describes the support
+Services provided by Arista (“Maintenance and Support Services”). All capitalized terms not
+defined below have the meaning ascribed thereto in the Master Services Agreement. In the
+event of a conflict between the terms of this Exhibit and the Master Services Agreement, the
+terms of this Exhibit shall govern.
+
+Standard Warranty:
+
+e Arista warrants its Hardware Products for one (1) year from the date of shipment. Arista
+Software Products (other than Arista Software Products) are warranted for a period for
+ninety (90) days from the date of shipment or the date that they are made available for
+download by the customer, as the case may be. Arista’s product and software warranty
+policy is available at https://www.arista.com/assets/data/pdf/Warranty.pdf.
+
+e A separate additional warranty is available for purchase for Arista’s Wi-Fi Access Point
+Products. This warranty is described in the Arista WiFi Access Point Replacement
+Service Program Exhibit to this Agreement.
+
+e A separate additional warranty is applicable to the software portion of Arista’s Security
+Service Products. This warranty is described in the Arista Security Service Program
+Exhibit to this Agreement.
+
+e Arista TAC will evaluate Standard Warranty claims based on failure to meet the
+applicable specifications and send return material authorization (“RMA”) instructions as
+needed.
+
+This Arista Global Services A-Care Maintenance and Support Service Support Policy is
+offered for purchase as an additional support service to compliment Arista’s Standard Warranty.
+
+1. DEFINITIONS.
+
+1.1. “Additional Services” means installation of new Hardware, system additions,
+Hardware upgrades, or non- mandatory engineering changes.
+
+1.2. “Advance Replacement” means shipment of replacement FRU(s) in advance of
+receipt of failed/defective FRU(s).
+
+1.3. “Customer Programmable Product” means products from Arista in which the
+software portions are programmable by parties other than Arista.
+
+1.4. “Field Replacement Unit (FRU)” means a unit of Hardware or any component of a
+unit of Hardware, subject to size and weight limitations, which can reasonably be
+replaced at a Customer location. Arista typically stocks all FRUs in its parts depots
+except for spare chassis for the 7300, 7500, and 7800 Series products. Those parts
+
+MSA-online v2024.3.12 Page 12 of 53
+
+
+Page 13:
+ARISTA Master Services Agreement
+
+are expected to have a very low failure rate and may not be stocked in all Arista
+Service Depots, and as such, may not be available for same day or next day delivery
+services.
+
+1.5. “Four-Hour Response” means the four (4) hour time period commencing upon
+Arista’s problem diagnosis and determination that a FRU is required and ending when
+the Advance Replacement FRU is delivered on-site and where applicable, an on-site
+engineer arrives at the Customer’s designated location.
+
+1.6. “Maintenance Release” means an incremental release of Software that provides
+maintenance fixes and may provide additional features. Maintenance Releases are
+designated by Arista as a change in the digit(s) to the right of the tenths digit of the
+Software version number [x.x.(x)].
+
+1.7. “Major Release” means a release of Software that provides additional Software
+features and/or functions. Major Releases are designated by Arista as a change in the
+ones digit of the Software version number [(x).x.x].
+
+1.8. “Minor Release” means an incremental release of Software that provides
+maintenance fixes and additional Software features. Minor releases are designated by
+Arista as a change in the tenths digit(s) of the Software version number [x.(x).x].
+
+1.9. “Reinstallation” means that the Product that Customer installed at its designated
+location is removed and the Advance Replacement FRU supplied by Arista is placed in
+the same location.
+
+1.10. “Standard Business Hours” means 9:00 a.m. to 5:00 p.m., local time (Customer’s
+location), Monday through Friday, excluding local and Arista-observed holidays.
+
+1.11. “Single Point of Contact Support” means support services are delivered directly by
+Arista.
+
+1.12. “TAC” means Arista’s Technical Assistance Center.
+
+1.13. “Two-Hour Response” means the two (2) hour time period commencing upon Arista’s
+problem diagnosis and determination that a FRU is required and ending when the
+Advance Replacement FRU is delivered on-site and where applicable, an on-site
+engineer arrives at the Customer’s designated location.
+
+1.14. “WiFi Access Point Advance Replacement” means shipment of replacement
+WiFi-FRU(s) in advance of receipt of failed/defective FRU(s) described in 2.2.7 below
+and is the only Service available for Arista WiFi access point Products under this
+Exhibit.
+
+1.15. “WiFi Access Point Field Replacement Unit” (or “WiFi-FRU”) means a unit of
+Hardware or any component of a unit of WiFi access point Hardware, subject to size
+and weight limitations.
+
+2. SERVICE RESPONSIBILITIES OF ARISTA.
+
+According to the support level selected by the Customer and in consideration of the fee paid
+MSA-online v2024.3.12 Page 13 of 53
+
+
+Page 14:
+ARISTA Master Services Agreement
+
+by Customer, Arista, either directly or locally through an Arista-approved Services Partner
+(“Arista Partner’), shall provide the following Maintenance and Support Services where
+available and in accordance with the provisions of this Exhibit. In order for Customer to
+receive independent access to Arista’s Customer Software download portal, Customer must
+maintain Maintenance Services for all of its Products. Customer may only download and/or
+install Software under this Exhibit onto Arista Products with Support Services then in effect.
+The Maintenance and Support Services shall commence on the date of shipment of the
+Product to which such Maintenance Services apply. The term of Service shall continue for
+the period purchased by the Customer as specified on the Purchase Order. The parties may
+agree to renew or extend any then current Service term by purchasing additional terms of
+Service. If Customer does not renew or extend the Maintenance Services term for an Arista
+Product prior to such term’s expiration, Arista may, in its sole direction, require Customer to
+pay to Arista a reinstatement fee, in addition to paying Arista for back-dated Services until
+such Product’s support Services are current, at Arista’s then current list prices, before the
+new Maintenance Services term can be applied to such Arista Product if Customer elects to
+purchase Maintenance Services for such Arista Product.
+
+2.1. Maintenance and Support Services.
+
+2.1.1. Assist the Customer by telephone or electronic mail (for information related to
+Product use, configuration and troubleshooting).
+
+2.1.2. Under Single Point of Contact Support, provide 24 hours per day, 7 days per week
+access to TAC. Arista will respond to Priority 1 and 2 calls within one (1) hour and
+Priority 3 and 4 calls no later than the next business day.
+
+2.1.3. Manage the Problem Prioritization and Escalation Guidelines described in Appendix
+A. Generate work-around solutions to reported Software problems using reasonable
+commercial efforts or implement a patch to the Software. For a Software patch,
+Arista or the Arista Partner will make a Maintenance Release available to the
+Customer for the Product experiencing the problem or provide a Software image, as
+agreed by the Customer.
+
+2.1.4. Support any release of Software in accordance with Arista’s EOS Lifecycle Policy
+(available at
+
+httos://www.arista.com/en/support/product-documentation/eos-life-cycle-policy which
+Arista may update at any time).
+
+2.1.5. Provide Major Release(s), Minor Release(s), and Maintenance Release(s), upon
+Customer request, for Software supported under this Exhibit.
+
+2.1.6. Provide the Customer with access to the Arista Customer Portal. This system
+provides the Customer with technical and general information on Arista Products,
+access to Arista’s on-line Software library, and Customer install base information.
+
+2.1.7. Arrange all remedial support shipments to Customer via transportation as specified
+in Section 2.2. Request for alternate carriers will be at Customer’s expense.
+
+MSA-online v2024.3.12 Page 14 of 53
+
+
+Page 15:
+ARISTA Master Services Agreement
+
+2.1.8. Provide, upon request, supporting documentation via email or through the Arista
+Customer Portal for each Software release for Product supported hereunder.
+
+2.2. Advance Replacement Services.
+
+Arista or Arista Partner will offer the following levels of Advance Replacement subject
+to geographic availability. Destination country importation and customs processes may
+condition delivery times. Advance Replacement FRUs will be either new or equivalent
+to new at Arista’s discretion, and the Advance Replacement FRU may be of like or
+similar equipment or next generation equipment at Arista’s discretion. Arista shall be
+responsible for the cost of shipping the Advanced Replacement FRU to Customer and
+the associated defective RMA Product to Arista’s parts depot.
+
+2.2.1. A-Care Next Business Day/Same-Day-Ship.
+
+2.2.1.1.
+
+2.2.1.2.
+
+2.2.1.3.
+
+Next Business Day Advance Replacement is available for purchase in
+countries where Arista has a parts depot. In countries where an Arista
+parts depot is not available, Advance Replacement FRU parts will be
+shipped the same day from the nearest parts depot and actual delivery to
+Customer may vary based on delays due to transit, customs and
+importation.
+
+Advance Replacement FRU parts will ship the same day to arrive the next
+business day provided both the call and Arista’s or Arista’s Partner’s
+diagnosis and determination of the failed Hardware has been made before
+3:00 p.m., local time, Monday through Friday (excluding local and
+Arista-observed holidays). For requests after 3:00 p.m., local time, the
+Advance Replacement FRU parts will ship the next business day.
+
+No installation services are provided as part of this offering.
+
+2.2.2. A-Care Return-to-Base.
+
+2.2.2.1.
+
+Return to Base Advance Replacement is available for purchase only for
+certain Arista Products, and is available only in countries where Arista has
+a parts depot. Advance Replacement FRU parts will be shipped standard
+delivery service from Arista designated parts depot. Actual delivery to the
+Customer will vary depending on the destination country and location and
+Arista makes no commitment as to when Customer will receive the
+Advanced Replacement FRU. No installation services are provided as
+part of this offering.
+
+2.2.3. A-Care 4-Hour.
+
+2.2.3.1.
+
+MSA-online v2024.3.12
+
+Where available, A-Care 4-hour service may be purchased. Availability for
+A-Care 4-Hour service is restricted to within one hundred (100) miles of
+
+Page 15 of 53
+
+
+Page 16:
+ARISTA Master Services Agreement
+
+2.2.3.2.
+
+2.2.3.3.
+
+2.2.3.4.
+
+an Arista parts depot (in the U.S.) and seventy-five (75) kilometers
+(outside the U.S.) of an Arista parts depot.
+
+Advance Replacement FRUs will be delivered on-site twenty-four (24)
+hours per day, seven (7) days per week, including Arista-observed
+holidays.
+
+Arista will make commercially reasonable efforts to provide Four-Hour
+Response for on-site delivery of the replacement part.
+
+No installation services are provided as part of this offering.
+
+2.2.4. A-Care 2-Hour.
+
+2.2.4.1.
+
+2.2.4.2.
+
+2.2.4.3.
+
+2.2.4.4.
+
+Where available, A-Care 2-hour service may be purchased. Availability for
+A-Care 2-Hour service is restricted to within twenty-five (25) miles of an
+Arista parts depot (in the U.S.) and twenty (20) kilometers (outside the
+U.S.) of an Arista parts depot.
+
+Advance Replacement FRUs will be delivered on-site twenty-four (24)
+hours per day, seven (7) days per week, including Arista-observed
+holidays.
+
+Arista will make commercially reasonable efforts to provide Two-Hour
+Response for on-site delivery of the replacement part.
+
+No installation services are provided as part of this offering.
+
+2.2.5. A-Care On-site 4-Hour.
+
+2.2.5.1.
+
+2.2.5.2.
+
+2.2.5.3.
+
+If the On-site 4-Hour reinstallation option is purchased by the Customer,
+Advance Replacement FRU parts will be delivered and Reinstalled on-site
+twenty-four (24) hours per day, seven (7) days per week, including Arista-
+observed holidays.
+
+Arista will make commercially reasonable efforts to provide Four-Hour
+Response for on-site delivery and commencement of Reinstallation of the
+part.
+
+Availability for A-Care On-Site 4-Hour service is restricted to Customer
+location s that are within one hundred (100) miles of an Arista parts depot
+(in the U.S.) or seventy-five (75) kilometers (outside the U.S.) of an Arista
+parts depot.
+
+2.2.6. A-Care On-site Next Business Day / Same-Day-Ship.
+
+MSA-online v2024.3.12
+
+Page 16 of 53
+
+
+Page 17:
+ARISTA Master Services Agreement
+
+2.3.
+
+2.4.
+
+2.2.6.1. If this service level is purchased by the Customer, Advance Replacement
+FRUs will ship the same day to arrive the next business day for
+Reinstallation provided both the call and Arista’s or Arista’s Partner’s
+diagnosis and determination of the failed Hardware has been made before
+3:00 p.m., local time, Monday through Friday (excluding Arista-observed
+holidays). For requests after 3:00 p.m., local time, the Advance
+Replacement FRU will ship the next business day.
+
+2.2.6.2. Where available, A-Care Next Business Day service may be selected.
+Availability for Next Business Day service is available for Customer
+locations that are within one hundred (100) miles of an Arista parts depot
+(in the U.S.) or seventy-five (75) kilometers (outside the U.S.) of an Arista
+parts depot.
+
+2.2.7. Access Point Replacement Service.
+
+2.2.7.1. Next business day WiFi Access Point Advance Replacement Service is
+available in countries where Arista has a parts depot. WiFi-FRU parts will
+be shipped the same day from the nearest parts depot and actual delivery
+to Customer may vary based on delays due to transit, customs and
+importation.
+
+2.2.7.2. WiFi-FRU parts will ship the same day to arrive the next business day
+provided both the call and Arista’s or Arista’s Partner’s diagnosis and
+determination of the failed Hardware has been made before 3:00 p.m.,
+local time, Monday through Friday (excluding Arista-observed holidays).
+For requests after 3:00 p.m., local time, the WiFi-FRU parts will ship the
+next business day.
+
+Third Party Providers.
+Arista reserves the right to subcontract Services to a third party organization to provide
+Maintenance and Support Services to Customer.
+
+Arista Parts Depots.
+A list of Arista parts depots (Arista RMA depots) is available on Arista website at
+
+https://www.arista.com/en/support/customer-support/a-care-services.
+
+3. SERVICE RESPONSIBILITIES OF CUSTOMER.
+
+3.1.
+
+3.2.
+
+3.3.
+
+Customer will provide a priority level as described in Appendix A for all calls placed.
+
+Customer shall provide reasonable access to the Product through the Internet or via
+modem such that problems may be diagnosed and corrected remotely.
+
+Customer agrees to use the version of Software that may be required from time to time
+by Arista. Customer acknowledges and agrees that Arista may, at Arista’s option,
+require that the latest release of Software be used by Customer on replacement
+
+MSA-online v2024.3.12 Page 17 of 53
+
+
+Page 18:
+ARISTA Master Services Agreement
+
+3.4.
+
+3.5.
+
+3.6.
+
+3.7.
+
+3.8.
+
+Hardware provided by Arista, in which case Customer shall promptly return the old
+Hardware to Arista or Arista will arrange for the return of such Hardware.
+
+Customer will provide sixty (60) days’ Notice to Arista of any requested new Product
+addition(s) to installation locations.
+
+Customer agrees to pay all travel expenses if Arista is requested by Customer to
+perform Maintenance and Support Services at Customer’s facilities. However,
+reasonable travel is included with Arista’s On-Site A-Care offering. Engineering time
+will be billed at the then-current applicable time and materials rates.
+
+Customer agrees to notify Arista, by opening a TAC case or contacting
+renewals@arista.com, when it plans to move any Product to a new location. Customer
+agrees to make such notification thirty (30) days prior to Product relocation. In cases
+where the Customer has relocated Product to a new location without notifying Arista of
+the location change, Arista cannot guarantee delivery of next business day, 2-hour or
+4-hour service, if Customer has purchased such support. In such events, Arista will,
+subject to inventory availability, make commercially reasonable efforts to deliver
+advanced replacement part(s) same day from an alternate Arista service depot, with
+actual delivery times subject to transportation, customs, and import processing times.
+
+Customer is responsible for returning to Arista all defective or returned Product in
+accordance with Arista’s RMA procedure. Arista’s RMA procedure is available on the
+Arista Customer Portal. Where Reinstallation has been purchased, Arista will be
+responsible for removing the defective or returned Product. Customer is responsible for
+the following when receiving Advance Replacement FRUs and returning replaced.
+
+Under standard A-Care service (Sections 2.2.1, 2.2.2, 2.2.3, 2.2.4, and 2.2.7 above):
+
+3.8.1. Customer is responsible for proper packing of the returned Product.
+
+3.8.2. Returns must be received at an authorized Arista return location within ten (10)
+
+3.9.
+
+business days; otherwise, the list price of the Hardware will be charged, or Arista will
+arrange for the return of the product.
+
+Customer is responsible for the following when receiving On-Site Reinstallation of
+Products under A-Care Service (Section 2.2.5 and 2.2.6 above):
+
+3.9.1. At least sixty (60) days prior to the intended start of On-Site Reinstallation services,
+
+inform Arista of any security or other considerations that must be followed when
+On-Site Reinstallation services are being performed.
+
+3.9.2. Customer shall provide to Arista, and Arista shall ensure that its personnel or
+
+subcontractors make commercially reasonable efforts to comply with, Customer’s
+security regulations in their activities at Customer sites or in connection with
+Customer systems.
+
+MSA-online v2024.3.12 Page 18 of 53
+
+
+Page 19:
+ARISTA Master Services Agreement
+
+3.9.3. Provide applicable access credentials or other means of gaining access to the
+
+Products that will be replaced.
+
+3.9.4. Make appropriate personnel available to assist Arista in the performance of its
+
+responsibilities.
+
+3.9.5. Provide safe access, high speed connectivity to the Internet, and other facilities for
+
+personnel while working at Customer’s location.
+
+3.9.6. Provide all information and materials reasonably required to enable Arista to access
+
+the Products and to provide the Services.
+
+3.9.7. Be responsible for the identification or interpretation of, and compliance with, any
+
+applicable laws, regulations, and statutes that affect Customer’s existing systems,
+applications, programs, or data to which Arista will have access during its
+performance of the Services, including applicable data privacy, export, and import
+laws and regulations. It is Customer’s responsibility to ensure the locations,
+systems, applications, programs, and data meet the requirements of those laws,
+regulations and statutes.
+
+3.10. Customer acknowledges that it is only entitled to receive Services on the Product for
+
+3.11.
+
+which it has paid a separate fee for the applicable term specified in the Purchase
+Order. Arista reserves the right, upon reasonable advance notice, to perform an audit
+of Customer’s Products and records to validate such entitlement and to charge for
+support if Arista determines that unauthorized support is being provided, as well as
+interest penalties at the highest rate permitted by law, and applicable fees including,
+without limitation, attorneys’ fees and audit fees.
+
+Customer acknowledges and agrees that as part of providing the Services under this
+Exhibit, Arista will receive information from Customer regarding Customer’s use of the
+Arista Products and Services including but not limited to information on the
+performance of the Arista Products, details regarding the deployment and configuration
+of the Arista Products and other connected devices, and any information provided by
+Customer and used by Arista to troubleshoot the Arista Products as part of the
+Services (“Support Data”). In addition to providing the Services, Customer agrees that
+Arista may use Support Data for the general improvement of the Arista Products and
+Services subject to the confidentiality obligations contained in Section 8.
+
+4. SERVICES NOT COVERED UNDER THIS EXHIBIT.
+
+4.1.
+
+4.2.
+
+4.3.
+
+Any customization of, or labor to install, equipment.
+
+Except for Arista’s On-Site A-Care offering, expenses incurred to visit Customer's
+location, except as required during escalation of problems by Arista or the Arista
+Partner.
+
+Furnishing of supplies, accessories or the replacement of expendable parts (e.g.,
+
+MSA-online v2024.3.12 Page 19 of 53
+
+
+Page 20:
+ARISTA Master Services Agreement
+
+44.
+
+4.5.
+
+46.
+
+47.
+
+4.8.
+
+4.9.
+
+cables, blower assemblies, power cords, and rack mounting kits).
+
+Electrical or site work external to the Products.
+
+Support or replacement of Product that is altered, modified, mishandled, destroyed or
+damaged by natural causes, or damaged due to a negligent or willful act or omission by
+Customer or use by Customer other than as specified in the applicable Arista-supplied
+documentation.
+
+Services to resolve Software or Hardware problems resulting from third party products
+or causes beyond Arista or the Arista Partner’s control.
+
+Services for non-Arista software installed on any Arista Product.
+Any Hardware upgrade required to run new or updated Software.
+
+Additional Services are provided at the then-current time and materials rates.
+
+4.10. Services to the Software portion of any Customer Programmable Product.
+
+MSA-online v2024.3.12 Page 20 of 53
+
+
+Page 21:
+ARISTA Master Services Agreement
+
+APPENDIX A to
+Maintenance and Support Services Policy Exhibit
+
+ARISTA PROBLEM PRIORITIZATION AND ESCALATION GUIDELINE
+
+To ensure that all problems are reported in a standard format, Arista has established the
+following problem priority definitions. These definitions will assist Arista in allocating the
+appropriate resources to resolve problems. Customer must assign a priority to all problems
+submitted to Arista.
+
+PROBLEM PRIORITY DEFINITIONS:
+
+Priority 1: (Critical Customer Impact). Customer’s mission-critical network functionality is
+inoperable, or has degraded to the point that normal operations are impossible. Arista and
+Customer will commit full-time resources to resolve the situation.
+
+Priority 2: (Significant Customer Impact). The network is in an impaired state, and operating at
+a level of decreased effectiveness. Normal operations are possible, but negatively impacted.
+Arista and Customer will commit full -time resources during Standard Business Hours to resolve
+the situation.
+
+Priority 3: (Acceptable Customer Impact). Normal operations of the network are not impaired,
+but a performance issue exists that requires attention. Arista and Customer are willing to commit
+resources during Standard Business Hours to restore service to satisfactory levels.
+
+Priority 4: (Administrative Customer Impact). The issue is cosmetic, or an inquiry regarding
+switch operations. There is clearly little or no impact to the Customer’s business operation.
+Arista and Customer are willing to provide resources during Standard Business Hours to provide
+information or assistance as requested.
+
+Arista encourages Customer to reference this guide when Customer-initiated escalation is
+required. If Customer does not feel that adequate forward progress, or the quality of Arista
+service is not satisfactory, Arista encourages Customer to escalate the problem ownership to
+the appropriate level of Arista management by asking for the TAC Manager.
+
+MSA-online v2024.3.12 Page 21 of 53
+
+
+Page 22:
+ARISTA Master Services Agreement
+
+ARISTA PROFESSIONAL SERVICES (“PS”) TERMS EXHIBIT
+
+This Arista Professional Services Exhibit is an exhibit to the Master Services Agreement entered
+into by Arista and the Customer named therein and is incorporated into the by Master Services
+Agreement this reference. All capitalized terms not defined below have the meaning ascribed
+thereto in the Master Services Agreement. In the event of a conflict between the terms of this
+Exhibit and the Master Services Agreement, the terms of this Exhibit shall govern. Customer
+and Arista may enter into one or more Statements of Work (“SOW”) that references the Master
+Services Agreement. Each SOW shall incorporate the terms of this Exhibit and the Master
+Services Agreement.
+
+1. SERVICES
+
+1.1. Purchase Orders for Professional Services shall not be deemed accepted by Arista until
+Customer has agreed to an Arista provided statement of work (“SOW”) for such
+Professional Services as set forth below. Arista Professional Services shall be provided
+solely in accordance with and under the terms of such SOW and the Master Services
+Agreement (including this Exhibit), and the Parties agree any conflicting or additional
+terms proposed by Customer will be void and of no effect.
+
+1.1.1. Arista offers three types of Professional Services available for purchase by
+Customer as follow:
+
+1.1.1.1. “T&M PS” is for the provision of general consulting services for Arista
+Products, purchased by Customer on a per-day basis, and is further described
+and subject to the terms contained in Arista’s Time Based (T&M) Statement of
+Work (‘T&M SOW’) available at
+https://www.arista.com/assets/data/pdf/Arista-Professional-Services-Packaged
+-Services-TM-Time-Based.pdf. To purchase T&M PS, Customer must issue a
+Purchase Order to Arista with the SKU identified in the Arista T&M SOW and
+the quantity in days. Customer shall not be entitled to receive any T&M PS
+until Arista has accepted a Purchased Order for T&M PS.
+
+1.1.1.2. “Preset PS” is for services directed towards the provision of pre-defined
+deliverables related to Arista Products, as further described and as subject to
+the terms contained in Arista’s DANZ Monitoring Fabric (DMF) Statement of
+Work (‘Preset SOW’) available at
+httos://www.arista.com/assets/data/pdf/Arista-Professional-Services-Packaged
+-Services-Monitoring-Fabric-DME.pdf. To purchase Preset PS, Customer must
+issue a Purchase Order to Arista with one or more of the SKUs identified in the
+Arista Preset SOW. Customer shall not be entitled to receive any Preset PS
+until Arista has accepted a Purchased Order for Preset PS.
+
+MSA-online v2024.3.12 Page 22 of 53
+
+
+Page 23:
+ARISTA Master Services Agreement
+
+1.1.1.3. “Scoped PS” is for the provision of services for a specific project defined in a
+written SOW that is signed by Customer and Arista. The signed SOW will
+define the Professional Services and fees, and as applicable milestones,
+Deliverables, and other terms specific to the scoped project. Customer shall
+not be entitled to receive any Scoped PS until Customer and Arista have
+executed a written SOW.
+
+2. CUSTOMER SECURITY REGULATIONS / WORK POLICY.
+
+2.1. Customer shall provide to Arista, and Arista shall ensure that its personnel or
+subcontractors make commercially reasonable efforts to comply with, Customer’s
+security regulations in their activities at Customer sites or in connection with Customer
+systems.
+
+2.2.Unless otherwise agreed to by both parties, Arista’s personnel (including its
+subcontractors) will observe the working hours, working rules, and holiday schedules of
+Customer while working on Customer’s premises.
+
+3. GENERAL PROFESSIONAL SERVICES TERMS.
+
+3.1. Each SOW shall specify the term for the Services to be rendered under such SOW and
+shall terminate in accordance with such SOW’s terms. Notwithstanding anything to the
+contrary, each SOW hereunder shall terminate immediately upon termination of the
+Master Services Agreement, unless otherwise agreed by Arista.
+
+3.2. Arista represents and warrants that the Professional Services it provides hereunder will
+be of a professional quality conforming to generally accepted industry standards and
+practices. Except as otherwise specified in an applicable SOW, if Customer discovers a
+material deviation in the Professional Services or Deliverables from the applicable written
+specifications or requirements, then Customer shall, within ten (10) business days after
+completion or delivery, submit to Arista a written report describing the deviation in
+sufficient detail for Arista to identify and reproduce the deviation, and Customer’s sole
+remedy for such noncompliance shall be, at Arista’s discretion (i) for Arista to correct the
+deviation within a reasonable time following Customer's written notice, or (ii) if Arista is
+unable to correct the deviation, then, upon Customer’s request, Arista shall refund any
+payments that Customer has made specifically for such non-compliant Services or
+Deliverables.
+
+4. NON-SOLICITATION.
+
+Customer agrees that for the term of any Services engagement, Customer will not directly or
+indirectly, recruit, solicit, discuss employment with or engage any Arista personnel then
+assigned to provide any aspect of the Services or Deliverables to Customer or its affiliates, or
+
+MSA-online v2024.3.12 Page 23 of 53
+
+
+Page 24:
+ARISTA Master Services Agreement
+
+induce any such individual to leave the employ of Arista. Notwithstanding the forgoing,
+Customer may hire or employ Arista personnel if Arista personnel independently engage
+Customer, without the use of a recruiter or any other recruiting mechanism which specifically
+targets Arista personnel. For the avoidance of doubt, Arista personnel shall be considered to
+have independently engaged Customer if personnel are responding to a general solicitation
+for applications online or at a career fair.
+
+5. INTELLECTUAL PROPERTY.
+
+5.1. Each party reserves all its intellectual property rights, and nothing herein shall be
+deemed or interpreted to grant or transfer any rights or licenses, whether expressly or by
+implication, estoppel, or otherwise. Arista, its subsidiaries, affiliates and licensors retain
+all right, title and interest, including without limitation all intellectual property rights, in and
+to the Products, Services and, except as expressly provided in an Exhibit or SOW, the
+Deliverables, including any updates, upgrades, improvements or derivative works
+thereof. Nothing herein shall preclude Arista, its subsidiaries and affiliates, from
+developing, using or marketing services or materials that are similar or related to any
+Deliverables provided hereunder. To the extent Deliverables constitute modifications or
+enhancements to Arista’s Products and Services, such Deliverables shall be deemed to
+be included in Customer’s separate license thereto, for the remaining duration of the
+applicable subscription to such Arista Products and Services.
+
+5.2. Any materials furnished by Customer for use by Arista, its subsidiaries or affiliates,
+(‘Customer Materials”) shall remain the property of Customer, provided that Customer
+grants to Company a nonexclusive right and license to use such materials as reasonably
+necessary in connection with the Services. Aggregated and anonymized data and
+information derived from providing the Services or from Customer Materials is not
+Customer Materials or Confidential Information and may be used by Arista (and its
+subsidiaries or affiliates, successors or assigns) for any business purpose.
+
+5.3. Customer hereby grants Arista a nonexclusive, fully paid up, royalty-free, worldwide,
+irrevocable, perpetual, transferable, sublicensable, rights and license to make, have
+made, use, sell, offer for sale, import, disclose, reproduce, license, distribute, perform,
+display, transmit, modify, prepare derivative works or, and otherwise exploit any
+suggestions, enhancement requests, recommendations or other feedback and tangible
+embodiments thereof provided by Customer (“Suggestions”), including in connection with
+the development, modification, enhancement, provision, and support of Arista’s current
+and future products and services any service, product, technology, enhancement,
+documentation or other development (“Improvement”) incorporating, embodying, or
+derived from any Suggestion with no obligation to license or to make available the
+Improvement to Customer or any other person or entity.
+
+MSA-online v2024.3.12 Page 24 of 53
+
+
+Page 25:
+ARISTA Master Services Agreement
+
+AWAKE SECURITY SERVICES EXHIBIT
+
+This Awake Security Services Exhibit is an exhibit to the Master Services Agreement entered
+into by Arista and the Customer named therein and is incorporated into the Master Services
+Agreement by this reference and describes the Security Services offered by Arista (“Security
+Service Offerings”). All capitalized terms not defined below have the meaning ascribed thereto
+in the Master Services Agreement. In the event of a conflict between the terms of this Exhibit
+and the Master Services Agreement, the terms of this Exhibit shall govern.
+
+1. DEFINITIONS.
+
+“Deliverable Report’ means the deliverables produced: (i) status reports; (ii) “incident
+response”, “attack surface assessment’, “network compromise assessment” or any other
+deliverable report produced during the work effort.
+
+"Endpoint Data” means data resulting from use of the Endpoint Technology.
+
+"Endpoint Technology” means Software which may be accessed from a cloud-based provider
+or installed in the Customer’s Environment (as stated in the quotation, SOW or Purchase
+Order) which is used for endpoint monitoring, digital forensic and cyber response as
+described in this Exhibit.
+
+“Environment” means the Customer’s networks and systems being monitored with the
+Endpoint Technology.
+
+“Incident” means a suspected or actual security breach incident resulting from Malware,
+unauthorized attacker, access or hacking.
+
+“IR_Service Term” means the period of time during which the Customer purchases the
+Incident Response (IR) Retainer for Arista to perform the IR Retainer which is stated in the
+quote, SOW or Purchase Order and which, at a minimum, is an annual subscription period.
+
+“Malware” means any program, mechanisms, programming devices or computer code: (i)
+designed to disrupt, disable, erase, harm, corrupt or otherwise interfere or impede with the
+operation of any software program or code, any computer, system or network which may also
+commonly be referred to as “spyware,” “viruses” or “worms;” (ii) that disables or impairs the
+operation of any software, computer, system or network in any way based on the elapsing of
+a period of time or the advancement to a particular date or other number which may be
+referred to as “time bombs,” “time locks” or “drop dead” devices excluding license keys; (iii) is
+designed to or could reasonably be used to permit a party or any third party to access
+wrongfully any computer system or network which may be commonly referred to as “trojans,”
+“traps,” “access codes” or “trap door” devices; or, (iv) designed or could reasonably be used
+to permit a party or any third party wrongfully to track, monitor or otherwise report the
+operation and use of any software program or any computer system or network by any other
+party or any of its customers.
+
+MSA-online v2024.3.12 Page 25 of 53
+
+
+Page 26:
+ARISTA Master Services Agreement
+
+“Software” means the Arista software provided with the Product that is licensed for use in
+accordance with the Arista End User License Agreement including all updates, upgrades,
+modifications, improvements and derivatives thereof but excluding third party software and
+open source software provided therewith.
+
+2. PURCHASE OF SERVICES.
+
+Customer may purchase one or more of the Security Service Offerings described
+hereinbelow or in a separate Statement of Work by delivery of a Purchase Order that
+refences the appropriate SKU for the Service, or by entering into a Statement of Work for
+such Services with Arista in substantially the form of Appendix B hereto that references this
+Master Services Agreement.
+
+3. INTELLECTUAL PROPERTY.
+
+3.1. Arista Technology. [Except for the license granted in Section 3.2 below, Arista, its
+subsidiaries, affiliates and licensors retain all right, title and interest, including without
+limitation all intellectual property rights, in and to the Products, Services and, the
+Deliverables, including any updates, upgrades, improvements or derivative works
+thereof. If Licensed Products are placed at Customer’s facilities in connection with NTA
+Technology, Customer will stop all use of the Products and return them to Arista within
+14 days of the completion of the Services, in accordance with Arista’s instructions, in
+good working order (except for reasonable wear and tear) or pay the current list price for
+the Products upon receipt of an invoice. Nothing herein shall preclude Arista, its
+subsidiaries or affiliates, from developing, using or marketing services or materials that
+are similar or related to any Deliverables or Services provided hereunder. To the extent
+Deliverables constitute modifications or enhancements to Arista’s Products and
+Services, such Deliverables shall be deemed to be included in Customer’s separate
+license thereto for the remaining duration of the applicable subscription to such Arista
+Products and Services.
+
+3.2. Customer Data. Any materials furnished by Customer for use by Arista, its subsidiaries
+or affiliates, and data generated through the analysis of the Customer network traffic
+(‘Customer Data”) shall remain the property of Customer, provided that Customer grants
+to Arista a nonexclusive right and license to use such data as reasonably necessary in
+connection with the Services. In addition, Customer hereby grants Arista a
+nonexclusive, fully paid up, royalty-free, worldwide, irrevocable, perpetual, transferable,
+sublicensable, rights and license to make, have made, use, sell, offer for sale, import,
+disclose, reproduce, license, distribute, perform, display, transmit, modify, prepare
+derivative works or, and otherwise exploit the Customer Data in an aggregated and
+anonymized format, and information and/or intelligence derived from providing the
+Services to Customer hereunder , including in connection with the development,
+modification, enhancement, provision, and support of Arista’s current and future
+products, services, technology, including any enhancements, documentation or other
+development in connection therewith.
+
+MSA-online v2024.3.12 Page 26 of 53
+
+
+Page 27:
+ARISTA Master Services Agreement
+
+3.3. Deliverables. Following the full and complete payment for the Services, and compliance
+by Customer with the terms of this Agreement, Arista hereby grants Customer a
+nonexclusive, fully paid up, royalty-free, worldwide, irrevocable, perpetual, right and
+license to use, reproduce, and modify the portions of the Deliverables that are unique to
+Customer.
+
+3.4. Suggestions. Customer hereby grants Arista a nonexclusive, fully paid up, royalty-free,
+worldwide, irrevocable, perpetual, transferable, sublicensable, right and license to make,
+have made, use, sell, offer for sale, import, disclose, reproduce, license, distribute,
+perform, display, transmit, modify, and prepare derivative works of, or otherwise exploit
+any suggestions, enhancement requests, recommendations or other feedback and
+tangible embodiments thereof provided by Customer (“Suggestions”), including in
+connection with the development, modification, enhancement, provision, and support of
+Arista’s current and future products and services, any service, product, technology,
+enhancement, documentation or other development (“Improvement”) incorporating,
+embodying, or derived from any Suggestion with no obligation to license or to make
+available the Improvement to Customer or any other person or entity. Arista shall utilize
+any Suggestion or Improvement in an anonymous manner, and no attribution to
+Company shall be given for any Idea provided.
+
+4. NON-SOLICITATION.
+
+Customer agrees that for the term of any Services engagement and for a period of one (1)
+year thereafter, Customer will not directly or indirectly, recruit, solicit, discuss employment
+with or engage any Arista personnel then assigned to provide any aspect of the Services or
+Deliverables to Customer or its affiliates or who were so assigned within the previous one (1)
+year period, or induce any such individual to leave the employ of Arista. Notwithstanding the
+forgoing, Customer may hire or employ Arista personnel if Arista personnel independently
+engage Customer, without the use of a recruiter or any other recruiting mechanism which
+specifically targets Arista personnel. For the avoidance of doubt, Arista personnel shall be
+considered to have independently engaged Customer if, personnel is responding to a general
+solicitation for applications online or at a career fair.
+
+5. DISCLAIMER AND RELEASE:
+
+5.1. CUSTOMER ACKNOWLEDGES THAT THE LICENSED PRODUCTS ARE NOT
+DESIGNED TO BLOCK OR PREVENT THE INTRODUCTION OF MALWARE BY
+THIRD PARTIES AND DO NOT DETECT ALL MALWARE. The Products are not,
+designed to and do not block Malware from entering its network or systems and that
+there is no guarantee that 100% of Malware or other security threats will be detected
+after it has entered the system or network. Therefore, except in the case of MNDR
+Services, Customer retains sole responsibility for monitoring and managing its
+environment for Incidents.
+
+5.2. Customer further acknowledges and agrees that the mitigation or analysis of Malware,
+security breaches and other Incidents may involve the removal of network data. Arista
+agrees to work with Customer to minimize impact on the network and/or data loss, but
+
+MSA-online v2024.3.12 Page 27 of 53
+
+
+Page 28:
+ARISTA Master Services Agreement
+
+cannot guarantee that there will be no network impact or that no data will be lost.
+Customer agrees to take a pro-active role in backing up and protecting its data.
+
+5.3. Customer understands and agrees that some of the Services offered hereunder involve
+the use of Arista's testing procedures and the certain tools, including security
+assessment tools and/ or security software solutions and other automated tools, that are
+designed to detect possible weaknesses in network security controls. Customer
+understands and acknowledges, however, that Arista cannot provide assurance that
+these tools or any other procedures that Arista might utilize will identify all possible
+vulnerabilities. There is a possibility that the tools referenced above may, because of
+certain attributes of Customer's system, inadvertently impact Customer's network
+performance or Customer's software configuration or data. Customer agrees not to hold
+Arista responsible or liable for any adverse effects relating to the use of such tools.
+Furthermore, the testing performed pursuant to this Agreement may involve analysis of
+the design and effectiveness of certain of the Customer's processes, procedures and
+internal controls that are designed to protect from malicious intrusion into Customer’s
+information technology system(s) and/or its information technology security processes.
+Customer agrees that by engaging Arista to perform such testing services, Customer is
+granting Arista access to Customer's computer systems, networks, and facilities, and
+that it has obtained all necessary consents for the Services, including any
+consent required by applicable law. Customer acknowledges, and accepts any risks, that
+the performance of Customer's system(s) as well as the performance of associated
+routers and firewalls may be degraded as a result of Arista's Services, including the use
+of the automated tools, that impacted computer systems may hang or crash (resulting in
+temporary system unavailability) and that Arista's scan may trigger alarms by intrusion
+detection systems.
+
+5.4. During the course of performing certain of the Services Arista's may will receive, view or
+obtain access to and use certain Customer Confidential Information, including without
+limitation, the personal information of Customer's employees, vendors, customers or
+agents (collectively, the "Collected Data") for the purposes of carrying out the intent of
+such Services. Customer acknowledges and agrees that Customer has the authority to
+consent to Arista's use of, and access to, the Collected Data, and has obtained any
+authorizations and releases from Customer's employees, contractors, vendors,
+customers, representatives or agents required to provide an informed consent for
+Arista's use of the Collected Data for the provision of the Services. Arista agrees to
+delete the Collected Data from its environment upon completion of the project and will
+provide acknowledgement of such to the Customer.
+
+5.5. If and to the extent applicable to any Services, Customer agrees, with respect to systems
+owned or operated by a third party that are the subject of testing hereunder, to 1) obtain
+the written consent from the owner or operator of each such system authorizing Arista to
+provide Services on that system and access the third party's Data for the purposes of
+carrying out the intent of this Statement of Work (and to provide Arista with a copy of
+such authorization); and 2) to be solely responsible for addressing with the system owner
+any vulnerabilities identified on such systems by the Services.
+
+MSA-online v2024.3.12 Page 28 of 53
+
+
+Page 29:
+ARISTA Master Services Agreement
+
+6. ADDITIONAL NETWORK VISIBILITY FEES.
+
+Certain of the Service offerings described below may include NTA Technology and/or
+Endpoint Technology. In the event additional network technology is used additional fees will
+be charged if the timeline allocated in the relevant SKU or Statement of Work or needs to be
+extended for activation of Incident response efforts. The fees for such Hardware are based
+on the applicable traffic analysis subscription level.
+
+6.1.
+
+6.2.
+
+Endpoint Technology. If purchased, Arista will implement advanced endpoint
+monitoring, digital forensic and cyber response Software (“Endpoint Technology’) to
+review and investigate the Environments for indicators of Incident to:
+
+Reconstruct attacker activities through digital forensic analysis
+
+Hunt for evidence of sophisticated adversaries
+
+Investigate Malware outbreaks and other suspicious network activities
+
+Allow Customer to monitor continuously for suspicious user activities, such as
+files copied to USB devices
+
+Detect unauthorized disclosure of the Customer’s Confidential Information
+outside of the Environment
+
+e Gather Endpoint Data over time, for use in threat hunting and future
+investigations.
+
+Customer’s network configuration must permit communications between the Endpoint
+Technology deployed in the Customer’s Environment and Arista remote hosting
+facilities. The remote Arista server requires the following Customer setup:
+
+e Anexternal resolvable DNS name
+
+e Allowing egress connections from inside Customer’s network to the remote
+Arista server, which can be locked down to only the default service ports
+
+Arista will only review endpoint systems that are supported by Endpoint Technology
+during the response. The Endpoint Technology provided is a binary file that contains
+all functionality in one binary, without any libraries or external dependencies. The
+Endpoint Agent can be installed only on the operating systems listed below:
+
+All supported versions of windows desktop
+
+Most versions of Linux and MacOs and server
+
+Arista will provide endpoint installation guidelines and consulting support for agent
+deployment activities. Awake understands that Customers may want to allocate time
+for testing the binary prior to deployment to all systems included in the scope.
+
+Network Traffic Analysis (NTA) Technology.
+Arista network-based Incident review uses the Awake Security Platform to review
+
+network traffic across both managed and unmanaged devices to provide visibility
+outside of the standard Endpoint Technology. The Products and sensors are placed
+
+MSA-online v2024.3.12 Page 29 of 53
+
+
+Page 30:
+ARISTA Master Services Agreement
+
+on Customer’s network at Internet egress points and other key network segments and
+the traffic analyzed is contained on the Products so Arista can connect and analyze
+data remotely. If deployment of the network sensors is not feasible, Customer will
+have to provide full packet captures for at least one week of time frame for concern
+areas identified during the Incident.
+
+The Arista Security Product is built on a foundation of deep network analysis from
+Awake Sensors that span the “new network”—including the data center, perimeter,
+core, loT and operational technology networks as well as cloud workload networks
+and SaaS applications. Arista’s Security Platform parses and processes layer 2
+through layer 7 data, including performing encrypted traffic analysis. Arista uses this
+information to autonomously profile entities such as devices, users and applications,
+while also preserving these communications for historical forensics.
+
+Arista will provide Awake Security Platform installation guidelines and consulting
+support for network deployment activities.
+
+*Awake Security Platform Software is licensed under Arista’s EULA.
+
+Arista retains title to the Hardware and grants Customer the limited, personal,
+non-transferable, non-assignable license, for the period during which the Services are
+performed, to use the Hardware solely in conjunction with the Services. Within 14
+days of the expiration or termination of the Services, Customer will return the
+Hardware to Arista, in its original packaging, in good working condition, reasonable
+wear and tear excepted, in accordance with Arista’s RMA process or will pay the
+un-discounted purchase price for such Hardware on receipt of an invoice pursuant to
+Section 6.3 of the Master Services Agreement.
+
+7. SECURITY SERVICE OFFERINGS:
+
+A. Digital Forensics and Incident Response Retainer (“IR Retainer’) Services Offering
+
+1. Description.
+
+The Digital Forensics and Incident Response Retainer (“IR Retainer’) Services consist of
+Arista providing the Customer with assistance in determining and responding to an
+Incident as described in this Section 7.A. Three (3) Incident Response Retainer
+subscription levels are available for purchase as described further in Section 7.A.2 below.
+IR Retainers require at least a 12 month subscription commitment. Endpoint Technology
+and Network Traffic Analysis (NTA) Technology are used to perform the IR Retainer
+Services.
+
+Customer is solely responsible for monitoring and managing its environment for
+Incidents as this IR Service does not include Arista monitoring or managing
+Customer’s Environment even if Arista provides and Customer uses Endpoint
+Technology or NTA.
+
+MSA-online v2024.3.12 Page 30 of 53
+
+
+Page 31:
+ARISTA Master Services Agreement
+
+Arista responds to Incident reports as described more fully herein. Arista will undertake
+the following actions in response to Customer logging a report of an actual or suspected
+Incident with Arista:
+
+e Initial investigation assistance and direction including clarification of the potential
+scope of the investigation:
+o Determine the specific threats in the Environment
+o Identify specific behaviors of those threats
+o Determine attack vector and initial threat timeline
+o Identify the geographic and business impact of the threat
+
+e Forensic system and log analysis
+o Forensic acquisition of endpoint electronic data
+o Analysis of endpoint acquisition data
+o Analysis of Awake Security Platform data
+o Malware analysis
+
+e Ongoing status reporting during the Incident
+
+e Containment and remediation planning and assistance
+o Create and document a containment strategy
+o Establish the incident communication process
+o Delegate and manage containment tasks
+
+e Evidence collection and support
+o Collect*, preserve, and document evidence from an Incident response and
+forensic engagement
+o Document chain of custody as directed by Customer
+o Make copies of data in a secure manner
+
+e Detailed technical report and executive presentation based on the findings and
+recommendations as a result of the incident analysis
+
+Digital Forensics and Incident Response Data other than the final reports and supporting
+details may be deleted within 60 days of the final closeout of the incident engagement.
+Attorney Client Privilege (ACP) Contracts will be retained for 1 year.
+
+*Collection and preservation of data may require additional fees associated with purchase
+of media and other mechanisms required to secure the content according to chain of
+custody guidelines
+
+Additional investigative and Incident response assistance are available for additional
+Fees.
+
+2. IR Retainer Levels.
+
+Arista offers three (3) levels of IR Retainer Services: Platinum, Gold and Silver, each of
+which are described more fully below. Each of these retainers require a minimum of an
+
+MSA-online v2024.3.12 Page 31 of 53
+
+
+Page 32:
+ARISTA Master Services Agreement
+
+annual (12 month) subscription commitment by the Customer. The Retainer selected with
+be specified in the applicable PO or SOW. Pricing for each Retainer level is as specified
+in Arista’s price list or in the applicable SOW:
+
+a. Platinum Retainer (SKU# SVE-SEC-IRR-PLATINUM) — Includes 160 Hours of
+Digital Forensics and Incident Response Retainer Services
+
+i. Service Levels — Arista will use commercially reasonable efforts to respond as
+follows:
+o Remote Response - by phone or email, within 4 hours of an Incident Report
+being submitted by the Customer.
+o Onsite Response* — dispatched and in route within 24 hours of an Incident
+Report being opened by Arista to pre-agreed locations.
+
+ii. Network Visibility** - First 30 days of an Arista Products (e.g. Network Traffic
+Analysis (NTA) - up to 5 GBPS included.
+
+iii. The Platinum Retainer also includes:
+o Aremote readiness workshop
+o Access to and use of the Arista Incident reporting template
+o Access to and use of the Arista playbook template
+
+iv. Unused Service Option*** — Customer may use remaining Digital Forensics and
+Incident Response Retained Services hours during the IR Services Term for the
+following alternative Services, as available:
+
+o Incident Response Maturity Assessment
+o Incident Response Plan, Program, or Policy Development
+
+Incident Response Playbook Development
+
+Incident Response Tabletop Exercise
+
+Response Advisory Services
+
+OSINT External Analysis
+
+oooo°o
+
+b. Gold Retainer (SKU # SVE-SEC-IRR-GOLD) —- Includes 80 Hours of Digital
+Forensics and Incident Response Retainer Services
+
+i. Service Levels — Arista will use commercially reasonable efforts to respond as
+follows:
+o Remote Response - by phone or email, within 8 hours of an Incident Report
+being submitted by the Customer.
+o Onsite Response* — dispatched and in route within 24 hours of an Incident
+Report being opened by Arista to pre-agreed locations.
+
+ii. Network Visibility - First 30 days of an Arista Product (e.g. Network Traffic
+Analysis (NTA) - up to 3.5 GBPS included.
+
+iii. The Gold Retainer also includes:
+o Aremote readiness workshop
+
+MSA-online v2024.3.12 Page 32 of 53
+
+
+Page 33:
+ARISTA Master Services Agreement
+
+o Access to and use of the Arista Incident reporting template
+
+iv. Unused Service Option — Customer may use remaining Digital Forensics and
+Incident Response Retained Services hours during the IR Services Term for the
+following alternative Services, as available:
+
+o Incident Response Maturity Assessment
+o Incident Response Plan, Program, or Policy Development
+
+Incident Response Playbook Development
+
+Incident Response Tabletop Exercise
+
+Response Advisory Services
+
+OSINT External Analysis
+
+oooo°o
+
+c. Silver Retainer (SKU # SVE-SEC-IRR-SILVER) — Includes 40 Hours of Digital
+Forensics and Incident Response Retainer Services
+
+i. Service Levels — Arista will use commercially reasonable efforts to respond as
+follows:
+o Remote Response - by phone or email, within 8 hours of an Incident Report
+being submitted by the Customer.
+o Onsite Response®* - dispatched and in route within 3 Business Days of an
+Incident Report being opened by Arista during Business Hours to
+pre-agreed locations in the U.S., Canada and the United Kingdom.
+
+ii. Network Visibility** - First 30 days of an Arista Product (e.g. Network Traffic
+Analysis (NTA) - up to 3.5 GBPS included.
+
+iii. The Silver Retainer also includes:
+o Aremote readiness workshop
+
+iv. Unused Service Option*** — Customer may use remaining Digital Forensics and
+Incident Response Retained Services hours during the IR Services Term for the
+following alternative Services, as available:
+
+o Incident Response Maturity Assessment
+
+Incident Response Plan, Program, or Policy Development
+
+Incident Response Playbook Development
+
+Incident Response Tabletop Exercise
+
+Response Advisory Services
+
+o OSINT External Analysis
+
+*Travel Expenses and additional fees may apply.
+
+fe)
+fo)
+fe)
+fo)
+
+**Network Visibility requires at least one Product be available for the duration of the
+Incident response or compromise assessment. Additional fees and costs may be
+applied if the Product is not available or if the limits outlined in the level of Digital
+Forensics and Incident Retainer purchased by Customer are exceeded.
+
+**The remaining Digital Forensics and Incident Response Retained Services hours
+may not cover the full cost of the alternative Services. Unconsumed hours at the
+
+MSA-online v2024.3.12 Page 33 of 53
+
+
+Page 34:
+ARISTA Master Services Agreement
+
+expiration or earlier termination of the purchased subscription period are
+non-refundable and forfeited.
+
+Additional costs and fees apply: (a) if NTA appliance is not available; (b) for out of
+scope Services; and/or (c) for hours exceeding the level at which the Customer has
+purchased the Incident Response Retainer.
+
+3. Incident Reporting. In the event of an Incident, contact Arista at:
+Email: awake-ir@arista.com
+Phone: 833-AWAKE4U Ext 3 (833-292-5348)
+
+4. Escalation. If the applicable Service Levels are not met, Customer may escalate the
+Incident Report by contacting Arista:
+
+Email: awake-services@arista.com
+Use the subject: ESCALATION
+
+5. IR Retainer Work Schedule.
+
+The engagement will commence on a mutually agreed date as specified in the SOW or
+the PO. For each engagement, a kickoff call will be held to confirm and review
+engagement logistics and goals. Arista will provide the following work schedule:
+
+e Immediate response aligned with the SLA retainer agreement once the incident is
+officially declared.
+
+Work schedules will be based on resource availability and the contract signature data. In
+some case work may be performed with multiple resources or in parallel with other efforts
+to expedite delivery if required.
+
+6. IR Retainer Deliverables. The Deliverables are:
+
+Daily and/or weekly status reports
+e Summarized activities completed
+e Endpoint deployment and acquisition status
+e Network connectivity and modeling status
+e Issues requiring attention and plans for the next reporting period
+e Indicators of compromise identified in the environment and compromised systems
+
+Incident Response Report
+
+e Executive Summary: Key findings and an overview of the services provided
+
+e Endpoint Deployment Summary: Summary of the number of endpoints deployed
+and the percentage of the environment reviewed
+
+e Network Deployment Summary: Summary of the number of sensors deployed,
+duration of traffic monitored, and number of models that were triggered
+
+e Relevant Findings: Endpoint and network-based indicators of compromise identified,
+identities of compromised assets and identities, results from any log or malware
+analysis, and a summary of incident and attacker activities
+
+MSA-online v2024.3.12 Page 34 of 53
+
+
+Page 35:
+ARISTA Master Services Agreement
+
+e Remediation Recommendations: Priority ranked recommendations to apply
+mitigation techniques for key identified weaknesses.
+
+Customer may use reports for its internal business purposes following the conclusion of
+the IR Retainer period.
+
+7. IR Retainer Description Assumptions. Arista’s commitments as stated in this Exhibit
+are based on the following assumptions:
+
+e The Endpoint Technology can be deployed across the organization for analysis
+
+e The Arista Product NTA sensors can be deployed for each key location to allow for
+adequate analysis of managed and unmanaged devices
+
+e All devises which support the Service within the desired environment will be
+accessible via remote network connectivity for Arista analysis
+
+e The Customer will identify a point of contact who is authorized, qualified and
+knowledgeable
+
+e The Customer will provide all relevant information for the system and network that
+are within the scope of the engagement
+
+e The Customer is responsible for network availability at all times during the
+engagement and that lack of network availability and readiness may result in lack of
+ability to perform certain functions
+
+If the above assumptions are not accurate, the Deliverables and/or response times
+stated herein may differ.
+
+8. Additional Terms and Conditions for IR Retainer Services. Arista is relieved of its
+obligation to provide Deliverables or to respond to Incidents within the timeframes
+specified in this Exhibit to the extent delays are caused by Customer, Customer fails to
+provide required information or access to computers, systems or networks, Customer fails
+to identify a point of contact or the point of contact is not qualified, authorized or
+knowledgeable or for causes beyond the reasonable control of Arista (including, but not
+limited to travel limitations, war, sabotage, civil disobedience, riots insurrection, acts of
+governments and agencies, and acts of God. Arista will make an Incident responder
+available remote via telephone if unable to provide onsite personnel.
+
+Customer’s sole and exclusive remedy for any failure of Arista to meet its obligations
+under this Exhibit is for Arista to credit back the first 2 hours of Services Customer
+pre-paid.
+
+Customer is responsible for reviewing any terms (including any warranties) contained in
+any third party products recommended by Arista. Arista does not assume any liability for a
+third party product by making the recommendation. Customer acknowledges that those
+third party products are subject to their own terms, which are separate from this
+Agreement.
+
+B. Attack Surface Assessment (“ASA”) Services Offering.
+
+MSA-online v2024.3.12 Page 35 of 53
+
+
+Page 36:
+ARISTA Master Services Agreement
+
+1. Description. The Awake Attack Surface Assessment (“ASA”) Services consists of a
+multi-faceted approach that leverages both “Endpoint Technology” and network detection
+and response to help respond to and mitigate the impact of Incidents using Arista’s
+Network Traffic Analysis (“NTA”) Analytics Products. The Products are licensed to
+Customer as described in this Exhibit.
+
+2. ASA Services Tiers. Arista offers two different tiers of ASA Services as detailed below.
+Tier levels are assigned based on the size of the Customer’s organization. Pricing for
+each Retainer level is as specified in Arista’s price list or in the applicable SOW*.
+
+Tier 1 (SKU #_ SVE-SEC-ASA-5u1)- An Attack Surface Assessment for
+organizations up to 5,000 users
+
+e Network Visibility* - up to 1 Arista network traffic analysis (NTA) Products licensed to
+the Customer for use in conjunction with these ASA Services for a 30-day duration
+
+e Endpoint Visibility - Up to 10% endpoints deployed
+
+e Includes assessment of network, Open-Source Intelligence (OSINT), and endpoint
+components
+
+e Up to 20 hours of Incident response via a retainer
+
+Tier 2 (SKU # SVE-SEC-ASA-10u) -— An Attack Surface Assessment for
+organizations up to 10,000 users
+
+e Network Visibility** up to 2 Arista Network Traffic Analysis (NTA) Products
+appliances licensed to the Customer for use in conjunction with these ASA Services
+for a 30-day duration
+
+e Endpoint Visibility Up to 10% endpoints deployed
+
+e Includes assessment of network, Open-Source Intelligence (OSINT), and endpoint
+components
+
+e Up to 40 hours of Incident response via a retainer.
+
+*Additional fees and costs may be applied if the NTA appliance exceeds the limits outlined
+in the assessment. Unconsumed hours at the expiration or earlier termination of the
+purchased subscription period are non-refundable and forfeited.
+
+**Network Visibility requires at least one NTA appliance be available for the duration of the
+ASA Service Term.
+
+3. ASA Service Methodology and Approach.
+
+The ASA Services is an approach to identify ongoing or past attacker activity in the
+environment. This threat assessment looks at the organization from an adversary’s point
+of view using publicly available information, often called open-source intelligence (OSINT)
+to identify potential attack vectors. The Arista also identifies weaknesses within the
+organization focusing on the planning, detection, response, and remediation of attacks
+including ransomware, insider threats and other malicious activity.
+
+MSA-online v2024.3.12 Page 36 of 53
+
+
+Page 37:
+ARISTA Master Services Agreement
+
+31.
+
+3.2.
+
+3.3.
+
+Phases. The phases of an Attack Surface Assessment include:
+
+e Plan and Deploy — Establish engagement plan and determine the appropriate
+strategy and architecture for deploying Endpoint Technology, NTA and OSINT
+e Data Collection — Obtain key details about the architecture, technology, and
+external footprint
+e Recon and Hunt — Understand the attack landscape and hunt for threats
+including:
+e Perform discovery for devices, users, applications, and misconfigurations.
+e Perform network and endpoint threat hunting
+e Analysis — Review and investigate controls and high-risk threats levering threat
+intelligence, automation, and human expertise.
+e Reporting — Deliver a report of the findings and recommendations identified
+during the assessment.
+
+During the ASA Service Term, the Arista will provide regular status updates of the
+overall engagement and proactive updates on critical issues. Customer will play an
+active role in determining the appropriate mitigation strategies.
+
+ASA Service Analysis.
+
+The overall scope of the engagement will focus on data collection and
+reconnaissance reviewing specific controls such as the Customer’s program and
+technology analysis, network areas of analysis, endpoint areas of analysis, and
+OSINT areas of analysis which are defined below.
+
+ASA Service Program and Technology Analysis.
+
+The Customer’s program and technology analysis will focus on the review of the
+Incident response policy, plan, insurance coverage, and key technology defenses
+including:
+
+e Review of Incident response program documentation
+
+e Review of Incident response backup restoration plans and processes
+
+e Review of detection and response operations
+
+e Identification and protections associated with key IT assets including domain
+controllers, fileservers, key application systems, key databases, critical data
+systems that may include protected health information and personally identifiable
+information
+
+e Endpoint security protections
+
+Network segmentation strategy and approach
+
+e Offline systems for Incident response
+
+MSA-online v2024.3.12 Page 37 of 53
+
+
+Page 38:
+ARISTA Master Services Agreement
+
+3.4. ASA Service Network Analysis.
+
+This component of the ASA Services relies on Arista Products to hunt and analyze a
+variety of areas of risk including:
+
+Anomalous encryption tunnels
+
+Anomalous resource sharing
+
+Data leakage and sensitive clear text information
+Uncommon application activity
+
+Phishing vectors
+
+Suspicious domains
+
+Unmanaged devices (loT)
+
+Security policy bypasses
+
+Shadow IT
+
+Suspicious credential usage
+
+Suspicious content
+
+Local and remote network challenges
+
+Common ransomware tactics and techniques
+Common early warning indicators associated with ransomware attacks
+
+3.5. ASA Service Endpoint Analysis.
+
+For the endpoint analysis, Arista will assess up to 10% of the endpoint population.
+This set will be defined during the planning phase of the engagement to ensure
+sampling for diversity of operating systems, device type, client vs. server, office
+location, remote workers, application servers, backup systems etc. This analysis
+covers several risk factors including
+
+MITRE ATTACK tactics and techniques
+
+Validation of network threats
+
+Security policy and control bypass
+
+Potential unapproved software
+
+A review of endpoint security solutions, coverage, and containment strategy
+
+3.6. ASA Service OSINT Analysis.
+
+The OSINT component of the analysis looks at information about the Customer such
+as legal entities, domains, and IP spaces to review the external-facing attack surface.
+This process emulates how an attacker on the outside would begin their
+
+reconnaissance into the organization. The evaluates potential areas of risk including:
+
+Exposure associated with publicly available corporate email addresses
+
+Exposure with employee user account and data associated with past breaches of
+third-party services and applications
+
+Available surface and exposures with identified public host assets
+
+Available surface and exposures with publicly available IP addresses
+
+Public employee LinkedIn profiles
+
+MSA-online v2024.3.12 Page 38 of 53
+
+
+Page 39:
+ARISTA Master Services Agreement
+
+e External search of people associated with the organization
+e Potential open shares and configurations
+
+4. ASA Service Retainer.
+
+As part of the Attack Surface Assessment, Customers have access to a limited set of
+hours for Incident response through a retainer. In the event of an incident, Arista will
+provide digital forensics and Incident response based on the scope. The retainer service
+includes:
+
+e Remote Response - by phone or email, within 8 hours of an Incident declaration
+e Digital forensics and incident response associated with the retainer includes:
+e Initial investigation assistance and direction including clarification of the potential
+scope of the investigation
+o Determine the specific threats in the environment
+o Identify specific behaviors of those threats
+o Provide initial mitigation actions
+o Determine attack vector and initial threat timeline
+o Identify the geographic and business impact of the threat
+e Forensic system and log analysis
+o Forensic acquisition of endpoint electronic data
+o Analysis of endpoint acquisition data
+o Analysis of Awake network technology data
+o Malware analysis
+
+e Containment and remediation planning and assistance
+o Create and document a containment strategy
+o Establish the incident communication process
+o Delegate and manage containment tasks
+
+e Evidence collection and support
+o *Collect, preserve, and document evidence from an Incident response and
+forensic engagement
+o Document chain of custody as directed by Customer
+o Make copies of data in a secure manner
+
+e Ongoing status reporting during the incident investigation and analysis
+e Detailed technical report and executive presentation based on the findings and
+recommendations
+
+If compromised computer, managed or unmanaged, systems are identified during the
+engagement Arista can provide additional investigative and incident response assistance
+over the retainer hours at the standard rate in section Rates and Fees.
+
+In the event of a breach or Incident response that goes beyond the retainer hours the
+Arista team will delay the assessment deliverable to respond accordingly. Once the
+
+MSA-online v2024.3.12 Page 39 of 53
+
+
+Page 40:
+ARISTA Master Services Agreement
+
+response to the Incident is complete, Awake will provide a report of the applicable
+recommendations based on the assessment and response actions.
+
+*Collection and preservation of data may require additional fees associated with purchase
+of media and other mechanisms required to secure the content according to chain of
+custody guidelines.
+
+5. ASA Service Work Schedule.
+
+The engagement will commence on a mutually agreed date. For each engagement, a
+kickoff call will be held to confirm and review engagement logistics and goals. Work
+schedules will be based on resource availability and the contract signature data. In some
+cases, work may be performed with multiple resources or in parallel with other efforts to
+expedite delivery if appropriate.
+
+6. ASA Service Deliverables.
+The Deliverables produced for this engagement include:
+
+Daily and/or weekly status reports
+
+e Summary of activities completed
+
+e Endpoint deployment and acquisition status
+
+e Network connectivity and modeling status
+
+e Issues requiring attention and plans for the next reporting period
+
+Attack Surface Assessment Report
+
+e Executive Summary: Key findings and an overview of the services provided
+
+e Endpoint Deployment Summary: Summary of the number of endpoints deployed
+and the percentage of the environment reviewed
+
+e Network Deployment Summary: Summary of the number of sensors deployed,
+duration of traffic monitored, and number of models that were triggered
+
+e Relevant Findings: Plan and documentation review findings, network and endpoint
+adversarial model and compromise findings, OSINT findings, and general
+observations about the attack surface
+
+e Remediation Recommendations: Priority ranked recommendations to apply
+mitigation techniques for key identified weaknesses as well as preparations to
+defend against ransomware and other attacks
+
+7. ASA Service Assumptions.
+
+Arista has based the Attack Surface Assessment Services on the following assumptions:
+e The Endpoint Technology can be deployed across an appropriate sample of
+approximately 10% the organization for analysis
+e The Customer Environment contains standard operating systems that are supported
+by the Endpoint Technology
+e The Customer Environment will enable the appropriate permissions for Arista binary
+files, scripts, and tools run on the assessed endpoints
+
+MSA-online v2024.3.12 Page 40 of 53
+
+
+Page 41:
+ARISTA Master Services Agreement
+
+e The NTA and response sensors can be deployed at key locations to allow for
+adequate analysis of managed and unmanaged devices
+
+e All devices within the desired environment will be accessible via remote network
+connectivity for Arista analysis
+
+e The Customer will provide, in a timely manner, Incident response documentation
+including plans, policies, insurance coverage, backup strategies, incident
+remediation plans in a timely manner as part of the engagement
+
+e The Customer will provide the appropriate pre-engagement details including
+documentation, company IP address space, and key domains for the assessment
+
+e The Customer will identify a point of contact for the engagement and agree on a
+mutually acceptable reporting schedule
+
+e The Customer will provide all relevant information for the system and network that
+are within the scope of the engagement
+
+e The Customer is responsible for network availability at all times during the
+engagement. The lack of network availability and readiness may hamper Arista’s
+ability to perform certain functions
+
+e lf a breach is discovered, and a compromise has been identified, the Customer may
+need to perform incident response, which may involve activating the retainer portion
+of the agreement and/or additional response work that is outside the scope of this
+assessment
+
+e In the event of an incident, the Customer will also provide a point of contact for
+incident deconfliction, asset identification, and configuration validation
+
+e In the event of an Incident, the Customer is responsible for engaging legal and
+insurance providers
+
+Network Compromise Assessment (“NCA”) Services.
+1. NCA Description.
+
+The Network Compromise Assessment (“NCA”) Services combine digital forensics,
+incident response, and threat intelligence to deliver an assessment focused on identifying
+risks and threat actor activity using Arista’s Network Traffic Analysis (“NTA”) Analytics
+Products. The Products are licensed to Customer as described in this Section C.
+
+2. NCA Service Tiers. Customer has the option of purchasing the following levels of NCA
+Services:
+
+e Tier 1 (SKU#_SVE-SEC-CA-STDNET-5GB) — Network Visibility* for up to 5 GB of
+traffic using 1 Awake Network Traffic Analysis (NTA) appliance provided for a 30-day
+duration
+
+e Tier 2 (SKU# SVE-SEC-CA-STDNET-10GB) — Network Visibility* for up to 10 GB of
+traffic using 2 or 3 Awake Network Traffic Analysis (NTA) appliances provided for a
+30-day duration
+
+e Awake Network Traffic Analysis (NTA) appliances provided for a 30-day duration
+MSA-online v2024.3.12 Page 41 of 53
+
+
+Page 42:
+ARISTA Master Services Agreement
+
+3. NCA Service Methodology and Approach.
+
+3.1 NCA Service Phases. The Network Compromise Assessment is a phased based
+approach that helps provide situational awareness, detection, and the context
+required to respond. The phases of the project include:
+
+Deployment — The technology installation required for assessment
+
+Detection and Hunting — The discovery of devices, users, applications and
+threats within the environment
+
+Analysis — Review and investigation into the high-risk threats levering threat
+intelligence, automation, and human expertise
+
+Reporting — A report of the findings and recommendations identified during the
+assessment.
+
+In addition, Arista professionals will provide regular updates during the assessment of
+the overall status and proactive updates on critical issues.
+
+3.2 NCA Service Network Analysis. The NCA Services relies on Arista Products to hunt
+and analyze a variety of areas of risk including:
+
+Anomalous encryption tunnels
+
+Anomalous resource sharing
+
+Data leakage and sensitive clear text information
+Uncommon application activity
+
+Phishing vectors
+
+Suspicious domains
+
+Unmanaged devices (loT)
+
+Security policy bypasses
+
+Shadow IT
+
+Suspicious credential usage
+
+Suspicious content
+
+Local and remote network challenges
+
+Common ransomware tactics and techniques
+Common early warning indicators associated with ransomware attacks
+
+4. NCA Service Work Schedule.
+
+The engagement will commence on a mutually agreed date. For each engagement, a
+kickoff call will be held to confirm and review project logistics and goals. Work schedules
+will be based on resource availability and the contract signature data. In some cases,
+work may be performed with multiple resources or in parallel with other efforts to expedite
+delivery if appropriate.
+
+5. NCA Service Work Deliverables.
+The Deliverables produced during an NCA Services engagement include:
+
+Daily and/or weekly status reports
+
+e Summary of activities completed
+
+MSA-online v2024.3.12 Page 42 of 53
+
+
+Page 43:
+ARISTA Master Services Agreement
+
+e Network connectivity and modeling status
+e Issues requiring attention and plans for the next reporting period
+
+Network Compromise Assessment Report
+
+e Executive Summary: Key findings and an overview of the services provided
+
+e Network Deployment Summary: Summary of the number of sensors deployed,
+duration of traffic monitored, and number of models that were triggered
+
+e Relevant Findings: Plan and documentation, network findings, and general
+observations
+
+e Remediation Recommendations: Priority ranked recommendations for key identified
+weaknesses
+
+6. NCA Service Work Assumptions.
+
+Arista’s commitment to provide the Network Compromise Assessment is based on the
+following assumptions:
+
+e The Awake Security Platform Network Detection and Response Sensors can be
+deployed at key locations to allow for adequate analysis of managed and
+unmanaged devices
+
+e All Awake Security Platform devices within the desired environment will be
+accessible via remote network connectivity for Arista analysis
+
+e The Customer will provide the appropriate pre-engagement details including
+documentation, company IP address space, and key domains for the assessment
+
+e The Customer will identify a point of contact for the engagement
+
+e The Customer will provide all relevant information for the system and network that
+are within the scope of the engagement
+
+e The Customer is responsible for network availability at all times during the
+engagement. The lack of network availability and readiness may hamper Arista’
+ability to perform certain functions
+
+e lf a breach is discovered, and a compromise has been identified, the Customer may
+need to perform Incident response activities, which may involve activating the
+retainer portion of the agreement and/or additional response work that is outside the
+scope of this assessment
+
+D. Managed Network Detection and Response (“MNDR”) Services Offering
+
+The following SKUs are available for purchase.
+
+* SVE-SEC-MNDR-STDA-5GB-1M MNDR with threat hunting 9am to 5pm M-F for
+All-In-One 5Gbps
+
+MSA-online v2024.3.12 Page 43 of 53
+
+
+Page 44:
+ARISTA Master Services Agreement
+
+¢ SVE-SEC-MNDR-STDN-5GB-1M MNDR with threat hunting 9am to 5pm M-F for
+Nucleus 5Gbps
+
+¢ SVE-SEC-MNDR-STDN-10GB-1M MNDR with threat hunting 9am to 50m M-F for
+Nucleus 10Gbps
+
+¢ SVE-SEC-MNDR-STDNI-10GB-1M MNDR with threat hunting 9am to 5pm M-F
+incremental for 10Gbps
+
+* SVE-SEC-MNDR-24X7A-5GB-1M MNDR with threat hunting 24X7 for All-In-One
+5Gbps
+
+* SVE-SEC-MNDR-24X7N-5GB-1M MNDR with threat hunting 24X7 for Nucleus
+5Gbp
+
+1. Description. Managed Network Detection and Response Services (“MNDR Services’) is
+a managed service consisting of network detection and response to help the Customer
+detect and mitigate the impact of a suspected or actual security breach incident resulting
+from Malware, unauthorized access or hacking (“Incidents”) using Network Traffic Analysis
+(NTA) Technology. The solution is offered in two tiers being a “Business Hours” 9am to
+5pm or “24 Hours” 24X7 solution and it builds on decades of expertise, an industry-leading
+Al-based platform, and advanced incident response methods to identify and mitigate
+threats before impact.
+
+MNDR includes the following components.
+
+Managed network detection and response
+
+Proactive intelligence-driven threat hunting
+
+Access to security analysts
+
+Proactive closed loop communication for Observations* via email or phone
+e Monthly, quarterly and annual reporting on MNDR activities
+
+*’Observations” means an actual or potential security weakness or Incident detected by
+the Awake Security Platform.
+
+2. MNDR General Service Responsibilities:
+
+The Awake Security Platform Adversarial Model Observation detects and provides
+notifications of Observations. Arista will, in the first instance, perform triage of the
+Observations to determine the prioritization and categorization of the Observations and,
+then, analyze the Observation to determine if notification is warranted. If notification is
+warranted, Arista will escalate the notification and assign the Observation to the
+Customer’s designated point of contact (POC). The Customer is responsible for promptly
+responding to Arista in order to resolve Observations.
+
+Arista will detect and investigate Adversarial Model Observations and notify the Customer
+in accordance with the established and agreed upon service level agreements (SCAs).
+Arista will follow escalation procedures, prioritization and classification criteria and contact
+details established with the Customer during the MDNR onboarding process. The
+Customer is responsible for reviewing, updating, and validating that its contact information
+is accurate and up to date.
+
+MSA-online v2024.3.12 Page 44 of 53
+
+
+Page 45:
+ARISTA Master Services Agreement
+
+Once escalated, Observations are assigned to the Customer after analysis, the Customer
+is responsible for escalation of Observations back to Arista if the Observation requires
+additional investigation or analysis by Arista. Arista is responsible solely for the
+prioritization and classification of Observations based on the agreed upon criteria
+established during the MDNR onboarding process.
+
+3. Arista MNDR Responsibilities.
+
+e Provide managed detection of Observations, analysis and escalation during the
+hours of 9am to 5pm, Monday through Friday, excluding Arista holidays (“Business
+Service Hours”) for customers subscribed to the “Business Hours” offering.
+
+e Provide managed detection of Observations, analysis and escalation on a 24 x 7
+basis (‘“MNDR 24 Service Hours”) for customers subscribed to the "24 Hours”
+offering.
+
+e Produce reports on the Adversarial Model Observations and metrics of the MDNR
+Service.
+
+e Escalate Observations to the identified Customer contacts for clarification and
+remediation.
+
+4. Customer MNDR Responsibilities.
+
+e Provide applicable onboarding details and documentation including network
+architecture diagrams and other key technical information to support the MNDR
+Service and troubleshooting the Product.
+
+e Ensure licenses, technology, and service information required to support the MNDR
+Service are in good standing for the duration of the Term.
+
+e The Customer is responsible for responding and remediating the escalated
+Adversarial Model Observations in a reasonable time frame based on the nature of
+the Adversarial Model Observation in order to resolve open notifications. Seven (7)
+calendar days from the initial escalated notification is considered a reasonable time
+frame.
+
+e Provide one or more dedicated POC(s), their associated information (name, email,
+phone, and mobile phone) in order to support the process and escalations of the
+Arista Adversarial Model Observations.
+
+e Customer is responsible for continuity of operations and disaster recovery solutions
+for the Hardware. In the event of a disaster if the building and or equipment is
+destroyed, the MNDR Service may not be operable unless there is a backup
+hardware device at a secondary location that can be accessed for monitoring and
+response.
+
+MSA-online v2024.3.12 Page 45 of 53
+
+
+Page 46:
+ARISTA Master Services Agreement
+
+5. MNDR Service Commitment Agreements (“SCA’s”).
+
+Arista’s commitment with respect to the services described under Sections 2 and above
+are set forth below. This service commitment will become effective when the deployment
+and initial onboarding process is acknowledged in writing or by email to Customers’ point
+of contact by Arista as complete and the MNDR Services are “Active.” “Active” means the
+MNDR Services are transitioned from onboarding to production detection and response.
+SCA’s do not apply for beta, proof of concept, customer service oriented, testing, or any
+other phase or use and must include a purchased MDNR subscription. SCAs do not apply
+during periods of time that have exceed the reasonable time frame for Customer
+response.
+
+Name Description SCA
+
+MNDR Business | Standard hours of operation for the Managed Monday through
+Hours Service Network Detection and Response service based | Friday, 9am to
+Offering on Customer’s election of Pacific Time or 5pm, Pacific
+Eastern Time SCA at time of onboarding. Time or 9am to
+5pm Eastern
+Time, excluding
+Arista holidays
+
+MNDR 24 Hours | 24x7 hours of operation for the Managed 24x7
+Service Offering Network Detection and Response service.
+
+Standard Service | Telephone or email communications received 60 minutes
+Response during the MDNR Service Offering SCA will be
+
+answered in a timely manner. The service goal
+
+is to provide responses within 60 minutes of the
+
+initial contact. Expectation is that less than 5
+
+communications will exceed the SCA within a
+
+monthly period.
+
+Reporting A monthly summary report delivered via email or | Monthly
+other agreed electronic mechanism in PDF or
+
+other electronic format that includes a high-level
+
+summary of information corresponding to the
+
+period of service.
+
+6. Failures.
+
+Arista is not liable or responsible for any failure resulting from Customer’s breach or
+negligence. At minimum, the Customer is obligated to ensure the following environmental
+failures do not impact MNDR Services.
+
+e Customer's failure to adhere to Arista recommended configurations on the
+technology used to support the MDNR Service.
+
+MSA-online v2024.3.12 Page 46 of 53
+
+
+Page 47:
+ARISTA Master Services Agreement
+
+e Customer’s use of the Products to screen more traffic than Customer originally
+purchased a license for as reflected in the order confirmation.
+
+e Customer's failure to host the Products in a secure environment on-premise or ina
+remote facility assigned to the Customer, including appropriate mounting, cooling,
+theft, audit trails and wiring of the Hardware.
+
+e Service disruption or degradation failures caused by other Customer equipment,
+routing or firewall configurations, and telecommunications failures.
+
+e Service disruption or degradation failures caused by Customer configurations of
+Product in a manner that does not conform to the Documentation.
+
+e Changes to the Product resulting in degradation or failure without reasonable prior
+notification.
+
+e Customer’s failure to ensure the appropriate level of business continuity and
+disaster recovery as required for the MNDR Service.
+
+7. Maintenance Activities. Maintenance and support will be addressed in accordance with
+Appendix A to this Exhibit.
+
+8. Change Notifications.
+
+Customer is required to provide Arista with advanced notice regarding any network to
+system changes including scheduled outages that may affect the managed services
+environment. Advanced notice should be sent at least seven (7) business days prior to
+the scheduled changes. This specifically applies to systems of any type that may affect
+the access or transmission of data for the MNDR Service. Notice for such items must be
+submitted in writing or via email to Arista at awake-mndrservice@arista.com.
+
+9. Testing of MNDR Services.
+
+Customer may test MNDR Services by scheduling and staging simulated or actual
+adversarial activity. These activities may be conducted by the Customer or a third party
+contracted by the Customer. Testing of MNDR Services should be communicated to
+Arista in advance of such activity in writing or email to ensure that Arista have been
+properly notified of such activities. During this period SCA‘s and reporting activities may
+not apply. In addition, Customer is obligated to share the result of all such tests with
+Arista and will maintain the results as Confidential Information disclosing the results only
+to such parties having a need to know who are subject to confidentiality obligations
+consistent with the Agreement.
+
+MSA-online v2024.3.12 Page 47 of 53
+
+
+Page 48:
+ARISTA Master Services Agreement
+
+Appendix A to AWAKE SECURITY SERVICES EXHIBIT
+Awake Security Platform - Software Maintenance and Support
+
+This Appendix A to the Awake Security Services Exhibit supplements Arista’s Standard
+Warranty with respect to Arista Software Products that are provided as a part of the Awake
+Security Platform.
+
+Hardware Support. Support for the Hardware portion of the Awake Security Platform shall be
+provided in accordance with Arista’s Standard Warranty, a copy of which is located at
+https://www.arista.com/assets/data/pdf/Warranty.pdf. Customer has the option to purchase
+upgraded support see Arista’s A-Care offering description at:
+https://Awww.arista.com/assets/data/pdf/A-CareServicesOverview.pdf
+
+Software Support. Maintenance and Support for the Software portion of the Awake Security
+Platform products consists of Arista providing technical support to address Software defects or
+bugs that negatively affect the operation of the Products (“Defects”). It includes the provision of
+periodic maintenance releases, fixes and patches that are designed to ensure that the Software
+operates materially in accordance with the Specifications.
+
+1. Customer Responsibilities. To facilitate the identification and correction of Defects,
+Customer is required to assist Arista’s Customer Support Team until the Defect is
+resolved. Required Customer activities may include, but are not limited to, the following: (i)
+granting access to Arista to log into Customer’s systems for diagnosis of problems; (ii)
+downloading and installing of patches and updates; (iii) collecting and sending system
+logs/files to Arista; (iv) modification of Software configuration; (v) re-installation of existing
+Software; and (vi) assistance with installation of, and participating in, tests for updates.
+Customer acknowledges and agrees the success and scheduling of the Software Support
+depends substantially on the participation of Customer staff. Any delay caused by
+unavailability of scheduled Customer resources or failure to notify Arista of any previously
+known issues or scheduled activities that could reasonably be expected to impact the
+Software Support schedule are the Customer’s responsibility. Further, any such delays
+may increase the cost or duration of providing Software Support.
+
+2. Primary Contact. Customer will designate a Primary Contact to act as Customer’s
+authorized point of contact who is authorized to make all required decisions and approval
+and has business and technical knowledge to provide information and resources in a
+timely and professional manner as needed by Arista’s Customer Support Team to perform
+the Software Support and who has expertise in Customer’s business requirements,
+operating standards, such as change control, network configuration, naming conventions,
+and password/security policies; and to coordinate scheduling and who is readily available
+as and when required by Arista’s Customer Support Team member for the duration of the
+Software Support. Customer will promptly replace a Primary Contact at Arista’s
+reasonable request.
+
+3. Severity Levels. A support ticket may be reported by phone or by email. Arista will
+
+exercise commercially reasonable efforts to respond to a support ticket submitted by
+Customer in accordance with the following Severity Level definitions. Response time is
+
+MSA-online v2024.3.12 Page 48 of 53
+
+
+Page 49:
+ARISTA Master Services Agreement
+
+measured when a support ticket is opened by Arista’s Customer Support Team member.
+Arista will continue working on the case until the support ticket is closed.
+
+SEVERIT DESCRIPTION RESPONSE
+Y LEVEL TIME*
+1 The Product is non-functional or significant features or < 4 Business
+components are unusable. Hours
+2 The Product is functional but one or more key features < 1 Business
+or components are not operating as documented. Day
+Minor components are not operating as documented. < 3 Business
+Days
+
+*Arista is not responsible for meeting the above response times where any of the
+conditions set forth in, Section 5 below (“Failures”) apply.
+
+4. Escalation. Customer will follow Arista’s escalation process and procedures (“Escalation”
+or “Escalated”). When Escalation is requested by Customer, the following procedures will
+
+apply:
+
+(a) Status Updates. Each Customer support contact will establish a schedule of
+follow-up, status updated communications with their Arista counterpart that will
+ensure timely exchange of information.
+
+i. Monitor Phase. The purpose of the monitor phase is to evaluate the
+Customer’s environment over some period of time to verify that the
+Escalation has been resolved. The parties will co-ordinate monitoring
+activities.
+
+ii. Closing Escalation. The Escalation is closed once Arista’s Customer Support
+Team member determines the Defect has been addressed or resolved in
+accordance with this Appendix.
+
+5. Eailures. Arista is not liable or responsible for any failure resulting from Customer’s breach
+of this Agreement or negligence. At minimum, the Customer is obligated to ensure the
+following environmental failures do not impact the operation of the Awake Security
+Platform:
+
+e Customer’s failure to adhere to Arista recommended configurations.
+
+e Customer's use of the Products to screen more traffic than Customer originally
+purchased a license for as reflected in the order confirmation (“Excess Data’).
+
+e Customer’s failure to host the Products in a secure environment on-premise or ina
+remote facility assigned to the Customer, including appropriate mounting, cooling,
+theft, audit trails and wiring of the related Hardware.
+
+e Service disruption or degradation failures caused by other Customer equipment,
+routing or firewall configurations, and telecommunications failures.
+
+MSA-online v2024.3.12 Page 49 of 53
+
+
+Page 50:
+ARISTA Master Services Agreement
+
+e Service disruption or degradation failures caused by Customer configurations of
+Product in a manner that does not conform to the Documentation or Specifications.
+
+e Changes to the Product resulting in degradation or failure without reasonable prior
+notification and written approval.
+
+MSA-online v2024.3.12 Page 50 of 53
+
+
+Page 51:
+ARISTA Master Services Agreement
+
+Appendix B to AWAKE SECURITY SERVICES EXHIBIT
+FORM OF STATEMENT OF WORK
+
+Statement of Work
+Under
+Master Services Agreement
+
+This Statement of Work No. ___ (this “Statement of Work”) is entered into between the Arista
+entity identified below on behalf of itself and its Affiliates (“Arista”) and the customer specified in
+the table below (“Customer”) and is effective as of the date of the last signature below
+(‘SOW# Effective Date”). This Statement of Work is incorporated into, governed by and
+made a part of the Master Services Agreement dated by and between Arista and
+Customer (“Agreement”). Capitalized terms not defined herein have the same meanings set
+forth in the Agreement. In the event of a conflict between the terms of this SOW and the terms
+of the Agreement, the terms of this SOW shall prevail for this SOW only.
+
+1. Contact Information:
+
+a
+
+a
+a a
+
+2. Purchase Order. Does Customer require a Purchase Order along with this Statement of
+Work?
+
+Yes__—No
+If no, then the Contact Information above must be completely filled out
+
+3. Term: The Services to be rendered under this Statement of Work commence on
+and shall be completed no later than :
+
+4. Location of performance of the Services: [Insert]
+
+MSA-online v2024.3.12 Page 51 of 53
+
+
+Page 52:
+ARISTA Master Services Agreement
+
+5. Detailed Description of Services:
+[Insert description]
+
+6. Customer Responsibilities. The tasks for which Customer is responsible under this
+SOW are as follows:
+
+For work performed at the Customer’s facility, Customer will provide access to the
+necessary systems, workspace, Internet access and a telephone for the Arista’s
+employees and consultants.
+
+Customer will identify a single point of contact for the engagement: The person
+identified in Section 1
+
+Customer will provide Arista staff with the required documentation related to
+engagements upon request.
+
+All devices within the desired environment will be accessible via network
+connectivity and accessible prior to the engagement start.
+
+Customer is responsible for network availability at all times during the engagement.
+In the event there is a lack of network availability or access to specific data the
+results may affect the accuracy and results of the engagement.
+
+Customer will schedule any interviews with the appropriate individuals as requested
+for the applicable engagement.
+
+7. Rates/Fees:
+
+Travel Expenses
+
+TOTAL FEES:
+
+The Total Fees stated above is an estimate based on the nature and scope of the
+identified Incident. Each Daily and/or weekly status report delivered to Customer shall
+state the number of hours (per SKU) used against the above estimated amount as of the
+date of the report. As hours are used under this SOW, the Customer will be invoiced for
+such hours at the above rates per SKU (a) at the end of each month during the term of
+
+MSA-online v2024.3.12 Page 52 of 53
+
+
+Page 53:
+ARISTA Master Services Agreement
+
+this SOW and (b) upon the completion of the Services. In the event that additional hours
+are required to remediate the Incident, a new SOW shall be submitted to Customer to
+obtain approval for additional Service hours.
+
+In addition to the Fees listed above, Customer shall reimburse Arista for its actual out of
+pocket travel and lodging expenses incurred by its employees and/or subcontractors in
+connection with the engagement such as, but not limited to, airfare, accommodations,
+meals and ground transportation. Also, any secure media fees.
+
+8. Signature. Each party warrants and represents that its respective signatories whose
+signatures appear below have been and are on the date of signature duly authorized to
+execute this Agreement. Customer’s signature below constitutes a valid and binding order.
+
+Customer: ARISTA NETWORKS
+By: By:
+
+Name: Name:
+
+Title: Title:
+
+Date: Date:
+
+MSA-online v2024.3.12 Page 53 of 53
+
+

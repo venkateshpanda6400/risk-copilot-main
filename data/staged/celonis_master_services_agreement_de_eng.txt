@@ -1,0 +1,1940 @@
+Page 1:
+celonis
+
+THIS MASTER SERVICES AGREEMENT GOVERNS YOUR ACCESS TO AND USE OF THE SERVICES. CAPITALIZED TERMS HAVE THE DEFINITIONS
+SET FORTH HEREIN. BY (1) CHECKING A BOX INDICATING YOUR ACCEPTANCE, (2) EXECUTING AN ORDER FORM THAT REFERENCES THIS
+AGREEMENT, OR (3) USING THE SERVICES IN WHOLE OR IN PART, YOU AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS. IF YOU
+DISAGREE, YOU DO NOT HAVE THE RIGHT TO USE THE SERVICES. IF THE INDIVIDUAL ACCEPTING THIS AGREEMENT IS ACCEPTING ON BEHALF
+OF A COMPANY OR OTHER LEGAL ENTITY, SUCH INDIVIDUAL REPRESENTS THAT THEY HAVE THE AUTHORITY TO BIND SUCH ENTITY TO THESE
+TERMS AND CONDITIONS, IN WHICH CASE THE TERM "YOU" SHALL REFER TO SUCH ENTITY. THIS AGREEMENT IS EFFECTIVE AS OF THE EARLIER
+OF (A) YOUR INITIAL ACCESS TO THE SERVICE OR (B) THE EFFECTIVE DATE OF THE FIRST ORDER FORM REFERENCING THIS AGREEMENT
+(“EFFECTIVE DATE”).
+
+Master Services Agreement
+
+1. Definitions
+All definitions used in the Agreement are specified in Annex A.
+
+2. Agreement and Scope
+
+2.1 These Terms, together with any accepted Order between You and Us, comprise the Agreement between You and Us. The
+Agreement governs Your access to and use of the Services specified in the applicable Order, which may include Cloud Service,
+Online Training Cloud, Support Services and/or Professional Services.
+
+2.2 The additional terms set out in Annex B apply to Our provision of Professional Services and Annex C is the Data Processing
+Agreement.
+
+3. Delivery
+
+3.1 Following the execution of an Order for the Cloud Service, We shall provide You via e-mail with all information required for You
+to access and use the Cloud Service.
+
+3.2 Where You order Cloud Service of the type “Digital Consulting Blocks” or a similar product without a separate Order, Your order
+placed online will be “the Order,” and no automatic Order renewals in accordance with Section 9.1 shall apply.
+
+4. Support Services and Service Levels
+
+4. We shall provide the Cloud Services in accordance with the Service Level Agreement.
+
+4.2 We provide Support Services as part of the Cloud Service and these Support Services are described in the Support Services
+Description, which forms part of the Agreement. Where Online Training Cloud is specified within the Order, the Support Services
+provided for the Online Training Cloud are described in its respective Documentation.
+
+5. Your Access Rights and Obligations
+
+You are granted a non-transferable right to use and access the Cloud Service and any non-Celonis Application identified in
+the Order, during the Subscription Term, for Your own and Your Affiliates’ internal purposes (which specifically excludes any
+analysis of data from third-party source systems), unless otherwise stated in the applicable Documentation for such Cloud
+Service. Use of the On-premise Component (where applicable) is limited to use with its associated Cloud Service, and may not
+be modified or altered in any way except by Us; provided, however, that to the extent any third party content is included in the
+On-premise Component and is accompanied by its own license terms, those terms shall control with respect to such content.
+Full functionality and interoperability of the On-premise Component may not be attainable without use of the most current
+version made available by Us. You are responsible for all acts and omissions in breach of the Agreement by Users and Affiliates.
+As between You and Us, We are and remain exclusive owners of all rights (including without limitation the Proprietary Rights)
+in and to the Services.
+
+g
+
+5.2 Your use of the Services shall be limited in accordance with the metrics in the applicable Order. Definitions of the metrics are
+contained in the Metrics Definition, which is incorporated by reference. In addition, You shall comply with the terms of service
+of any Non-Celonis Application, as included within the applicable Order.
+
+5.3 With respect to the Cloud Service and/or any Non-Celonis Application, You (i) are solely responsible for making available
+interfaces to Your Customer Data and for uploading such Customer Data thereto; (ii) are solely responsible for procuring and
+maintaining Your network connections and telecommunications links and all problems, conditions, delays and delivery failures
+
+MSA (May 2021) - German Law
+
+
+Page 2:
+arising from or relating to such network connections or telecommunications links; and (iii) will maintain adequate security
+standards for Your Users’ access and use thereof, and will use all reasonable efforts to prevent any unauthorized access or
+use thereof, and, in the event of any such unauthorized access or use, promptly notify Us.
+
+5.4You will not during the course of the use of the Cloud Service or any Non-Celonis Application, upload, input, access, store,
+distribute or transmit any Malware, nor any material, including without limitation Customer Data, that is Inappropriate Content.
+We reserve the right, without liability to You and without prejudice to Our other rights, to (i) disable Your access to any material
+that breaches the provisions of this Section; (ii) remove and delete any content where, in Our sole and reasonable discretion,
+We suspect such content to be Inappropriate Content; and/or (iii) terminate the Agreement for material breach in accordance
+with Section 9. You agree to defend, indemnify and hold Us and Our Affiliates harmless from and against any and all claims,
+losses, damages, expenses and costs, including without limitation reasonable court costs and legal fees, arising out of or in
+connection with Your breach of this Section.
+
+5.5 You will not (i) copy, translate, or otherwise modify or produce derivative works of all or parts of the Cloud Service or any Non-
+Celonis Application, it being understood that You will be entitled to copy the Documentation and materials accompanying the
+Cloud Service and make use of the Celonis Schema (as defined and described below) as is reasonably required for Your
+
+internal purposes; (ii) access or use the Cloud Service in breach of applicable laws or for any illegal activities, including without
+limitation to transfer data and information which is illegal or in breach of third-party Proprietary Rights; (iii) disassemble, reverse
+engineer, decompile, place at risk or circumvent the functionalities, performance, and/or the security of the Cloud Service; (iv)
+access all or any part of the Cloud Service in order to build a competitive and/or similar product or service; or (v) determine
+whether the Services are within the scope of any patent.
+
+5.6 We will have the right to temporarily restrict Your access to the Cloud Service, if We in Our reasonable judgment deem it likely
+that Your use of the Cloud Service will have negative effects on the Cloud Service, and that immediate action is required in
+order to limit or prevent damage. We shall promptly inform You of any such restriction and, where reasonable to do so, We
+shall provide such information in advance.
+
+5.7 We may, at our discretion, make available to You Cloud Service-related scripts, schema and/or code that can be used to
+create process analysis implementations for the Cloud Service platform (collectively, the “Celonis Schema’). Where Celonis
+Schema are made available to You, You are granted for the relevant Subscription Term a limited, non-exclusive, revocable
+license to use and modify the Celonis Schema for purposes of implementing Your permitted use of the Cloud Service. As
+between You and Celonis, You will be owner of all right, title and interest in and to any modifications You make to the Celonis
+Schema, subject, always, to Our underlying ownership interest in and to all of the Services from which Your modifications derive.
+
+5.8We are entitled to integrate technical features into the Cloud Service which allow Us to verify Your compliance with the
+limitations in this Agreement and/or Your Order. For clarity, no Customer Data shall be visible to Us in this context. Further, We
+may audit Your use of the Cloud Service in order to establish whether the use of the Cloud Service is in accordance with this
+Agreement, at Our own cost, by providing You seven (7) days’ prior written notice. We may ask a qualified third party, who will
+be obliged to maintain confidentiality, to perform the audit. Where We notify You of a non-compliance with the Agreement
+and/or Your Order limitations, including any overuse, We may work with You to seek to reduce Your overuse so that it conforms
+to Your Order. If You are unable or unwilling to abide by the Order limitations, You will pay any invoice for excess usage or
+execute an Order for additional Services. Our acceptance of any payment shall be without prejudice to any other rights or
+remedies We may have under the Agreement or applicable law.
+
+6. Fees and Payment
+6.1 Where your Order is directly with Celonis,
+
+i. (a) We will invoice the Subscription Fees annually in advance; and (b) unless otherwise agreed upon in the Order, all
+payments are due in full without deduction or set-off within 30 (thirty) days of the date of Our invoice. You shall have the
+right to set-off claims against Our claims only where Your claims are undisputed by Us or have been finally decided upon.
+
+ii, The Subscription Fees are non-refundable and do not include Taxes and You are responsible for all Taxes. If We are
+required to pay Taxes based on the Services provided under these Terms, then such Taxes shall be billed to and paid by
+You. If a deduction or withholding is required by law, You shall pay such additional amount and will ensure that the net
+amount received by Us equals the full amount which We would have received had the deduction or withholding not been
+required. This Section shall not apply to Taxes based on Our income.
+
+iii. Once the due date for the respective Subscriptions Fees has passed, We can claim default interest at the statutory rate.
+Without prejudice to any other rights We may have, if We have not received payment for any overdue invoice, We shall
+be entitled to (a) by giving You thirty (30) days’ prior written notice and without liability to You, disable Your password,
+
+2
+MSA (May 2021) - German Law
+
+
+Page 3:
+account and access to all or part of the Cloud Service and We shall be under no obligation to provide any or all of the
+Cloud Service while any such invoice remains unpaid; and/or (b) suspend Professional Services until all payments due
+have been made in full.
+
+v. We shall be entitled to adjust the Subscription Fees with effect from Your next Renewal Term. Where We increase the
+Subscription Fees, such increase shall not exceed 7%. Unless otherwise agreed between You and Us, if You are renewing
+directly with Celonis a Subscription originally purchased through an Authorized Reseller, then the Subscription Fees for
+Your initial Renewal Term with Us will be at Our then-prevailing Subscription Fees for the subject Cloud Service.
+
+6.2 If Your Subscription is purchased through an Authorized Reseller, We may, upon written notice, suspend Your right to use the
+Subscription in the event We fail to receive payment for such Subscription or We confirm that You have not paid the Authorized
+Reseller for such Subscription.
+
+7. Customer Data; Data Protection
+
+7.1 You own alll right, title and interest in and to Customer Data and shall have sole responsibility and liability for (i) the legality,
+appropriateness, and integrity of Customer Data; (ii) the completeness, reliability, accuracy and quality of Customer Data; (iii)
+obtaining and maintaining all necessary licenses and consents required to use Customer Data, if any; and (iv) Your entering
+of Customer Data into the Cloud Service. You acknowledge that (i) We will not be held responsible in any way for any Proprietary
+Right or other rights’ infringement or violation or the violation of any applicable laws, arising or relating to such Customer Data
+and/or communications; and (ii) that any Personal Data contained in Customer Data has been collected and is maintained
+in compliance with applicable Data Protection Laws.
+
+7.2 You grant to Us and Our Affiliates a right; (i) to use, host, transmit, monitor, manage, replicate, access, store, and cache
+Customer Data in connection with performing our rights and obligations under the Agreement; and (ii) where necessary, to
+transfer Customer Data, to any third parties used by Us but only as required for the provision of the Services.
+
+7.3 During the Subscription Term, You will be entitled to access and export (where available) Customer Data at any time. Export
+may be subject to technical limitations; in which case We will find a reasonable method for You to access Customer Data.
+Within 30 days of termination of an Order, We will delete or destroy Customer Data remaining on the Cloud Service unless
+applicable law requires retention for a specified period. Any such retained data is subject to the confidentiality provisions of
+these Terms.
+
+7.4 We will maintain appropriate administrative, physical, and technical safeguards for protection of the security, confidentiality
+and integrity of Customer Data, as further described at https://www.celonis.com/trust-center/. Those safeguards will include,
+but will not be limited to, measures designed to protect against the unauthorized access to or disclosure of Customer Data.
+
+7.5 Each party shall, in connection with the exercise of its rights and the performance of its obligations under the Agreement,
+comply with all applicable Data Protection Laws. We acknowledge that You are acting as a data controller in respect of any
+Customer Data which contains Personal Data. To the extent that We process any such Personal Data in the provision of the
+Services, the Data Processing Agreement in Annex C shall apply.
+
+7.6 For the purposes of this Section the terms "data controller’, "process’ and "processing" shall have the meaning given under
+applicable Data Protection Laws.
+
+8. Use of Data for Cloud Service Development
+We and Our Affiliates may collect data derived from Your use of the Cloud Services for development, benchmarking, and
+marketing, and for creating analyses. All such data is collected in an aggregated and anonymized form that does not contain
+Customer Data or permit direct association with You, any specific User or other individual or third party.
+
+9. Term and Termination of Subscription for Cause
+
+9.1 Your Subscription commences on the effective date of the Order unless otherwise specified therein. Your Subscription
+continues for the Initial Subscription Term stated in the Order. Thereafter, each Subscription will automatically renew for
+successive periods of 12 months (each a “Renewal Term”) unless a party gives at least 30 days’ prior written notice to the other
+
+MSA (May 2021) - German Law
+
+
+Page 4:
+party of its intention not to renew the Subscription. Unless otherwise agreed in the applicable Order, and subject to Your rights
+to terminate under this Section, Your Subscription may only be terminated in accordance with Section 9.2.
+9.2 Without prejudice to any other rights or remedies to which We or You may be entitled, either party may terminate an Order
+without liability to the other at any time with immediate effect upon written notice if the other party:
+a. is in material breach of any of its obligations under the Agreement or an Order and, in the case of a breach which is
+capable of remedy, fails to remedy such breach within thirty (30) days of notice of the breach; or
+b. voluntarily files a petition under bankruptcy or insolvency law; has a receiver or administrative receiver appointed over it
+or any of its assets; passes a resolution for winding-up or a court of competent jurisdiction makes an order to that effect;
+becomes subject to an administration order; enters into any voluntary arrangement with its creditors; ceases or threatens
+to cease to carry on business; or is subject to any analogous event or proceeding in any applicable jurisdiction.
+
+9.3 Upon termination or expiration of an Order, You shall immediately cease any and all use of and access to the applicable
+Service and any Non-Celonis Application, and destroy (or at Our request return) any of Our Confidential Information related
+thereto. Except where an exclusive remedy is specified in the Agreement, the exercise by either party of any remedy under the
+Agreement, including termination, will be without prejudice to any other remedies it may have under this Agreement, by law,
+or otherwise.
+
+9.4 Termination of any Order shall have no effect on any other Order.
+
+10. Limited Warranties
+10.1 We warrant that the Cloud Service shall substantially perform as specified in the Documentation during the Subscription Term,
+when used in accordance with the terms of the Agreement. Support Services will be rendered with due care, skill and ability,
+and in accordance with recognized standards of industry practice. We particularly do not warrant against problems caused
+by misuse, improper testing, unauthorized attempts to repair, modifications or customizations to the Cloud Service by You or
+any other cause beyond the range of the intended use of the Software, unless You can prove that such use was not the cause
+of such problem; that the Cloud Service will achieve Your intended results, nor that the Cloud Service has been developed to
+meet Your individual requirements. We also do not warrant against data breaches and data losses which could not have
+been avoided by adequate, state-of-the art security in accordance with Our then-current security infrastructure, as may be
+further described in the accompanying materials.
+
+10.2 During the Subscription Term, if the Cloud Service does not conform with the warranty provided in Section 10.1, We will at
+Our expense correct any such non-conformance in accordance with Section 10.2.
+10.3 We shall correct all defects notified to Us in writing in sufficient detail free of charge. We are entitled remedy such defect
+
+at Our cost also by providing You with an alternative means of accomplishing the desired performance including but not
+limited by providing you with a new version of the Cloud Service (in particular by providing you with a patch).
+
+10.4 If We cannot reasonably repair or replace the affected Cloud Service, We may terminate the Order for the affected Cloud
+Service and pay back to You any prepaid Subscription Fees (or, in the case Your Subscription is purchased through an
+Authorized Reseller, arrange through such Authorized Reseller, the return of). You are, at Our option, required to either delete or
+return to Us all accompanying materials and copies thereof. Damage claims and claims for vain expenditure (vergebliche
+Aufwendungen) in view of Our breach of warranty shall be subject to the limitation of liability in Section 12.
+
+05 Warranty claims asserted under one Order shall have no effect on any other Orders or other contracts that are in place
+between You and Us.
+
+0.6 To the maximum extent permitted by applicable law, the warranties and remedies provided in this Section 10 are exclusive
+and in lieu of all other warranties.
+
+07 You agree that Your purchase of the Cloud Service is not contingent on the delivery of any future functionality or features,
+or dependent on any oral or written public comments, statements or representations We made regarding future functionality
+or features.
+
+1. Intellectual Property Indemnity
+1.1 We warrant during the Subscription Term in accordance with the following provisions that the rights granted to You in
+accordance with Section 5 are not affected by third party rights.
+
+1.2 If a third party asserts a claim against You alleging that Your use of the Service in accordance with the terms of the Agreement
+infringes the Proprietary Rights of a third party (“Infringement Claim”), We shall be liable to You subject to the exclusions in
+Sections 11.3 and 11.1 as follows:
+
+a. modify the infringing Service so that it ceases to be infringing without loss of substantial functionality or replace the
+
+infringing portion of the Service with non-infringing software or services; or
+
+MSA (May 2021) - German Law
+
+
+Page 5:
+b. procure a license to enable You to legally continue using the Service and hold You harmless from such license fees.
+
+If We do not provide You with one of the options above, We may, at Our sole discretion, terminate Your Order for the affected
+Services with immediate effect and reimburse You any prepaid Fees covering the remainder of the Subscription Term and
+terminate Your access and use of the affected Services. You shall be obliged at Our choice to destroy or return to Us all
+accompanying materials and copies thereof. Damage claims and claims for vain expenditure (vergebliche Aufwendungen)
+shall be subject to the limitation of liability in Section 12.
+
+11.3 We shall only be liable for any Infringement Claim provided You:
+a. provide Us with prompt written notice of the Infringement Claim;
+b. do not enter into any settlement of the Infringement Claim without Our prior written consent; and do not undertake any
+other action in response to any Infringement Claim that is prejudicial to Our rights;
+c. permit Us to exclusively control the defence, negotiations and any settlement of the Infringement Claim;
+provide Us with reasonable information and assistance for the Infringement Claim; and
+11.1. We shall not be liable to You for Infringement Claims if and to the extent the infringement is caused by Your own
+default (Verschulden). This particularly applies if and to the extent the Infringement Claim is caused by Your use of
+the Cloud Services outside the scope of the Agreement or the applicable Order.
+
+114 This Section constitutes Your exclusive remedy and Our entire liability with respect to Infringement Claims.
+
+12. Limitation of Liability
+121 Our aggregate liability to you for or in respect of any damages and vain expenditures (vergebliche Aufwendungen) under
+or in connection with the Agreement regardless of its legal basis shall be limited as follows
+
+a. We shall be liable without limitation in the event of wilful misconduct, gross negligence (grobe Fahrldssigkeit) and the
+negligently or wilfully caused damages relating to death or personal injury or in the case of liability pursuant to the
+Product Liability Act (Produkthaftungsgesetz);
+
+b. Unless stated otherwise in Section 121 lit a, in cases of simple negligence (einfache Fahrldssigkeit), We shall only be liable
+for the breach of so-called cardinal obligations (ie. obligations which are essential to the performance of the Agreement
+and which You may reasonably rely upon). In such cases, Our liability to You for or in respect of any loss or damage
+suffered by You under or in connection with an Order shall be limited (i) per damaging event to an amount of Euro 100,000
+and (ii) in the aggregate for all damages incurred over a period of twelve (12) months, to the total amount of Subscription
+Fees You paid to Us in these twelve (12) months, however not to fall short of Euro 200,000.
+
+12.2 The strict liability of the lessor for breaches of warranty upon commencement of the lease (verschuldenunsabhdngige
+Haftung fur anfangliche Mietmdngel) in accordance with Section 536a (1) Alt. 1 of the German Civil Code shall be excluded.
+
+12.3. We shall not be precluded from claiming contributory negligence.
+
+12.4 All contractual and non-contractual claims for damages or vain expenditures against Us shall be time-barred after a period
+of one (1) year. The period of limitation shall commence in accordance with Section 199 (1) German Civil Code. The period of
+limitation shall, at the latest, be deemed completed five (5) years after the claim arose. Sentences 1 to 3 of this Section 12.4
+shall not apply in the case of wilful misconduct, gross negligence or in view of personal damages under the Product Liability
+Act.
+
+12.5 We are not liable for cases, where We are wholly or partially hindered to fulfil Our obligations due to Force Majeure Events.
+
+12.6 In the event of any loss or damage to Customer Data, your sole and exclusive remedy shall be for Us to restore the lost or
+damaged Customer Data from the latest back-up of such Customer Data maintained by us in accordance with the
+applicable archiving procedures.
+
+12.7 In addition to the other exclusions set out in this Section 12, We shall be liable for damages and vain expenditures caused by
+Malware for which You are not responsible (cf. Section 5.4) only within the limits of this Agreement and if the following
+cumulative requirements are met: (i) We have acted in default, and (iii) the Malware could have been detected by Us using
+reasonable current commercial methods of detection.
+
+13. Confidentiality
+
+13.1 Each party retains all rights in its Confidential Information. Both parties undertake to treat as confidential all of the other party's
+Confidential Information acquired before and in connection with performance of the Agreement and to use such Confidential
+Information only to perform the Agreement. Confidential Information shall not be reproduced in any form except as required
+to accomplish the intent of the Agreement. Any reproduction of Confidential Information of the other party shall contain any
+
+5
+MSA (May 2021) - German Law
+
+
+Page 6:
+and all confidential or proprietary notices or legends which appear on the original. With respect to the Confidential Information
+of the other party, each party: (a) shall take all those steps the receiving party takes to protect its own similar proprietary and
+Confidential Information, which shall not be less than a reasonable standard of care to keep all Confidential Information strictly
+confidential; and (b) shall not disclose any Confidential Information of the other to any person other than those Representatives
+whose access is necessary to enable it to perform the Agreement and who are obliged to maintain confidentiality to a similar
+extent as provided herein. Each party will be responsible for its Representatives’ compliance with the provisions of this Section.
+The parties each shall have the right to provide the Authorized Reseller with this Agreement.
+
+13.2 A party which becomes aware of a suspected or actual breach of confidentiality, misuse or unauthorized dissemination
+relating to the other party’s Confidential Information shall inform the other party in writing without undue delay.
+13.3 Section 131 shall not apply to any Confidential Information that: (a) is independently developed by the receiving party
+
+without reference to the disclosing party's Confidential Information, (b) is lawfully received free of restriction from a third party
+having the right to furnish such Confidential Information; (c) has become generally available to the public without a
+contractual breach by the receiving party; (d) at the time of disclosure, was known to the receiving party free of restriction; (e)
+the disclosing party has agreed in writing to be free of such restrictions; or (f) has to be disclosed pursuant to statutory law or
+court, administrative or governmental order. In such event, the receiving party shall inform the disclosing party of the
+applicable provision or order without undue delay, to the extent legally possible, in order to enable the disclosing party to seek
+legal protection or otherwise prevent or limit disclosure of the Confidential Information.
+
+13.4 Upon request, the receiving party shall destroy or return to the disclosing party all materials containing any of the
+Confidential Information and any copies or derivatives prepared therefrom. However, this obligation to return or destroy
+Confidential Information shall not apply to copies of electronically-exchanged Confidential Information made as a matter of
+routine information technology backup and to Confidential Information or copies thereof which must be stored by the receiving
+party according to provisions of mandatory law, provided that such Confidential Information or copies thereof shall remain
+subject to the confidentiality obligations under this Agreement.
+
+13.5 The obligations in this Section shall, with respect to each disclosure of Confidential Information, apply for a period of 5
+(five) years from its first disclosure, provided, however, that trade secrets shall be protected until they are no longer trade
+secrets under applicable law.
+
+14. Feedback
+
+141 You may, at Your sole discretion, provide Your input regarding the Services, products, services, business or technology plans,
+including, without limitation, comments or suggestions regarding the possible creation, modification, correction, improvement
+or enhancement of the Services, products and/or services, or input as to whether You believe Our development direction is
+consistent with Your own business and IT needs (collectively “Feedback"). We shall be entitled to use Feedback for any purpose
+without notice, restriction or remuneration of any kind to You and/or Your Representatives.
+
+14.2 You acknowledge that any information that We may disclose to You related to the Services, Our other products, services,
+business or technology plans is only intended as a discussion of possible strategies, developments, and functionalities of Our
+
+products or services and is not intended to be binding on Us regarding any particular course of business, product strategy,
+and/or development.
+
+15. Non-Celonis Products and Services
+We or third parties may make available (for example, through a Marketplace or otherwise) third-party products or services,
+including, for example, Non-Celonis Applications and implementation and other consulting services. Any acquisition by You
+of such products or services, and any exchange of data between You and any non-Celonis provider, product or service is
+solely between You and the applicable non-Celonis provider and We are not party of such an agreement. We do not warrant
+or support non-Celonis Applications or other non-Celonis products or services, whether or not they are designated by Celonis
+as “certified” or otherwise, unless expressly provided otherwise in an Order.
+
+16. General Provisions
+
+16.1 Sub-contracting. Notwithstanding any further requirements provided in Annex C, We may subcontract all or part of the
+Services to a qualified third party. We may also at any time involve any of Our Affiliates and successors in business as sub-
+contractors under this Agreement. In such event, We will be liable for any sub-contractors used in the performance of Our
+obligations under the Agreement.
+
+16.2 Assignment. Except as permitted herein, neither party may assign the Agreement, in whole or in part, without the prior
+written consent of the other, not to be unreasonably withheld. Any attempt by either party to assign or transfer the Agreement
+without the prior written consent of the other will be null and void. Notwithstanding the foregoing, We may at any time upon
+
+6
+MSA (May 2021) - German Law
+
+
+Page 7:
+notice to You assign or otherwise transfer Our rights and obligations under the Agreement to any of Our Affiliates or successors
+in business. Section 354a German Commercial Code (Handelsgesetzbuch) shall remain unaffected.
+
+16.3 Governing Law. The Agreement shall be governed by the laws of Germany, without giving effect to its rules regarding
+conflicts of laws, other than such principals directing application of German law. The parties submit to the exclusive jurisdiction
+of the courts in Munich, Germany. The United Nations Convention on the International Sale of Goods (CISG) shall not apply.
+
+16.4 Amendments. Any amendments or additions to the Agreement must be made in writing and executed by duly authorized
+representatives of both parties.
+
+16.5 Entire Agreement. These Terms, together with any Order between You and Us, constitute the entire agreement between
+the parties with respect to the subject matter hereof and supersedes all prior agreements between the parties, whether written
+or oral, relating to the same subject matter. In the event of any inconsistencies between these Terms and an Order between
+You and Us, the Order shall take precedence over these Terms. Any purchase order, purchasing terms, general terms of
+business or other document issued by You for administrative convenience only and will not be binding on Us.
+
+16.6 Severability. Should parts of the Agreement be or become invalid, this shall not affect the validity of the remaining
+provisions of the Agreement, which shall remain unaffected. The invalid provision shall be replaced by the parties with such
+term which comes as close as possible, in a legally permitted manner, to the commercial terms intended by the invalid
+provision.
+
+16.7 Export Control and Compliance with Laws. The Services are subject to the export control laws of various countries,
+including without limit the laws of the United States and Germany (“Export Laws”). You agree that You will not submit the
+Services to any government agency for licensing consideration or other regulatory approval without Our prior written consent.
+You, will not, and will not allow any third party to, export, re-export or transfer any part of the Services to countries, persons or
+entities prohibited by Export Laws. You are also responsible for complying with all applicable laws and regulations in the
+jurisdictions where You operate.
+
+16.8 Notices. Except as otherwise specified in the Agreement, all notices hereunder shall be in writing and shall be deemed to
+have been given upon: (i) personal delivery, (ii) two business days after sending by e-mail. E-mails to Us shall be directed
+CFO/Legal at (cfo@celonis.com), and e-mails to You shall be addressed to the administrative contact designated in Your
+Order. Notices relating to an Infringement Claim under Section 11 must be sent by registered mail and e-mail.
+
+16.9 Surviving Provisions. The terms which by their nature are intended to survive termination or expiration of the Agreement
+shall survive any such termination and expiration including without limitation the following Sections: 7 to 15.
+
+MSA (May 2021) - German Law
+
+
+Page 8:
+Annex A
+Definitions
+
+“Affiliate”: any entity that directly or indirectly controls, is controlled by, or is under common control with You or Us, as the case
+may be, but only for so long as the control exists. “Control,” for purposes of this definition, means direct or indirect ownership
+or control of more than 50% of the voting interests.
+
+“Agreement”: these Terms and any Order between You and Us.
+
+“Authorized Reseller”: a reseller, distributor or other partner authorized by Celonis to sell Celonis products or services.
+“Celonis Materials": any software, programs, tools, systems, data, Celonis Confidential Information or other materials made
+available by Us to You in the course of the performance under this Agreement, but at all times excluding the Cloud Service.
+“Celonis Schema *: shall have the meaning as set out in Section 5.6.
+
+"Cloud Service’: the Celonis software-as-a-service platform, the On-premise Component (if applicable), and the online
+supporting documents, as further described in the Documentation, but excluding Non-Celonis Applications and any links to
+third-party products or services contained in the Cloud Service.
+
+“Cloud Service Uptime ”: has the meaning given in the Service Level Agreement.
+“Confidential Information ": any information disclosed to a party by the other party concerning the business and/or affairs of
+the other party, including but not limited to information relating to a party's operations, technical or commercial know-how,
+specifications, inventions, processes or initiatives, plans, product information, pricing information, know-how, designs, trade
+
+secrets, software, documents, data and information which, when provided by one party to the other: a) are clearly identified
+
+as “Confidential” or “Proprietary” or are marked with a similar legend; b) are disclosed orally or visually, identified as
+Confidential Information at the time of disclosure and confirmed as Confidential Information in writing within 10 (ten) days; or
+c) areasonable person would understand to be confidential or proprietary at the time of disclosure, including Customer Data.
+“Customer Data *: the (i) data and information provided by You to Us and/or input, uploaded and/or shared by You, Your Users
+or Us on Your behalf, for the purpose of using the Cloud Service or facilitating Your use of the Services, or (ii) data You collect
+
+and process through Your use of the Cloud Service.
+
+“Customer Materials ": any materials, data, information, software, equipment or other resources owned by or licensed to You
+and made available to Us pursuant to facilitating Your use of the Services, including Customer Data.
+
+“Data Protection Laws”: all laws, rules, regulations, decrees, or other enactments, orders, mandates, or resolutions relating to
+privacy, data security, and/or data protection, and any implementing, derivative or related legislation, rule, and regulation as
+amended, extended, repealed and replaced, or re-enacted, as well as any applicable industry self-regulatory programs
+related to the collection, use, disclosure, and security of Personal Data including the EU General Data Protection Legislation
+(Regulation (EU) 2016/679 of the European Parliament (GDPR).
+
+“Documentation” : the then-current product description of the applicable Services, as made available by Us on the Celonis
+website (currently under https://www.celonis.com/terms-and-conditions/).
+
+“Fees”: the fees payable by You for the Services as set out in an Order.
+
+“Force Majeure Event" : acts, events, omissions or accidents beyond a party's reasonable control, including, without limitation,
+strikes, industrial disputes, failure of a utility service or transport network, acts of God, war, riot, civil commotion, malicious
+damage, compliance with any law or governmental order, rule, regulation or direction, accident, breakdown of machinery,
+act of terror, Internet service provider failure or delay, denial of service attack, fire, flood or storm, but excluding (a) financial
+distress or the inability of either party to make a profit or avoid a financial loss, (6) changes in market prices or conditions, or
+(c) a party's financial inability to perform its obligations hereunder.
+
+“Inappropriate Content” : content which (a) is unlawful, harmful, threatening, defamatory, obscene, infringing, harassing or
+racially or ethnically offensive; (b) facilitates or promotes illegal activity; (c) depicts sexually explicit images; (d) is
+discriminatory based on race, gender, colour, religious belief, sexual orientation, disability, or any other illegal activity; or (e)
+causes damage or injury to any person or property.
+
+“Initial Subscription Term” : the initial term of Your Subscription as agreed in the Order or as otherwise agreed to by the parties.
+
+MSA (May 2021) - German Law
+
+
+Page 9:
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+29.
+
+30.
+
+31.
+
+32.
+33.
+34.
+
+35.
+
+“Malware”: any thing or device (including any software, code, file or program) which may prevent, impair or otherwise
+adversely affect the access to or operation, reliability or user experience of any computer software, hardware or network,
+telecommunications service, equipment or network or any other service or device, including worms, trojan horses, viruses and
+other similar things or devices.
+
+“Marketplace ”: an online directory, catalog or marketplace hosted by Celonis or a third party that features applications that
+interoperate with one or more Cloud Services.
+
+“Metrics Definition” : the then-current document(s) made available by Us as “Celonis Definition license scope / subscription
+scope” on the Celonis website (under https://www.celonis.com/terms-and-conditions/) describing the subscription metrics
+for the Cloud Service.
+
+“Non-Celonis Application” : a software application or functionality that interoperates within the Cloud Service(s), and that is
+provided by You or a third party and/or listed on a Marketplace as being developed and offered by a third party. Non-Celonis
+Applications provided to You by Us will be identifiable as such.
+
+“Online Training Cloud’ : the access to the online training courses We provide as described on the Celonis website (currently
+at https://www.celonis.com/training), in the Documentation or other information We may provide. If You are purchasing Online
+Training Cloud in an Order, references in Agreement to “Cloud Service” shall be deemed to include reference to “Online
+Training Cloud”.
+
+“On-premise Component” : on-premise software that may be provided with, and that operates in conjunction with, the Cloud
+Service. When made available, On- premise Component can be downloaded and installed (including updates) by Customer.
+Customer is responsible for the installation and operation of the On-premise Component, including any updates made
+available by Us. The SLA does not apply to On-premise Components.
+
+“Order”: a written document executed by You and Us specifying the Services You have ordered, and the Fees owed thereunder,
+and such other terms as are agreed, including any addenda and supplements thereto. An “Order” also refers to the executed
+ordering document between You and an Authorized Reseller that incorporates or references these Terms as governing Your
+receipt and use of the Celonis products and/or services referenced therein (though in such case, the Order may not alter or
+
+supplement the Terms without Our express written approval).
+
+“Personal Data”: any data and information relating to an identified or identifiable living individual person as defined under
+applicable Data Protection Laws.
+
+“Professional Services”: the consulting and/or professional services related to the Cloud Service which may include
+installation and implementation services for the Cloud Service, provided by Us to You as described in the applicable Order.
+“Proprietary Rights” : rights in patents, utility models, trademarks, service marks, trade names, other trade-identifying symbols
+andinventions, copyrights, design rights, database rights, rights in know-how, trade secrets and any other intellectual property
+rights, anywhere in the world, whether registered or unregistered, and including applications for the grant of any such rights.
+“Renewal Term”: has the meaning set out in Section 9.1.
+
+“Representatives”: of a party are its and its Affiliates’ employees, directors, advisers and subcontractors.
+
+“Service Level Agreement” or “SLA” : the service levels for the Cloud Service as set out in the then current document(s) made
+available by Us as “Service Level Agreement for Celonis Software-as-a-Service Offerings” on the Celonis website (under
+https://www.celonis.com/terms-and-conditions/).
+
+“Services”: any and all services provided by Us to You as described in the applicable Order including the provision of the Cloud
+Service, Professional Services, Support Services, and the Online Training Cloud.
+
+“Subscription” : the subscriptions You purchase under an Order for Your use of and access to the Cloud Service in accordance
+with the Agreement.
+
+“Subscription Fees ": the Fees payable for access to the Cloud Service as set out in an Order.
+
+“Subscription Term”: the Initial Subscription Term and any subsequent Renewal Terms.
+
+“Support Services”: the support services, as described in the Support Services Description, that We provide to You in respect
+of the Cloud Service.
+
+“Support Services Description”: the then-current documents describing in more detail the Support Services and made
+
+available by Us on the Celonis website (under https://www.celonis.com/terms-and-conditions/).
+
+MSA (May 2021) - German Law
+
+
+Page 10:
+36.
+
+37.
+
+38.
+
+39.
+40.
+
+“Taxes”: any applicable sales, use, value added, duties, assessments, excise, withholding or other taxes assessable by any
+jurisdiction whatsoever based on the applicable Order.
+
+“Terms”: this Celonis Master Services Agreement.
+
+“User”: those employees, agents and independent contractors of Yours or Your Affiliates who are authorized by You to access
+and use the Cloud Service in accordance with the Agreement, and to whom You have supplied a user identification and
+password (if applicable).
+
+“We,” “Us”, “Our” or “Celonis” : the Celonis entity entering into the applicable Order with You.
+
+“You” or “Your”: the company or other legal entity that enters into the applicable Order with Celonis.
+
+10
+
+MSA (May 2021) - German Law
+
+
+Page 11:
+Annex B
+
+Professional Services Supplement
+
+If You are purchasing Professional Services in an Order, the following additional terms shall apply to Our provision of such
+Professional Services.
+
+2.2
+
+2.3
+
+24
+
+Our Obligations
+
+We shall provide Professional Services using knowledgeable, educated and suitably qualified personnel and in accordance
+with adequate standards of care, as prescribed by accepted industry standards.
+
+Any Work Results specified in writing as such in the relevant Order shall be delivered in accordance with agreed specifications
+and timelines. Where no such specification and/or timeline are agreed, Work Results shall be delivered with adequate quality
+and within a reasonable period of time.
+
+Except where Professional Services are explicitly designated as works services (Werkleistungen), they shall be delivered as
+professional services (Dienstleistungen). This shall apply also in the event that a Work Result or a success have been agreed,
+in particular in respect of implementation and configuration support relating to Our Cloud Service.
+
+Your Obligations
+
+Where specified in an Order, You will appoint a Project Manager, who will coordinate Your activities related to the Professional
+Services. You will ensure that the same person acts as Project Manager for the duration of the applicable Professional
+Services engagement; but if You need to change the Project Manager You must notify Us in writing of such change.
+
+You shall:
+
+2.2.1 cooperate with Us on any matters relating to the Professional Services as set out in the Order and provide Us with
+prompt feedback to Our requests;
+
+2.212: in the event Professional Services are provided on Your premises, provide Us with safe and adequate space, power,
+network connections, materials, CPU time, access to hardware, software and other equipment and information, and
+assistance from qualified personnel familiar with Your hardware, software, other equipment and information as We
+reasonably request for the performance of the Professional Services;
+
+2.23 provide Us in a timely manner such Customer Materials and access as We may request in connection with the
+provision of the Professional Services; and
+
+2.24 ensure that the Customer Materials are correct in all material respects, do not infringe any Intellectual Property
+Rights of any third party and do not breach any applicable law or regulation or any term of the Agreement.
+
+If Our performance of Our obligations under an Order is prevented or delayed by any act or omission of You or Your agents,
+
+sub-contractors or employees, We are not liable to You for any costs, charges or losses which may be sustained or incurred
+
+by You as a result of such delay or Our inability to perform the Professional Services. Our time of performance shall be
+
+enlarged, if and to the extent reasonably necessary due to such acts or delays by You. Without prejudice to Our other rights
+
+or remedies, We will notify You of the estimated impact of any such delays on any performance schedule and fees.
+
+Acceptance
+
+24] In view of any Work Results agreed as such, We may require You to provide Us with a declaration of acceptance.
+You shall accept any Work Results without undue delay and in accordance with this Section 2.4 of Annex B.
+
+242 Where an Order comprises of more than one Work Result which can be used independent of each other, separate
+acceptance testing shall be performed for each Work Result.
+
+24.3 Where an Order specifies partial Work Results (Teilwerke), We can require You to perform a partial acceptance test.
+Subsequent partial acceptance tests are performed only in view of any partial Work Results which are provided at
+such later stage, and in order to verify the joint functioning of all provided partial Work Results.
+
+244 You shall perform the acceptance test with a period of ten (10) business days and will either declare acceptance or
+provide Us with information relating to any detected defects, including a description of the defect and information
+as to the symptoms caused by the defect. If You fail to provide Us with Your notification within such timeline or are
+using the Work Results without any reservation, the Work Result shall be deemed accepted. You may not withhold
+acceptance on the basis of non-material defects. Productive use of Work Results shall constitute acceptance of the
+relevant (partial) Work Result.
+
+MSA (May 2021) - German Law
+
+
+Page 12:
+42
+
+43
+
+6.
+61
+
+6.2
+
+7.
+71
+
+245 We shall remedy any defects notified to Us in accordance with Section 2.4.4 of this Annex B within a reasonable
+period, taking into account the gravity of the defect. You shall verify Our remediation of the defect within five (5)
+business days after having been notified that the defect has been remedied. Section 2.4.4 of this Annex B shall
+otherwise apply accordingly.
+
+Change Process
+
+if either party requests a change to the scope or execution of the Professional Services (“Change Request”), We shall, within
+a reasonable time, provide a written estimate to You of (i) the likely time required to implement the Change Request; (ii) any
+variations to Our Fees arising from the changg; (iii) the likely effect of the change on the applicable Order; and (iv) any other
+impact of the change on these Terms.
+
+The change shall not take effect until We have agreed with You an amendment to the Order in accordance with this Section
+to incorporate the necessary variations to the Fees, the applicable Order and any other relevant Sections of these Terms to
+take account of the change (“Change Order"). If no Change Order is agreed no changes to the scope of the Professional
+Services will occur and the Professional Services will be performed in accordance with the description of Services applying
+on the date on which the Change Request was requested.
+
+Proprietary Rights
+
+All Intellectual Property Rights in the Celonis Materials and Celonis Work Results are owned by Us and shall remain the sole
+and exclusive property of Celonis SE or its licensors. You are granted only the non-exclusive use rights explicitly provided in
+these Terms.
+
+Unless otherwise agreed to in writing in an Order, upon full payment of the Fees in respect of the Professional Services, We
+grant You a non-exclusive, non-transferable, perpetual, royalty-free license to use the Work Results for Your and Your
+Affiliates’ own internal business purposes. Only to the extent required to use the Work Results as per the applicable Order, We
+grant You a non-exclusive, non-transferable, perpetual, royalty-free license to use the Celonis Materials. The rights of use
+granted in this Annex B shall automatically terminate upon termination or expiry of the last, potentially separate Order for
+Cloud Services.
+
+All Intellectual Property Rights in Customer Materials are owned by and will remain with You or Your licensors. You hereby
+grant (or shall procure that the owner of the Intellectual Property Rights therein shall grant) to Us a non-exclusive, non-
+transferable, worldwide and royalty-free licence to use the Customer Materials free of charge for the term of the applicable
+Order, to permit Us to perform Our obligations under such Order.
+
+Nothing in the Agreement shall be construed so as to prevent Us from using techniques, ideas and other know-how gained
+during the performance of an Order in the furtherance of Our own business to the extent that such use does not result in a
+disclosure of Confidential Information in breach of Section 13 of the main body of the Terms or any infringement of Your or
+Your licensors’ Intellectual Property Rights.
+
+Professional Services Fees
+
+We will provide all Professional Services on a time and material basis at Our then-current rates, unless otherwise agreed by
+You and Us in an Order. Our daily rates are calculated based on an 8 (eight) hour working day (excluding weekends and
+public holidays at the place of Our business seat). All Professional Services are billed in arrears on a monthly basis. Unless
+agreed otherwise the Professional Service Fees exclude travel and accommodation costs and reasonable out of pocket
+expenses which will be borne by You at a flat daily rate for on-site Professional Services as set out in the Order.
+
+Term and Termination
+
+Each Order for Professional Services shall take effect on the Order date and remain in effect until any agreed end date
+specified in the Order or until all Professional Services under such Order have been provided, unless terminated sooner in
+accordance with these Terms.
+
+Unless otherwise stated in an Order, each Order for Professional Services may be terminated for convenience by either Party
+by providing thirty (30) days’ prior written notice to the other Party.
+
+Limited Warranty
+
+Where We fail to provide Professional Services which are deemed professional services (Dienstleistungen) within the
+meaning of applicable law in accordance with Section 1 of this Annex B, We shall cure such failure within a reasonable period
+of time, provided You have informed Us thereof in writing without undue delay, but in no event later than two (2) weeks
+following Our provision of the affected Professional Service. Damage claims and claims for reimbursement of vain
+
+12
+
+MSA (May 2021) - German Law
+
+
+Page 13:
+expenditures shall be subject to the limitations set out in Section 8 of this Annex B. All further claims, including claims for
+damages and for reimbursement of vain expenditures, regardless of their legal basis, shall be excluded.
+
+7.2. To the extent Our Professional Services consist of works services (Werkleistungen) within the meaning of applicable law, the
+
+following shall appl
+
+7.21
+
+7.2.2
+
+7.2.3
+
+7.24
+
+7.2.5
+
+7.2.6
+
+7.2.7
+
+ly:
+We warrant in accordance with the provisions of Section 7.2 of this Annex B that Our Professional Services shall
+materially conform with all specifications explicitly agreed in the applicable Order, and that no third-party rights
+shall affect Our grant of the agreed usage rights. Where no specifications are agreed, We warrant that the Work
+Results shall be suitable for the contractually agreed usage, and otherwise are suitable for their common usage,
+and consist of a quality which can commonly be expected for work results of the relevant type.
+
+You shall inform Us of any defect in writing without undue delay, precisely specifying the exact problem and alll
+providing information which is reasonably necessary in view of Our remediation of the defect.
+
+In the event of a breach of a warranty, We shall, at Our option and expense, either re-perform (Nacherfuillung) the
+affected Professional Service and provide You with a new, defect-free version of the Work Product, or by remediating
+the defect. Remediation of a defect may also be accomplished by providing You with a reasonable work-around
+from the effects of the defect. In the event of proven defects in title, Our re-performance may be performed either
+by providing You with the agreed rights of use in view of the Work Product or, at Our choice, in an alternative
+exchange or replacement Work Product which still materially complies with the agreed specifications. You shall
+accept such new version of the Work Product if and to the extent the contractually agreed specifications are
+complied with, and always provided this is not unreasonable for You. The urgency of Our remediation shall be
+dependent on the effects of the defect in view of Your use. The other provisions of this Annex B, in particular Section
+2, shall apply accordingly.
+
+If We cannot reasonably repair or replace the affected Work Product after expiry of a reasonable grace period
+provided by You in writing, You may terminate the Order or reduce the Fees accordingly (Minderung). We shall be
+responsible for damage claims and claims for vain expenditures (vergebliche Aufwendungen) in view of Our breach
+of warranty subject to the limitation of liability in Section 8 of this Annex B. All further claims, including claims for
+damages and for reimbursement of expenditures, regardless of their legal basis, shall be excluded.
+
+The period of limitation for claims pursuant to Sections 7.21 to 7.2.3 of this Annex B shall be one (1) year and
+commences on the date of acceptance of the respective Work Product. This also applies to claims resulting from
+termination or Fee reduction in accordance with Section 7.2.4 of this Annex B. The abbreviation of the statute of
+limitation shall not apply in cases of wilful misconduct or gross negligence on Our part, in the event of wilful
+concealment of defects, personal damages or in view of defects of title pursuant to Section 438 para. 1 lit.1.a of the
+German Civil Code (Burgerliches Gesetzbuch).
+
+The period of limitation in respect of remediation services, work-arounds and new deliveries provided as part of Our
+re-performance shall also be completed at the point in time described in Section 7.2.5 of this Annex B above. As long
+as We are, in agreement with You, verifying the existence of a defect or providing re-performance activities, the
+period of limitation shall be inhibited (Hemmung) until We inform You of the result of Our verification, declare re-
+performance to be completed or reject further re-performance activities. The period of limitation shall not be
+completed earlier than three (3) months after the end of its inhibition.
+Where We are providing Services in view of the search for or the remediation of defects without being legally obliged
+
+to do so, We shall be entitled to a compensation. This particularly applies if a notified defect remains unproven or
+cannot be connected to Our performance, or where the Work Results are not used in accordance with the
+
+Agreement.
+
+7.3. Warranty claims asserted by You under this Annex B shall have no effect on any other Orders or other contracts that are in
+
+place between You and Us.
+
+8. Limitation of Liability
+
+Subject to Section 12.1a of the main body of the Terms and in deviation from Section 12.1b of the main body of the Terms, We
+shall be liable to You in cases of simple negligence only in the event of Our breach of so-called cardinal obligations (ie.
+obligations which are essential to the performance of the Agreement and which You may reasonably rely upon). In such
+cases, Our aggregate liability to You for or in respect of any loss or damage suffered by You over a period of twelve (12)
+months under or in connection with the affected Order shall be limited to the total amount of Fees You paid to Us under the
+
+13
+
+MSA (May 2021) - German Law
+
+
+Page 14:
+affected Order within these twelve (12) months, however not to fall short of Euro 100,000. For the purposes of clarification, the
+remainder of Section 12 of the main body of the Terms shall also apply to the provision of Professional Services, except stated
+otherwise in this Section 8 of Annex B.
+
+14
+MSA (May 2021) - German Law
+
+
+Page 15:
+Annex C
+Data Processing Agreement
+
+This Data Processing Agreement including its Exhibits (the “DPA") details the parties’ obligations on the protection of Personal Data
+associated with Our Processing of Your Personal Data within the scope of the applicable Order or any agreement between You
+
+and Celonis for providing Services (hereinafter, the “Agreement’).
+
+Processing of Personal Data
+A With regard to the Processing of Personal Data, You are the controller and determine the purposes and means of
+Processing of Personal Data You provide to Us (“Controller”) and You appoint Us as a processor (“Processor”) to process such
+Personal Data (hereinafter, ‘Data”) on Your behalf (hereinafter, “Processing’).
+2. The details of the type and purpose of Processing are defined in the Exhibits attached hereto. Except where the DPA
+stipulates obligations beyond the Term of the Agreement, the duration of this DPA shall be the same as the Agreement Term.
+
+3. You shall be solely responsible for compliance with Your obligations under the applicable Data Protection Laws, including,
+but not limited to, the lawful disclosure and transfer of Personal Data to Us by upload of source data into the Cloud Service or
+otherwise.
+
+A. Processing shall include all activities detailed in this Agreement and the instructions issued by You. You may, in writing,
+modify, amend, or replace such instructions by issuing such further instructions to the point of contact designated by Us.
+Instructions not foreseen in or covered by the Agreement shall be treated as requests for changes. You shall, without undue delay,
+confirm in writing any instruction issued orally. Where We believe that an instruction would be in breach of applicable law, We
+shall notify You of such belief without undue delay. We shall be entitled to suspend performance on such instruction until You
+confirm or modify such instruction.
+
+1.6. We shall ensure that all personnel involved in Processing of Customer Data and other such persons as may be involved
+in Processing shall only do so within the scope of the instructions. We shall ensure that any person Processing Customer Data is
+subject to confidentiality obligations similar to the confidentiality terms of the Agreement. All such confidentiality obligations shall
+survive the termination or expiration of such Processing.
+
+2, Data Security
+
+2: We shall implement technical and organizational measures and safeguards that ensure the adequate protection of
+Customer Data, confidentiality, integrity, availability and resilience of processing systems and services and shall implement a
+process for regularly testing, assessing and evaluating the effectiveness of technical and organizational measures for ensuring
+the security of the Processing, as further specified at https://www.celonis.com/trust-center/. It shall be Your responsibility to
+
+familiarize Yourself with these measures and to assess whether they ensure a level of security appropriate to the risk.
+
+225 To demonstrate adequate levels of protection, We have obtained third-party certification and audits of Our information
+security program, e.g. DIN ISO/IEC 27001:20165. All Our certificates are available at https://www.celonis.com/trust-center/.
+
+2.3. We reserve the right to modify the measures and safeguards implemented, provided, however, that the level of security
+shall not materially decrease during a Subscription Term.
+
+3. Our Obligations
+
+31. We shall notify You without undue delay after We become aware of any accidental or unlawful destruction, loss, alteration,
+unauthorized disclosure of, or access to Customer Data, including Personal Data, stored or otherwise processed by Us or Our sub-
+processors (“Security Incident’).
+
+32. We shall use best efforts to identify the cause of such Security Incident and take the measures We deem necessary and
+within Our control for remediating and securing Customer Data; We shall coordinate such efforts with You without undue delay.
+We shall correct or erase Customer Data if instructed by You and where covered by the scope of the instructions permissible.
+Where an erasure, consistent with data protection requirements, or a corresponding restriction of Processing is impossible, We
+shall, based on Your instructions, and unless agreed upon differently in the Agreement, destroy, in compliance with data protection
+requirements, all data or return the same to You.
+
+3.3. In specific cases designated by You, such Customer Data shall be stored or handed over. The associated cost for doing
+so and protective measures to put in place shall be agreed upon separately, unless already agreed upon in the Agreement. We
+shall, upon termination of Processing and upon Your instruction, return all Customer Data, carrier media and other materials to
+You or delete the same.
+
+15
+MSA (May 2021) - German Law
+
+
+Page 16:
+3.4. Where a data subject asserts any claims against You in accordance with Article 82 of the GDPR, We shall, where possible,
+support You in defending against such claims, at Your cost.
+
+4. Your Obligations
+
+Al. You shall notify Us without undue delay, and comprehensively, of any defect or irregularity with regard to provisions on
+data protection detected by You in the results of Our work.
+
+42. Where a data subject asserts any claims against Us in accordance with Article 82 of the GDPR, You shall, where possible,
+support Us in defending against such claims, at Our cost.
+
+43. You shall notify Our point of contact listed in Exhibit 1 for any issues related to data protection arising out of or in connection
+
+with the Agreement.
+
+5 Data Subjects Rights
+
+5.1. Where a data subject asserts claims for rectification, erasure or access to Us, and where We are able to correlate the
+data subject to You, based on the information provided by the data subject, We shall refer such data subject to You without undue
+delay. We shall support You, where possible, and based upon Your instruction insofar as agreed upon. We shall not be liable in
+cases where You fail to respond to the data subject’s request completely, correctly, or in a timely manner. Notwithstanding the
+foregoing, if Your employee submits a data subject request in relation to Online Training Cloud, You agree that we can fulfill such
+request without Your further approval.
+
+5.2. We shall support You, insofar as is agreed upon by the parties, and where possible for Us, in fulfilling data subjects’
+requests and claims, as detailed in chapter Ill of the GDPR and in fulfilling the obligations enumerated in Articles 33 to 36 GDPR.
+
+6. Options for Documentation
+61. We shall document and, upon request, provide such documentation of Our compliance with the obligations agreed upon
+
+in this DPA by appropriate measures.
+
+6.2. If You require an audit of our compliance under this DPA, such audits and inspections will be conducted upon 30 days
+prior written notice, at most once per calendar year, during regular business hours, without interfering with Our operations, and
+subject to the execution of a confidentiality agreement. We shall be entitled to reject auditors that are competitors of Ours. You
+hereby consent to the appointment of an independent external auditor by Us, provided that We provide a copy of the audit report
+to You.
+
+63. Where a data protection or other applicable supervisory authority conducts an audit, para. 2 above shall apply mutatis
+mutandis. The execution of a confidentiality agreement shall not be required if such supervisory authority is subject to professional
+or statutory confidentiality obligations whose breach is sanctionable under the applicable criminal code.
+
+% Sub-processing
+7A. We shall not sub-process any of Our obligations under this Agreement except as set forth in this DPA.
+72. You hereby consent to Our use of the sub-processors listed in Exhibit 1 to this DPA in connection with the performance of
+
+the Agreement. We shall, prior to the use of further sub-processors, obtain Your prior approval, such approval not to be withheld
+except for important reasons related to compliance with Data Protection Laws. In such case, We or the respective sub- processor
+will enter into a written agreement with each sub- processor containing data protection obligations not less protective than those
+in this Agreement with respect to the protection of Customer Data to the extent applicable to the nature of the Services provided
+by such sub-processor.
+
+7.3. We shall conclude, with such sub-processors, contractual terms necessary to ensure an appropriate level of data
+protection and information security and in compliance with all Data Protection Laws.
+
+7A. We will be liable for the acts and omissions of Our sub-processors to the same extent We would be liable if we were
+performing the Services for each sub-processor directly under the terms of this DPA, except as otherwise set forth in the
+
+Agreement.
+8. Obligations to Inform, Mandatory Written Form, Choice of Law
+81. Where Customer Data becomes subject to search and seizure, an attachment order, confiscation during bankruptcy or
+
+insolvency proceedings, or similar events or measures by third parties while in Our control, We shall notify You of such action
+without undue delay. We shall, without undue delay, notify all pertinent parties in such action, that any Customer Data affected
+thereby is Your sole property and area of responsibility, that Customer Data is at Your sole disposition, and that You are the
+responsible body under the GDPR.
+
+MSA (May 2021) - German Law
+
+
+Page 17:
+8.2. No modification of this DPA, including but not limited to, Our representations and obligations, if any, shall be valid and
+binding unless made in writing, and only if such modification expressly states that such modification applies to the terms of this
+DPA. The foregoing shall also apply to any waiver or change of this mandatory written form.
+
+8.3. In case of any conflict, the terms of this DPA shall take precedence over the terms of the Agreement. Where individual
+terms of this DPA are invalid or unenforceable, the validity and enforceability of the other terms of this DPA shall not be affected.
+84. This DPA is subject to the laws of the Member State in which the Controller is established (provided this is within the EEA,
+
+Switzerland or the United Kingdom), and for all other cases subject to the laws applicable pursuant to Section 15.4 of the
+Agreement and the parties submit to the exclusive jurisdiction of those courts for any disputes arising out of or in connection with
+this DPA.
+
+9. Liability. The Limitation of Liability Section of the Terms shall apply except as explicitly agreed otherwise in this DPA.
+10. International Transfers
+10.1. We will only transfer Personal Data outside the European Economic Area where We have complied with Our obligations
+
+under applicable Data Protection Laws in ensuring adequate safeguards in relation to such transfer.
+
+10.2. The unmodified EU Standard Contractual Clauses (the “SCCs") set forth in Exhibit 2 of this DPA shall apply to any transfers
+of Personal Data under this DPA from the European Union, the European Economic Area and/or their member states, Switzerland
+and the United Kingdom to countries which do not ensure an adequate level of data protection within the meaning of Data
+Protection Laws of the foregoing territories, to the extent such transfers are subject to such Data Protection Laws.
+
+10.3. Where required to ensure an adequate level of data protection, You herewith grant Us authority to enter into “controller-
+to-processor” agreements with Our non-EEA sub-processors in Your name and on Your behalf. These agreements must be based
+on unmodified EU Standard Contractual Clauses or other templates or mechanisms approved by the EU Commission for ensuring
+an adequate level of data protection between You and Our sub-processors within the meaning of applicable Data Protection
+Laws. Upon Your request, We shall provide You with a copy of the respective documentation entered into with Our sub-processor
+in this regard.
+
+N. TERMS FOR THE SCCs
+
+Wl. The SCCs and the additional terms specified in this Section apply to (i) a customer which is subject to the Data Protection
+Laws of the European Union, the European Economic Area and/or their member states, Switzerland and/or the United Kingdom
+and, (ii) its Authorized Affiliates. For the purpose of the SCCs and this Section, the aforementioned entities shall be deemed “data
+exporters”.
+
+1.2. This DPA and the Agreement are Your complete and final documented instructions at the time of signature of the
+Agreement to Us for the Processing of Personal Data. Any additional or alternate instructions must be agreed upon separately. For
+the purposes of Clause 5(a) of the SCCs, the following is deemed an instruction by You to process Personal Data: (a) Processing
+in accordance with the Agreement and applicable Order(s); (b) Processing initiated by Users in their use of the Services and (c)
+Processing to comply with other reasonable documented instructions provided by You (eg,, via e-mail) where such instructions
+are consistent with the terms of the Agreement.
+
+.3. Pursuant to Clause 5(h) of the SCCs, You acknowledge and expressly agree that (a) Our Affiliates may be retained as
+Sub-processors; and (b) Us and Our Affiliates respectively may engage third-party Sub-processors in connection with the
+provision of the Services. We shall make available to You the current list of Sub-processors.
+
+4. Pursuant to Clause 5(h) of the SCCs, You acknowledge and expressly agree that We may engage new Sub-processors
+as described in Section 8 of the DPA.
+.5. The parties agree that the copies of the Sub-processor agreements that must be provided by Us to You pursuant to
+
+Clause 5(j) of the SCCs may have all commercial information, or clauses unrelated to the SCCs, removed by Us beforehand; and,
+that such copies will be provided by Us, in a manner to be determined in Our discretion, only upon request.
+
+6. The parties agree that the audits described in Clause 5(f) and Clause 12(2) of the SCCs shall be carried out in accordance
+with the following specifications:
+7. Upon Your request, and subject to the confidentiality obligations set forth in the Agreement, We shall make available to
+
+You or Your independent, third-party auditor information regarding the Our compliance with the obligations set forth in this DPA
+in the form of the third-party certifications and audits set forth in the Celonis Trust Center Documentation. You may contact
+isms@celonis.com to request an on-site audit of the procedures relevant to the protection of Personal Data. You shall reimburse
+Us for any time expended for any such on-site audit at the Our then-current Professional Services rates. Before the
+commencement of any such on-site audit, the parties shall mutually agree upon the scope, timing, and duration of the audit in
+addition to the reimbursement rate for which You shall be responsible. All reimbursement rates shall be reasonable, taking into
+
+7
+MSA (May 2021) - German Law
+
+
+Page 18:
+account the resources expended by Us. You shall promptly notify Us with information regarding any non-compliance discovered
+
+during the course of an audit.
+N18. The parties agree that the certification of deletion of Personal Data that is described in Clause 12(1) of the SCCs shall be
+
+provided to You only upon Your request.
+1.9. In the event of any conflict or inconsistency between the body of this DPA and any of its Schedules (not including the
+
+SCCs) and the SCCs, the SCCs shall prevail.
+
+18
+
+MSA (May 2021) - German Law
+
+
+Page 19:
+Exhibit 1 - Purpose and Scope of Data Processing
+
+(as per the specifications in an Order, which may be in addition to the below)
+
+1 Scope of data processing
+
+Cloud Service: As directed by the Controller, names and e-mail
+addresses may be inserted in the Cloud Service to automatically
+send reports relating to process analyses to the respective
+persons. Usernames are uploaded into the Cloud Service which
+then are pseudonymized. Controller can upload process data
+into the Cloud Service. This data may contain Personal Data of
+employees and/or customers of the Controller which Processor
+will host as part of the Cloud Service.
+
+Support Services : Processor’s personnel may access Controller's
+instance or be provided Controller's data excerpted from
+Controller's Cloud Service instance on a case-by-case basis if
+requested by the Controller in the context of Support Services
+(eg. “shadowing’). In addition, Personal Data of Controller's
+employees issuing Support Services requests (“tickets”) may be
+stored by Processor for the purposes of administrating the
+Support Services.
+
+Online Training Cloud : Controller's personnel contact details (e-
+mail addresses) are stored and used for the transmission of
+training materials, the execution of trainings and for its
+certification.
+
+Professional Services: Processor’s personnel may access
+Controller's instance, or be on Controller's premises, or be
+provided Controller's data excerpted from Controller's Cloud
+
+Service instance on a case-by-case basis if requested by the
+
+Controller in the context of Professional Services (eg.
+“shadowing’).
+2, Procedures of data processing
+
+Cloud Service: The Processor provides the functionalities of the
+Cloud Service including the data uploaded and processed by
+Controller in a third-party data center.
+
+Support Services: The Support Ticketing Tool used by Processor
+is externally hosted in a data center and used by Processor's
+personnel for the purposes of administering the support tickets.
+Shadowing of Users or otherwise accessing of data sets as part
+of Support Services only occurs where explicitly requested by the
+Controller.
+
+Online Training Cloud : Online Training is hosted in a data center.
+The training tool may be used to transmit invitations and
+certifications and for evidencing its participation.
+
+Professional Services : During the course of providing
+Professional Services for implementation, configuration or
+evaluation of the Cloud Services, Our personnel may have
+access to Customer Data containing Personal Data.
+
+3. Purpose of data processing
+
+MSA (May 2021) - German Law
+
+Cloud Service: The Cloud Service provides the tools to analyze
+processes based on data from IT systems of the Controller.
+Personal Data is primarily used to provide the affected person
+with information (eg. the person would like to receive
+scheduled reports). If Personal Data is used for process
+analysis in which case usernames will be pseudonymized.
+
+Support Services: Support of the Cloud Service through
+provision of Support Services for the Controller.
+
+Online Training Cloud : Execution and administration of Online
+Training Cloud Services.
+
+Professional Service: Implementation, configuration and
+evaluation projects regarding the Cloud Service.
+
+4. Categories of data which are processed under
+the instructions of the Controller
+
+User account related data. Depending on individual use case,
+processed personal data may also include, without limitation,
+names, identification numbers, addresses,
+communication data (e.g. phone, cellphone, e-mail), process
+log data, usernames from the Controller's IT / ERP system.
+
+business
+
+5. Data subjects
+
+Employees, customers, vendors, agents, or consultants of the
+Controller based on Services provided.
+
+6. Data Protection Officer of the Processor : Dr. Kraska,
+Sebastian; +49 89 1891 7360; skraska@iitr.de
+
+7. Contact for the
+incident@celonis.com.
+
+Processor : security-
+
+8. Contact for the Controller: To be provided by Controller
+via email to Processor at above address.
+
+9. Permitted Sub-processors
+
+Processor may use the following sub-processors (based on
+the respective Services according to the relevant Order):
+Sub-processor name and Description of processing
+processing location (as
+applicable)
+Amazon Web Services Inc.,
+Seattle, United States
+. Hosting location for
+Customers in the United
+
+Hosting of Cloud Service
+and processing of data
+provided by the Controller
+
+States and Canada: North
+Virginia, United States
++ Hosting location for all
+other Customers:
+Frankfurt, Germany
+AbsorbLMS Technology Ltd,
+Dublin, Republic of Ireland
+
+Hosting of Online Training
+Cloud
+
+19
+
+
+Page 20:
+HappyFox Inc,, Frankfurt,
+Germany
+
+Operation of the Support
+Ticketing Tools
+
+Microsoft Corporation,
+Redmond (WA), United States
+
+Hosting location for
+Customers in the United
+States and Canada:
+Washington, United
+States
+
+Hosting location for
+Customers in Japan:
+Tokyo, Saitama, Japan
+Hosting location for all
+other Customers:
+Frankfurt, Germany
+
+Hosting of Cloud Service
+and processing of data
+provided by the Controller
+
+Salesforce.com Germany
+GmbH, Munich, Germany
+
+Operation of the Support
+Ticketing Tools
+
+Our Affiliates (as applicable):
+Celonis SE, Germany
+
+Celonis, Inc., United States
+Celonis AB, Sweden
+
+Celonis ApS, Denmark
+Celonis B.V., The Netherlands
+Celonis Canada Ltd, Canada
+Celonis K.K,, Japan
+
+Celonis LL.C., Kosovo
+
+Celonis Ltd., United Kingdom
+Celonis SAS, France
+
+Celonis Schweiz GmbH,
+Switzerland
+
+Celonis S.L, Spain
+
+Celonis Srl, Italy
+
+Integromat s.r.0, Czech
+Republic
+
+Support of the Services
+through personnel of such
+Affiliate.
+
+UserLane GmbH,
+Munich, Germany
+
+Operation of Guided
+Learning Tours within the
+Online Training Cloud Tool
+
+MSA (May 2021) - German Law
+
+20
+
+
+Page 21:
+Exhibit 2- STANDARD CONTRACTUAL CLAUSES (Controller to Processor)
+
+For the purposes of Article 26(2) of Directive 95/46/EC for the transfer of personal data to processors established
+
+in third countries which do not ensure an adequate level of data protection
+Name of the data exporting organisation:
+
+Address: ...
+
+Tel. ...j fax ...; e-mail: ...
+
+Other information needed to identify the organisation:
+
+(the data exporter)
+
+And
+
+Name of the data importing organisation:
+
+Address: ...
+
+Tel. ...; fax ...; e-Mail: ...
+
+Other information needed to identify the organization:
+(the data importer)
+
+each a ‘party’; together ‘the parties’,
+
+HAVE AGREED on the following Contractual Clauses (the Clauses) in order to adduce adequate safeguards with
+
+respect to the protection of privacy and fundamental rights and freedoms of individuals for the transfer by the
+
+data exporter to the data importer of the personal data specified in Appendix 1.
+
+Clause 1 Definitions
+For the purposes of the Clauses:
+
+(a)‘personal data’, ‘special categories of data’, ‘process/processing’, ‘controller’, ‘processor’, ‘data subject’
+and ‘supervisory authority’ shall have the same meaning as in Directive 95/46/EC of the European
+Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the
+processing of personal data and on the free movement of such data;
+
+(b) ‘the data exporter’ means the controller who transfers the personal data;
+
+(c)‘the data importer’ means the processor who agrees to receive from the data exporter personal data
+intended for processing on his behalf after the transfer in accordance with his instructions and the terms
+of the Clauses and who is not subject to a third country’s system ensuring adequate protection within
+the meaning of Article 25(1) of Directive 95/46/EC;
+
+MSA (May 2021) - German Law
+
+21
+
+
+Page 22:
+(d)‘the sub-processor’ means any processor engaged by the data importer or by any other sub- processor
+of the data importer who agrees to receive from the data importer or from any other sub- processor of
+the data importer personal data exclusively intended for processing activities to be carried out on behalf
+of the data exporter after the transfer in accordance with his instructions, the terms of the Clauses and
+
+the terms of the written subcontract;
+
+(e)‘the applicable data protection law’ means the legislation protecting the fundamental rights and
+freedoms of individuals and, in particular, their right to privacy with respect to the processing of personal
+data applicable to a data controller in the Member State in which the data exporter is established;
+
+(f)'‘technical and organisational security measures’ means those measures aimed at protecting personal
+data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or
+access, in particular where the processing involves the transmission of data over a network, and against
+
+all other unlawful forms of processing.
+
+Clause 2 Details of the transfer
+
+The details of the transfer and in particular the special categories of personal data where applicable
+specified in Appendix 1 which forms an integral part of the Clauses.
+
+Clause 3 Third-party beneficiary clause
+
+1The data subject can enforce against the data exporter this Clause, Clause 4(b) to (i), Clause 5(a) to (e),
+and (g) to (j), Clause 6(1) and (2), Clause 7, Clause 8(2), and Clauses 9 to 12 as third-party beneficiary.
+
+2.The data subject can enforce against the data importer this Clause, Clause 5(a) to (e) and (g), Clause 6,
+Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where the data exporter has factually disappeared or
+has ceased to exist in law unless any successor entity has assumed the entire legal obligations of the data
+exporter by contract or by operation of law, as a result of which it takes on the rights and obligations of the
+
+data exporter, in which case the data subject can enforce them against such entity.
+
+3.The data subject can enforce against the sub-processor this Clause, Clause 5(a) to (e) and (g), Clause 6,
+Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where both the data exporter and the data importer
+have factually disappeared or ceased to exist in law or have become insolvent, unless any successor entity
+has assumed the entire legal obligations of the data exporter by contract or by operation of law as a result
+of which it takes on the rights and obligations of the data exporter, in which case the data subject can
+enforce them against such entity. Such third-party liability of the sub- processor shall be limited to its own
+
+processing operations under the Clauses.
+
+MSA (May 2021) - German Law
+
+are
+
+22
+
+
+Page 23:
+4.The parties do not object to a data subject being represented by an association or other body if the data
+subject so expressly wishes and if permitted by national law.
+
+Clause 4 Obligations of the data exporter
+The data exporter agrees and warrants:
+
+(a)that the processing, including the transfer itself, of the personal data has been and will continue to be
+carried out in accordance with the relevant provisions of the applicable data protection law (and, where
+applicable, has been notified to the relevant authorities of the Member State where the data exporter is
+established) and does not violate the relevant provisions of that State;
+
+(b)that it has instructed and throughout the duration of the personal data-processing services will instruct
+the data importer to process the personal data transferred only on the data exporter’s behalf and in
+accordance with the applicable data protection law and the Clauses;
+
+(c)that the data importer will provide sufficient guarantees in respect of the technical and organisational
+
+security measures specified in Appendix 2 to this contract;
+
+(d)that after assessment of the requirements of the applicable data protection law, the security measures
+are appropriate to protect personal data against accidental or unlawful destruction or accidental loss,
+alteration, unauthorised disclosure or access, in particular where the processing involves the
+transmission of data over a network, and against all other unlawful forms of processing, and that these
+measures ensure a level of security appropriate to the risks presented by the processing and the nature
+of the data to be protected having regard to the state of the art and the cost of their implementation;
+
+(e) that it will ensure compliance with the security measures;
+
+(f)that, if the transfer involves special categories of data, the data subject has been informed or will be
+informed before, or as soon as possible after, the transfer that its data could be transmitted to a third
+country not providing adequate protection within the meaning of Directive 95/46/EC;
+
+(g)to forward any notification received from the data importer or any sub-processor pursuant to Clause
+5(b) and Clause 8(3) to the data protection supervisory authority if the data exporter decides to continue
+the transfer or to lift the suspension;
+
+(h)to make available to the data subjects upon request a copy of the Clauses, with the exception of
+Appendix 2, and a summary description of the security measures, as well as a copy of any contract for
+sub-processing services which has to be made in accordance with the Clauses, unless the Clauses or
+the contract contain commercial information, in which case it may remove such commercial
+
+information;
+
+MSA (May 2021) - German Law
+
+23
+
+
+Page 24:
+(i)that, in the event of sub-processing, the processing activity is carried out in accordance with Clause Il by
+a sub-processor providing at least the same level of protection for the personal data and the rights of
+data subject as the data importer under the Clauses; and
+
+(j) that it will ensure compliance with Clause 4(a) to (i).
+
+Clause 5 Obligations of the data importer
+The data importer agrees and warrants:
+
+(a)to process the personal data only on behalf of the data exporter and in compliance with its instructions
+and the Clauses; if it cannot provide such compliance for whatever reasons, it agrees to inform promptly
+the data exporter of its inability to comply, in which case the data exporter is entitled to suspend the
+
+transfer of data and/or terminate the contract;
+
+(b)that it has no reason to believe that the legislation applicable to it prevents it from fulfilling the
+instructions received from the data exporter and its obligations under the contract and that in the event
+of a change in this legislation which is likely to have a substantial adverse effect on the warranties and
+obligations provided by the Clauses, it will promptly notify the change to the data exporter as soon as it
+is aware, in which case the data exporter is entitled to suspend the transfer of data and/or terminate the
+
+contract;
+
+(c)that it has implemented the technical and organisational security measures specified in Appendix 2
+before processing the personal data transferred;
+
+(d) that it will promptly notify the data exporter about:
+
+i any legally binding request for disclosure of the personal data by a law enforcement
+authority unless otherwise prohibited, such as a prohibition under criminal law to
+
+preserve the confidentiality of a law enforcement investigation;
+
+ii. any accidental or unauthorised access; and
+
+iii. any request received directly from the data subjects without responding to that
+request, unless it has been otherwise authorised to do so;
+
+(e)to deal promptly and properly with all inquiries from the data exporter relating to its processing of the
+personal data subject to the transfer and to abide by the advice of the supervisory authority with regard
+to the processing of the data transferred;
+
+MSA (May 2021) - German Law
+
+
+Page 25:
+(f)at the request of the data exporter to submit its data-processing facilities for audit of the processing
+activities covered by the Clauses which shall be carried out by the data exporter or an inspection body
+composed of independent members and in possession of the required professional qualifications bound
+by a duty of confidentiality, selected by the data exporter, where applicable, in agreement with the
+supervisory authority;
+
+(g)to make available to the data subject upon request a copy of the Clauses, or any existing contract for
+sub-processing, unless the Clauses or contract contain commercial information, in which case it may
+remove such commercial information, with the exception of Appendix 2 which shall be replaced by a
+summary description of the security measures in those cases where the data subject is unable to obtain
+
+a copy from the data exporter;
+
+(h)that, in the event of sub-processing, it has previously informed the data exporter and obtained its prior
+
+written consent;
+
+(i) that the processing services by the sub-processor will be carried out in accordance with Clause 1];
+
+(j)to send promptly a copy of any sub-processor agreement it concludes under the Clauses to the data
+
+exporter.
+Clause 6 Liability
+
+1.The parties agree that any data subject, who has suffered damage as a result of any breach of the
+obligations referred to in Clause 3 or in Clause 1] by any party or sub-processor is entitled to receive
+
+compensation from the data exporter for the damage suffered.
+
+2.If a data subject is not able to bring a claim for compensation in accordance with paragraph 1 against the
+data exporter, arising out of a breach by the data importer or his sub- processor of any of their obligations
+referred to in Clause 3 or in Clause 11, because the data exporter has factually disappeared or ceased to
+exist in law or has become insolvent, the data importer agrees that the data subject may issue a claim
+against the data importer as if it were the data exporter, unless any successor entity has assumed the
+entire legal obligations of the data exporter by contract of by operation of law, in which case the data
+
+subject can enforce its rights against such entity.
+
+The data importer may not rely on a breach by a sub-processor of its obligations in order to avoid its own
+liabilities.
+
+3.If a data subject is not able to bring a claim against the data exporter or the data importer referred to in
+paragraphs 1 and 2, arising out of a breach by the sub-processor of any of their obligations referred to in
+Clause 3 or in Clause 11 because both the data exporter and the data importer have factually disappeared
+or ceased to exist in law or have become insolvent, the sub-processor agrees that the data subject may
+
+MSA (May 2021) - German Law
+
+25
+
+
+Page 26:
+issue a claim against the data sub-processor with regard to its own processing operations under the
+Clauses as if it were the data exporter or the data importer, unless any successor entity has assumed the
+entire legal obligations of the data exporter or data importer by contract or by operation of law, in which
+case the data subject can enforce its rights against such entity. The liability of the sub- processor shall be
+
+limited to its own processing operations under the Clauses.
+Clause 7 Mediation and jurisdiction
+
+1.The data importer agrees that if the data subject invokes against it third-party beneficiary rights and/or
+claims compensation for damages under the Clauses, the data importer will accept the decision of the
+
+data subject:
+
+(a)to refer the dispute to mediation, by an independent person or, where applicable, by the supervisory
+
+authority;
+
+(b) to refer the dispute to the courts in the Member State in which the data exporter is established.
+
+2.The parties agree that the choice made by the data subject will not prejudice its substantive or procedural
+
+rights to seek remedies in accordance with other provisions of national or international law.
+Clause 8 Cooperation with supervisory authorities
+
+1.The data exporter agrees to deposit a copy of this contract with the supervisory authority if it so requests
+or if such deposit is required under the applicable data protection law.
+
+2.The parties agree that the supervisory authority has the right to conduct an audit of the data importer, and
+of any sub-processor, which has the same scope and is subject to the same conditions as would apply to
+an audit of the data exporter under the applicable data protection law.
+
+3.The data importer shall promptly inform the data exporter about the existence of legislation applicable to
+it or any sub-processor preventing the conduct of an audit of the data importer, or any sub-processor,
+pursuant to paragraph 2. In such a case the data exporter shall be entitled to take the measures foreseen
+in Clause 5(b).
+
+Clause 9 Governing law
+
+The Clauses shall be governed by the law of the Member State in which the data exporter is established, namely
+
+Clause 10 Variation of the contract
+
+The parties undertake not to vary or modify the Clauses. This does not preclude the parties from adding clauses
+on business related issues where required as long as they do not contradict the Clause.
+
+26
+MSA (May 2021) - German Law
+
+
+Page 27:
+Clause I Sub-processing
+
+1.The data importer shall not subcontract any of its processing operations performed on behalf of the data
+exporter under the Clauses without the prior written consent of the data exporter. Where the data importer
+subcontracts its obligations under the Clauses, with the consent of the data exporter, it shall do so only by
+way of a written agreement with the sub-processor which imposes the same obligations on the sub-
+processor as are imposed on the data importer under the Clauses. Where the sub- processor fails to fulfil
+its data protection obligations under such written agreement the data importer shall remain fully liable to
+
+the data exporter for the performance of the sub-processor’s obligations under such agreement.
+
+2.The prior written contract between the data importer and the sub-processor shall also provide for a third-
+party beneficiary clause as laid down in Clause 3 for cases where the data subject is not able to bring the
+claim for compensation referred to in paragraph 1 of Clause 6 against the data exporter or the data
+importer because they have factually disappeared or have ceased to exist in law or have become
+insolvent and no successor entity has assumed the entire legal obligations of the data exporter or data
+importer by contract or by operation of law. Such third-party liability of the sub- processor shall be limited
+
+to its own processing operations under the Clauses.
+
+3.The provisions relating to data protection aspects for sub-processing of the contract referred to in
+paragraph 1 shall be governed by the law of the Member State in which the data exporter is established.
+
+4.The data exporter shall keep a list of sub-processing agreements concluded under the Clauses and
+notified by the data importer pursuant to Clause 5(j), which shall be updated at least once a year. The list
+shall be available to the data exporter’s data protection supervisory authority.
+
+Clause 12 Obligation after the termination of personal data-processing services
+
+1.The parties agree that on the termination of the provision of data-processing services, the data importer
+and the sub-processor shall, at the choice of the data exporter, return all the personal data transferred and
+the copies thereof to the data exporter or shall destroy all the personal data and certify to the data exporter
+that it has done so, unless legislation imposed upon the data importer prevents it from returning or
+destroying all or part of the personal data transferred. In that case, the data importer warrants that it will
+guarantee the confidentiality of the personal data transferred and will not actively process the personal
+
+data transferred anymore.
+
+2.The data importer and the sub-processor warrant that upon request of the data exporter and/or of the
+supervisory authority, it will submit its data-processing facilities for an audit of the measures referred to in
+paragraph 1.
+
+MSA (May 2021) - German Law
+
+27
+
+
+Page 28:
+On behalf of the data exporter:
+Name (written out in full): ...
+Position: ...
+
+Address: ...
+
+Other information necessary in order for the contract to be binding (if any):
+
+Customer's Stamp
+
+Customer’s binding signature:
+
+On behalf of the data importer:
+
+Name: Wolfgang Déring
+Position: General Counsel
+Address: c/o Celonis SE, Theresienstr. 6, 80333 Munich, Germany
+
+MSA (May 2021) - German Law
+
+28
+
+
+Page 29:
+Appendix!
+
+to the Standard Contractual Clauses
+
+This Appendix forms part of the Clauses and must be completed and signed by the parties
+
+The Member States may complete or specify, according to their national procedures, any additional necessary
+information to be contained in this Appendix
+
+Data exporter
+
+The data exporter is (please specify briefly Your activities relevant to the transfer):
+
+Data importer
+
+The data importer is acting as a subprocessor of Celonis SE or one of its affiliated legal entities (each the “Celonis
+Contracting Entity”), which is providing the data exporter with a cloud software solution in the field of process
+
+mining.
+
+In this respect, the data importer’s personnel will operate the cloud infrastructure remotely in particular to cover
+24/7 operations, handle support questions of employees of data exporter on behalf of the respective Celonis
+Contracting Entity and insofar may have access to personal data related to the data importer’s instance of the
+cloud services and create and process support ticket data. Where explicitly requested by data exporter’s
+personnel, data importer may “shadow” users and therefore see contents of the data exporter’s analysed source
+system data.
+
+Data subjects
+
+The personal data transferred concern the following categories of data subjects (please specify):
+
+Employees of the data exporter, customers or suppliers of data exporter. Further data subjects or categories of
+subjects may be agreed by the parties.
+
+Categories of data
+
+The personal data transferred concern the following categories of data (please specify):
+
+Name, user name /D, log and protocol data, business contact information such as telephone and e-mail and
+address data.
+
+Special categories of data (if appropriate)
+
+The personal data transferred concern the following special categories of data (please specify):
+
+Not applicable
+
+Processing operations
+
+29
+MSA (May 2021) - German Law
+
+
+Page 30:
+The personal data transferred will be subject to the following basic processing activities (please specify):
+
+Provision of support services, ticketing of support requests, “shadowing” of users upon their explicit request,
+
+administration services related to cloud service hosting and operation
+
+DATA EXPORTER
+Name:...
+
+Authorised Signature ...
+
+DATA IMPORTER
+Name: Wolfgang Déring
+
+Authorised Signature:
+
+MSA (May 2021) - German Law
+
+30
+
+
+Page 31:
+Appendix 2 - to the Standard Contractual Clauses
+
+This Appendix forms part of the Clauses and must be completed and signed by the parties.
+
+Description of the technical and organisational security measures implemented by the data importer in accordance with
+
+Clauses 4(d) and 5(c):
+. Confidentiality
+
+.1 Entry control
+
+Locked building
+
+Locked offices
+
+Mechanical security locking system
+
+Documented key issuance
+
+Secure areas only accessible for employees with Key Card
+
+Locked server rooms with entry control
+
+Locked server cabinets
+
+Electronic entry control
+
+Daily security service for offices and building
+
+Monitoring of all visitors during their stay in the office
+
+.2. Access control
+
+& Personalized user
+
+Central authentication with a user name and password
+
+Access blocked after too many incorrect password entries
+
+Encrypted notebooks
+
+A secure line connection for external access
+
+Use of an up-to-date firewall
+
+.3 Usage control
+
+Role-based authorization process
+
+Application-specific authentication with user name and password
+
+Logging user usage
+
+Encryption of mobile data media
+
+XI Allocation of authorizations only after approval by the data owner
+
+Protected storage of data media
+
+Destruction of paper documents in compliance with data protection law
+
+Administrative users are kept to a minimum and documented.
+
+.4 Pseudonymization
+
+MSA (February 2021) - German Law
+
+Password convention with a complex password and a minimum number of characters
+
+31
+
+
+Page 32:
+Pseudonymization takes place immediately upon request by the client.
+
+.5 Separation control
+
+Client separation within the data processing system
+
+Separation of productive and test systems
+
+2. Integrity
+
+2.1 Transmission control
+
+VPN connections
+
+The use of private storage media is prohibited
+
+Special protection when physically transporting data media
+
+2.2 Input control
+
+Traceability when assigning, changing and deleting user authorizations
+
+i)
+
+.3 Contractual order control
+
+Documentation of processing activities
+
+Careful selection of processors
+
+No use of processors who have not entered into agreement pursuant to Article 28 GDPR
+
+& Written agreement with the processor on the data protection minimum standard
+
+Appropriate monitoring of the processor
+
+Assuring compliant destruction or return of the data upon completion of the assignment
+
+3. Availability and reliability
+
+Routine documented patch management for end servers
+
+Routine documented patch management for end devices
+
+Downloading security-critical patches within 72 hours
+
+Data storage on storage system
+
+Uninterrupted power supply
+
+Early fire detection
+
+4. Procedure for routine review, assessment, and evaluation
+
+Appointment of a data protection officer
+
+&l Routine documented training of employees involved in data processing
+
+Routine auditing of the procedures
+
+Routine review of the latest technical standards pursuant to Article 32 GDPR
+
+MSA (February 2021) - German Law
+
+32
+
+
+Page 33:
+DATA EXPORTER
+Name:...
+
+Authorised Signature ...
+
+DATA IMPORTER
+Name: Wolfgang Déring
+
+Authorised Signature:
+
+MSA (February 2021) - German Law
+
+33
+
+
